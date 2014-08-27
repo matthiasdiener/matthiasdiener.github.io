@@ -1,19 +1,19 @@
 ---
 layout: page
-title: Research
+title: "Research: Affinity-Based Thread and Data Mapping"
+slug: Research
 permalink: /research/
 ---
 
-# Affinity-Based Thread and Data Mapping
-
 ## Objectives
-* Create a kernel-based mechanism that detects inter-thread and inter-process communication in shared memory.
+
+* Create kernel-based mechanisms that detect inter-thread and inter-process communication in parallel applications based on shared memory programming models.
 * Use the detected communication to improve process and thread mapping, as well as data mapping for NUMA architectures.
 
 
 ## Mechanisms
 
-### SPCD: Inter-Thread Communication Detection (IPDPS 2013)
+#### SPCD: Inter-Thread Communication Detection (IPDPS 2013)
 
 SPCD is a mechanism to detect inter-thread communication of shared-memory based applications. SPCD analyzes the addresses of page faults of the application to detect the communication. To increase the accuracy of the detection and to be able to detect a change in the communication pattern, SPCD introduces additional low-overhead page faults during the execution of the parallel application.
 
@@ -22,7 +22,7 @@ This pattern is analyzed by a mapping algorithm to create an optimized mapping o
 
 SPCD (version 1.0) can be downloaded here.
 
-### kMAF: The kernel memory affinity framework (PACT 2014)
+#### kMAF: The kernel Memory Affinity Framework (PACT 2014)
 
 kMAF extends the basic idea of SPCD to the problem of data mapping in architectures that have a Non-Uniform Memory Access (NUMA) behavior.
 
