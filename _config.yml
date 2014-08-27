@@ -9,3 +9,8 @@ url: "http://yourdomain.com" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
+
+analytics:
+  provider: google
+  google:
+    tracking_id: 'UA-40553066-1'

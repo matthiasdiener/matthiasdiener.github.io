@@ -42,3 +42,12 @@ kMAF extends the basic idea of SPCD to the problem of data mapping in architectu
 * Eduardo H. M. Cruz, <u>Matthias Diener</u>, Marco A. Z. Alves, Philippe O. A. Navaux. **“Dynamic thread mapping of shared memory applications by exploiting cache coherence protocols.”** Journal of Parallel and Distributed Computing (JPDC), March 2014. [[pdf](../files/2014-JPDC-CohMap.pdf)]
 
 * Eduardo H. M. Cruz, <u>Matthias Diener</u>, Philippe O. A. Navaux. **“Using the Translation Lookaside Buffer to Map Threads in Parallel Applications Based on Shared Memory.”** International Parallel & Distributed Processing Symposium (IPDPS), May 2012. [[pdf](../files/2012-IPDPS-TLB.pdf)]
+
+
+<!-- High Performance Computing in the Cloud
+Objectives:
+Evaluate the viability of the Cloud for High Performance Computing (HPC) using various characteristics, such as deployment facilities, performance and cost efficiency.
+Focus on several cloud providers, such as Amazon, Windows Azure and Rackspace and compare them to traditional clusters.
+Publications:
+Eduardo Roloff, Matthias Diener, Alexandre Carissimi, Philippe O. A. Navaux. “High Performance Computing in the Cloud: Deployment, Performance and Cost Efficiency.” IEEE International Conference on Cloud Computing Technology and Science (CloudCom), November 2012. [pdf]
+Eduardo Roloff, Francis Birck, Matthias Diener, Alexandre Carissimi, Philippe O. A. Navaux. “Evaluating High Performance Computing on the Windows Azure Platform.” IEEE International Conference on Cloud Computing (CLOUD), May 2012. [pdf] -->
