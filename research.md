@@ -2,7 +2,6 @@
 layout: page
 title: "Research: Affinity-Based Thread and Data Mapping"
 slug: Research
-permalink: /research/
 ---
 
 ## Main Objectives
