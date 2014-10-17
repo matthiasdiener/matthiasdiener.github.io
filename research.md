@@ -25,6 +25,7 @@ SPCD (version 1.0) can be downloaded [here](../files/spcd-1.0.tar.gz).
 
 kMAF extends the basic idea of SPCD to the problem of data mapping in architectures that have a Non-Uniform Memory Access (NUMA) behavior.
 
+kMAF (version 1.0) can be downloaded [here](../files/kmaf-1.0.tar.xz).
 
 ## Related Publications
 
