@@ -7,9 +7,9 @@ title: Publications
 
 # 2014
 
-* Eduardo H. M. Cruz, <u>Matthias Diener</u>, Marco A. Z. Alves, Laércio L. Pilla, Philippe O. A. Navaux. **"Optimizing Memory Locality Using a Locality-Aware Page Table."** International Symposium on Computer Architecture and High Performance Computing (SBAC-PAD), October 2014.
+* Eduardo H. M. Cruz, <u>Matthias Diener</u>, Marco A. Z. Alves, Laércio L. Pilla, Philippe O. A. Navaux. **"Optimizing Memory Locality Using a Locality-Aware Page Table."** International Symposium on Computer Architecture and High Performance Computing (SBAC-PAD), October 2014. [[pdf](../files/2014-SBAC-LAPT.pdf)]
 
-* Francis B. Moreira, Marco A. Z. Alves, <u>Matthias Diener</u>, Philippe O. A. Navaux, Israel Koren. **"Profiling and Reducing Micro-Architecture Bottlenecks at the Hardware Level."** International Symposium on Computer Architecture and High Performance Computing (SBAC-PAD), October 2014.
+* Francis B. Moreira, Marco A. Z. Alves, <u>Matthias Diener</u>, Philippe O. A. Navaux, Israel Koren. **"Profiling and Reducing Micro-Architecture Bottlenecks at the Hardware Level."** International Symposium on Computer Architecture and High Performance Computing (SBAC-PAD), October 2014. [[pdf](../files/2014-SBAC-BLAP.pdf)]
 
 * **kMAF**: <u>Matthias Diener</u>, Eduardo H. M. Cruz, Philippe O. A. Navaux, Anselm Busse, Hans-Ulrich Heiß. **“kMAF: Automatic Kernel-Level Management of Thread and Data Affinity.”** International Conference on Parallel Architectures and Compilation Techniques (PACT), August 2014.
 [[pdf](../files/2014-PACT-kMAF.pdf)]

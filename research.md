@@ -38,7 +38,7 @@ kMAF (version 1.0) can be downloaded [here](../files/kmaf-1.0.tar.xz).
 
 #### Other mechanisms
 
-* Eduardo H. M. Cruz, <u>Matthias Diener</u>, Marco A. Z. Alves, Laércio L. Pilla, Philippe O. A. Navaux. **"Optimizing Memory Locality Using a Locality-Aware Page Table."**  International Symposium on Computer Architecture and High Performance Computing (SBAC-PAD), October 2014.
+* Eduardo H. M. Cruz, <u>Matthias Diener</u>, Marco A. Z. Alves, Laércio L. Pilla, Philippe O. A. Navaux. **"Optimizing Memory Locality Using a Locality-Aware Page Table."**  International Symposium on Computer Architecture and High Performance Computing (SBAC-PAD), October 2014. [[pdf](../files/2014-SBAC-LAPT.pdf)]
 
 * Eduardo H. M. Cruz, <u>Matthias Diener</u>, Marco A. Z. Alves, Philippe O. A. Navaux. **“Dynamic thread mapping of shared memory applications by exploiting cache coherence protocols.”** Journal of Parallel and Distributed Computing (JPDC), March 2014. [[pdf](../files/2014-JPDC-CohMap.pdf)]
 
