@@ -1,16 +1,18 @@
 ---
 layout: page
-title: "Research: Affinity-Based Thread and Data Mapping"
+title: "Research"
 slug: Research
 ---
 
-## Main Objectives
+## Affinity-Based Thread and Data Mapping
+
+# Main Objectives
 
 * Create kernel-based mechanisms that detect inter-thread and inter-process communication, as well as accesses to memory pages in parallel applications based on shared memory programming models.
 * Use the detected memory access behavior to improve process and thread mapping, as well as data mapping for NUMA architectures.
 
 
-## Mechanisms
+# Mechanisms
 
 ### SPCD: Inter-Thread Communication Detection (IPDPS 2013)
 
@@ -27,7 +29,7 @@ kMAF extends the basic idea of SPCD to the problem of data mapping in architectu
 
 kMAF (version 1.0) can be downloaded [here](../files/kmaf-1.0.tar.xz).
 
-## Related Publications
+# Related Publications
 
 
 #### kMAF and SPCD
@@ -36,7 +38,11 @@ kMAF (version 1.0) can be downloaded [here](../files/kmaf-1.0.tar.xz).
 
 * **SPCD**: <u>Matthias Diener</u>, Eduardo H. M. Cruz, Philippe O. A. Navaux. **“Communication-Based Mapping using Shared Pages.”** International Parallel & Distributed Processing Symposium (IPDPS), May 2013. [[pdf](../files/2013-IPDPS-SPCD.pdf), [ppt](../files/2013-IPDPS-SPCD-presentation.pdf)]
 
-#### Other mechanisms
+#### Other
+
+* <u>Matthias Diener</u>, Eduardo H. M. Cruz, Philippe O. A. Navaux. **“Locality vs. Balance: Exploring Data Mapping Policies on NUMA Systems.”** Euromicro International Conference on Parallel, Distributed, and Network­Based Processing (PDP), March 2015.
+
+* Eduardo H. M. Cruz, <u>Matthias Diener</u>, Laércio L. Pilla, Philippe O. A. Navaux. **“An Efficient Algorithm for Communication­-Based Task Mapping.”** Euromicro International Conference on Parallel, Distributed, and Network­Based Processing (PDP), March 2015.
 
 * Eduardo H. M. Cruz, <u>Matthias Diener</u>, Marco A. Z. Alves, Laércio L. Pilla, Philippe O. A. Navaux. **"Optimizing Memory Locality Using a Locality-Aware Page Table."**  International Symposium on Computer Architecture and High Performance Computing (SBAC-PAD), October 2014. [[pdf](../files/2014-SBAC-LAPT.pdf)]
 
@@ -44,11 +50,22 @@ kMAF (version 1.0) can be downloaded [here](../files/kmaf-1.0.tar.xz).
 
 * Eduardo H. M. Cruz, <u>Matthias Diener</u>, Philippe O. A. Navaux. **“Using the Translation Lookaside Buffer to Map Threads in Parallel Applications Based on Shared Memory.”** International Parallel & Distributed Processing Symposium (IPDPS), May 2012. [[pdf](../files/2012-IPDPS-TLB.pdf)]
 
+* <u>Matthias Diener</u>, Felipe L. Madruga, Eduardo R. Rodrigues, et al. **“Evaluating Thread Placement Based on Memory Access Patterns for Multi-core Processors.”** International Conference on High Performance Computing and Communications (HPCC), September 2010. [[pdf](../files/2010-HPCC-SimpleMap.pdf)]
 
-<!-- High Performance Computing in the Cloud
-Objectives:
-Evaluate the viability of the Cloud for High Performance Computing (HPC) using various characteristics, such as deployment facilities, performance and cost efficiency.
-Focus on several cloud providers, such as Amazon, Windows Azure and Rackspace and compare them to traditional clusters.
-Publications:
-Eduardo Roloff, Matthias Diener, Alexandre Carissimi, Philippe O. A. Navaux. “High Performance Computing in the Cloud: Deployment, Performance and Cost Efficiency.” IEEE International Conference on Cloud Computing Technology and Science (CloudCom), November 2012. [pdf]
-Eduardo Roloff, Francis Birck, Matthias Diener, Alexandre Carissimi, Philippe O. A. Navaux. “Evaluating High Performance Computing on the Windows Azure Platform.” IEEE International Conference on Cloud Computing (CLOUD), May 2012. [pdf] -->
+<br />
+
+----
+
+<br />
+
+## High Performance Computing in the Cloud
+
+# Main Objectives
+
+* Evaluate the viability of the Cloud for High Performance Computing (HPC) using various characteristics, such as deployment facilities, performance and cost efficiency.
+* Focus on several cloud providers, such as Amazon, Windows Azure and Rackspace and compare them to traditional clusters.
+
+# Related Publications
+* Eduardo Roloff, <u>Matthias Diener</u>, Alexandre Carissimi, Philippe O. A. Navaux. **“High Performance Computing in the Cloud: Deployment, Performance and Cost Efficiency.”** International Conference on Cloud Computing Technology and Science (CloudCom), November 2012. [[pdf](../files/2012-CloudCom-CloudMPI.pdf)]
+
+* Eduardo Roloff, Francis Birck, <u>Matthias Diener</u>, Alexandre Carissimi, Philippe O. A. Navaux. **“Evaluating High Performance Computing on the Windows Azure Platform.”** International Conference on Cloud Computing (CLOUD), May 2012. [[pdf](../files/2012-CLOUD-Azure.pdf)]

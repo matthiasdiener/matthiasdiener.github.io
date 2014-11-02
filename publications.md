@@ -5,6 +5,11 @@ title: Publications
 
 [Google Scholar](http://scholar.google.com.br/citations?user=ToWKC8gAAAAJ&hl=en) \| [Currículo Lattes (Portuguese)](http://lattes.cnpq.br/8653611969517458)
 
+# 2015
+
+* <u>Matthias Diener</u>, Eduardo H. M. Cruz, Philippe O. A. Navaux. **“Locality vs. Balance: Exploring Data Mapping Policies on NUMA Systems.”** Euromicro International Conference on Parallel, Distributed, and Network­Based Processing (PDP), March 2015.
+* Eduardo H. M. Cruz, <u>Matthias Diener</u>, Laércio L. Pilla, Philippe O. A. Navaux. **“An Efficient Algorithm for Communication­-Based Task Mapping.”** Euromicro International Conference on Parallel, Distributed, and Network­Based Processing (PDP), March 2015.
+
 # 2014
 
 * Eduardo H. M. Cruz, <u>Matthias Diener</u>, Marco A. Z. Alves, Laércio L. Pilla, Philippe O. A. Navaux. **"Optimizing Memory Locality Using a Locality-Aware Page Table."** International Symposium on Computer Architecture and High Performance Computing (SBAC-PAD), October 2014. [[pdf](../files/2014-SBAC-LAPT.pdf)]
@@ -38,4 +43,4 @@ title: Publications
 
 # 2010
 
-* &thinsp;<u>Matthias Diener</u>, Felipe L. Madruga, Eduardo R. Rodrigues, et al. **“Evaluating Thread Placement Based on Memory Access Patterns for Multi-core Processors.”** International Conference on High Performance Computing and Communications (HPCC), September 2010. [[pdf](../files/2010-HPCC-SimpleMap.pdf)]
+* <u>Matthias Diener</u>, Felipe L. Madruga, Eduardo R. Rodrigues, et al. **“Evaluating Thread Placement Based on Memory Access Patterns for Multi-core Processors.”** International Conference on High Performance Computing and Communications (HPCC), September 2010. [[pdf](../files/2010-HPCC-SimpleMap.pdf)]
