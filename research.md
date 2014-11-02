@@ -40,7 +40,7 @@ kMAF (version 1.0) can be downloaded [here](../files/kmaf-1.0.tar.xz).
 
 #### Other
 
-* <u>Matthias Diener</u>, Eduardo H. M. Cruz, Philippe O. A. Navaux. **“Locality vs. Balance: Exploring Data Mapping Policies on NUMA Systems.”** Euromicro International Conference on Parallel, Distributed, and Network­Based Processing (PDP), March 2015.
+* &thinsp;<u>Matthias Diener</u>, Eduardo H. M. Cruz, Philippe O. A. Navaux. **“Locality vs. Balance: Exploring Data Mapping Policies on NUMA Systems.”** Euromicro International Conference on Parallel, Distributed, and Network­Based Processing (PDP), March 2015.
 
 * Eduardo H. M. Cruz, <u>Matthias Diener</u>, Laércio L. Pilla, Philippe O. A. Navaux. **“An Efficient Algorithm for Communication­-Based Task Mapping.”** Euromicro International Conference on Parallel, Distributed, and Network­Based Processing (PDP), March 2015.
 
@@ -50,7 +50,7 @@ kMAF (version 1.0) can be downloaded [here](../files/kmaf-1.0.tar.xz).
 
 * Eduardo H. M. Cruz, <u>Matthias Diener</u>, Philippe O. A. Navaux. **“Using the Translation Lookaside Buffer to Map Threads in Parallel Applications Based on Shared Memory.”** International Parallel & Distributed Processing Symposium (IPDPS), May 2012. [[pdf](../files/2012-IPDPS-TLB.pdf)]
 
-* <u>Matthias Diener</u>, Felipe L. Madruga, Eduardo R. Rodrigues, et al. **“Evaluating Thread Placement Based on Memory Access Patterns for Multi-core Processors.”** International Conference on High Performance Computing and Communications (HPCC), September 2010. [[pdf](../files/2010-HPCC-SimpleMap.pdf)]
+* &thinsp;<u>Matthias Diener</u>, Felipe L. Madruga, Eduardo R. Rodrigues, et al. **“Evaluating Thread Placement Based on Memory Access Patterns for Multi-core Processors.”** International Conference on High Performance Computing and Communications (HPCC), September 2010. [[pdf](../files/2010-HPCC-SimpleMap.pdf)]
 
 <br />
 
