@@ -7,8 +7,8 @@ title: Publications
 
 # 2015
 
-* &thinsp;<u>Matthias Diener</u>, Eduardo H. M. Cruz, Philippe O. A. Navaux. **“Locality vs. Balance: Exploring Data Mapping Policies on NUMA Systems.”** Euromicro International Conference on Parallel, Distributed, and Network­Based Processing (PDP), March 2015.
-* Eduardo H. M. Cruz, <u>Matthias Diener</u>, Laércio L. Pilla, Philippe O. A. Navaux. **“An Efficient Algorithm for Communication­-Based Task Mapping.”** Euromicro International Conference on Parallel, Distributed, and Network­Based Processing (PDP), March 2015.
+* &thinsp;<u>Matthias Diener</u>, Eduardo H. M. Cruz, Philippe O. A. Navaux. **“Locality vs. Balance: Exploring Data Mapping Policies on NUMA Systems.”** Euromicro International Conference on Parallel, Distributed, and Network­-Based Processing (PDP), March 2015.
+* Eduardo H. M. Cruz, <u>Matthias Diener</u>, Laércio L. Pilla, Philippe O. A. Navaux. **“An Efficient Algorithm for Communication­-Based Task Mapping.”** Euromicro International Conference on Parallel, Distributed, and Network­-Based Processing (PDP), March 2015.
 
 # 2014
 
