@@ -7,6 +7,7 @@ title: Publications
 
 # 2015
 
+* Anselm Busse, Jan Schönherr, <u>Matthias Diener</u>, Philippe O. A. Navaux, Hans-Ulrich Heiß, **“Partial Coscheduling of Virtual Machines Based on Memory Access Patterns”** ACM Symposium on Applied Computing (SAC), April 2015.
 * &thinsp;<u>Matthias Diener</u>, Eduardo H. M. Cruz, Philippe O. A. Navaux. **“Locality vs. Balance: Exploring Data Mapping Policies on NUMA Systems.”** Euromicro International Conference on Parallel, Distributed, and Network­-Based Processing (PDP), March 2015.
 * Eduardo H. M. Cruz, <u>Matthias Diener</u>, Laércio L. Pilla, Philippe O. A. Navaux. **“An Efficient Algorithm for Communication­-Based Task Mapping.”** Euromicro International Conference on Parallel, Distributed, and Network­-Based Processing (PDP), March 2015.
 
