@@ -23,6 +23,11 @@ This pattern is analyzed by a mapping algorithm to create an optimized mapping o
 
 SPCD (version 1.0) can be downloaded [here](../files/spcd-1.0.tar.gz).
 
+### CDSM: Inter-process and inter-thread communication detection (PARCO 2015)
+
+CDSM is an extension of SPCD and supports detecting communication between different processes as well as between threads. In this way, the mapping can be performed for applications that use multi-process parallel programming models (such as MPI) and mixed programming models (such as MPI and OpenMP).
+Since processes use different virtual memory address spaces (at least on Linux), detection needs to be performed using the physical address.
+
 ### kMAF: The kernel Memory Affinity Framework (PACT 2014)
 
 kMAF extends the basic idea of SPCD to the problem of data mapping in architectures that have a Non-Uniform Memory Access (NUMA) behavior.
@@ -32,11 +37,13 @@ kMAF (version 1.0) can be downloaded [here](../files/kmaf-1.0.tar.xz).
 # Related Publications
 
 
-#### kMAF and SPCD
+#### SPCD, CDSM and kMAF
+* **SPCD**: <u>Matthias Diener</u>, Eduardo H. M. Cruz, Philippe O. A. Navaux. **“Communication-Based Mapping using Shared Pages.”** International Parallel & Distributed Processing Symposium (IPDPS), May 2013. [[pdf](../files/2013-IPDPS-SPCD.pdf), [ppt](../files/2013-IPDPS-SPCD-presentation.pdf)]
+
+* **CDSM**: <u>Matthias Diener</u>, Eduardo H. M. Cruz, Philippe O. A. Navaux, Anselm Busse, Hans-Ulrich Heiß. **Communication-Aware Process and Thread Mapping Using Online Communication Detection**, Parallel Computing (PARCO), 2015 (accepted for publication).
+
 * **kMAF**: <u>Matthias Diener</u>, Eduardo H. M. Cruz, Philippe O. A. Navaux, Anselm Busse, Hans-Ulrich Heiß. **“kMAF: Automatic Kernel-Level Management of Thread and Data Affinity.”** International Conference on Parallel Architectures and Compilation Techniques (PACT), August 2014.
 [[pdf](../files/2014-PACT-kMAF.pdf)]
-
-* **SPCD**: <u>Matthias Diener</u>, Eduardo H. M. Cruz, Philippe O. A. Navaux. **“Communication-Based Mapping using Shared Pages.”** International Parallel & Distributed Processing Symposium (IPDPS), May 2013. [[pdf](../files/2013-IPDPS-SPCD.pdf), [ppt](../files/2013-IPDPS-SPCD-presentation.pdf)]
 
 #### Other
 
