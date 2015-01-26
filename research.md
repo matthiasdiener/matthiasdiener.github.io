@@ -28,6 +28,8 @@ SPCD (version 1.0) can be downloaded [here](../files/spcd-1.0.tar.gz).
 CDSM is an extension of SPCD and supports detecting communication between different processes as well as between threads. In this way, the mapping can be performed for applications that use multi-process parallel programming models (such as MPI) and mixed programming models (such as MPI and OpenMP).
 Since processes use different virtual memory address spaces (at least on Linux), detection needs to be performed using the physical address.
 
+CDSM (version 1.0) can be downloaded [here](../files/cdsm-1.0.tar.gz).
+
 ### kMAF: The kernel Memory Affinity Framework (PACT 2014)
 
 kMAF extends the basic idea of SPCD to the problem of data mapping in architectures that have a Non-Uniform Memory Access (NUMA) behavior.
