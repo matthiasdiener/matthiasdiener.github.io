@@ -7,6 +7,9 @@ title: Publications
 
 # 2015
 
+* <u>Matthias Diener</u>, Eduardo H. M. Cruz, Marco A. Z. Alves, Mohammad S. Alhakeem, Philippe O. A. Navaux, Hans-Ulrich Heiß. **“Locality and Balance for Communication-Aware
+Thread Mapping in Multicore Systems.”** Euro-Par, 2015 (accepted for publication).
+
 * **Numalize**: <u>Matthias Diener</u>, Eduardo H. M. Cruz, Laércio L. Pilla, Fabrice Dupros, Philippe O. A. Navaux. **“Characterizing Communication and Page Usage of Parallel Applications for Thread and Data Mapping.”** Performance Evaluation, 2015 (accepted for publication). [[pdf](../files/2015-PEVA-Numalize.pdf)]
 
 * Eduardo H. M. Cruz, <u>Matthias Diener</u>, Philippe O. A. Navaux. **“Communication-Aware Thread Mapping Using the Translation Lookaside Buffer.”** Concurrency and Computation: Practice and Experience, 2015 (accepted for publication).
