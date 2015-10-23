@@ -7,7 +7,7 @@ title: Publications
 
 # 2015
 
-* Eduardo H. M. Cruz, <u>Matthias Diener</u>, Marco A. Z. Alves, Laércio L. Pilla, Philippe O. A. Navaux. **“LAPT: A Locality-Aware Page Table for Thread and Data Mapping.”** Parallel Computing (PARCO), 2015 (accepted for publication)
+* Eduardo H. M. Cruz, <u>Matthias Diener</u>, Marco A. Z. Alves, Laércio L. Pilla, Philippe O. A. Navaux. **“LAPT: A Locality-Aware Page Table for Thread and Data Mapping.”** Parallel Computing (PARCO), 2015 (accepted for publication).
 
 * <u>Matthias Diener</u>, Eduardo H. M. Cruz, Marco A. Z. Alves, Mohammad S. Alhakeem, Philippe O. A. Navaux, Hans-Ulrich Heiß. **“Locality and Balance for Communication-Aware
 Thread Mapping in Multicore Systems.”** Euro-Par, August 2015. [[pdf](../files/2015-Europar-Threadmap.pdf)]
