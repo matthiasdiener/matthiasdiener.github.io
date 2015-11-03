@@ -5,6 +5,10 @@ title: Publications
 
 [Google Scholar](http://scholar.google.com.br/citations?user=ToWKC8gAAAAJ&hl=en) \| [Currículo Lattes (Portuguese)](http://lattes.cnpq.br/8653611969517458)
 
+# 2016
+
+* Marco A. Z. Alves, <u>Matthias Diener</u>, Paulo Santos, Luigi Carro. **“Large Vector Extensions inside the HMC.”** Design, Automation and Test in Europe (DATE), March 2016.
+
 # 2015
 
 * Eduardo H. M. Cruz, <u>Matthias Diener</u>, Marco A. Z. Alves, Laércio L. Pilla, Philippe O. A. Navaux. **“LAPT: A Locality-Aware Page Table for Thread and Data Mapping.”** Parallel Computing (PARCO), 2015 (accepted for publication).
