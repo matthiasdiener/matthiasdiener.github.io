@@ -3,7 +3,7 @@ layout: page
 title: Publications
 ---
 
-[Google Scholar](http://scholar.google.com.br/citations?user=ToWKC8gAAAAJ&hl=en) \| [Currículo Lattes (Portuguese)](http://lattes.cnpq.br/8653611969517458)
+[Google Scholar](http://scholar.google.com/citations?user=ToWKC8gAAAAJ&hl=en) \| [Currículo Lattes (Portuguese)](http://lattes.cnpq.br/8653611969517458)
 
 # 2016
 
