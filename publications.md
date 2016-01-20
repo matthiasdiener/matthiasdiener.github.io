@@ -21,17 +21,17 @@ title: Publications
 
 * Eduardo H. M. Cruz, <u>Matthias Diener</u>, Marco A. Z. Alves, Laércio L. Pilla, Philippe O. A. Navaux. **“LAPT: A Locality-Aware Page Table for Thread and Data Mapping.”** Parallel Computing (PARCO), 2015 (accepted for publication).
 
-* David Beniamine, <u>Matthias Diener</u>, Guillaume Huard, Philippe O. A. Navaux. **“TABARNAC: Visualizing and Resolving Memory Access Issues on NUMA Architectures.”** Workshop on Visual Performance Analysis (VPA), held in conjunction with SC15, November 2015.
+* David Beniamine, <u>Matthias Diener</u>, Guillaume Huard, Philippe O. A. Navaux. **“TABARNAC: Visualizing and Resolving Memory Access Issues on NUMA Architectures.”** Workshop on Visual Performance Analysis (VPA), held in conjunction with SC15, November 2015. [[pdf](../files/2015-VPA-Tabarnac.pdf)]
 
-* Marco A. Z. Alves, Paulo C. Santos, Francis B. Moreira, <u>Matthias Diener</u>, Luigi Carro. **“Saving Memory Movements Through Vector Processing in the DRAM.”** International Conference on Compilers, Architecture, and Synthesis for Embedded Systems (CASES), October 2015.
+* Marco A. Z. Alves, Paulo C. Santos, Francis B. Moreira, <u>Matthias Diener</u>, Luigi Carro. **“Saving Memory Movements Through Vector Processing in the DRAM.”** International Conference on Compilers, Architecture, and Synthesis for Embedded Systems (CASES), October 2015. [[pdf](../files/2015-CASES-MVX.pdf)]
 
-* Marco A. Z. Alves, Paulo C. Santos, <u>Matthias Diener</u>, Luigi Carro. **“Opportunities and Challenges of Performing Vector Operations inside the DRAM.”** International Symposium on Memory Systems (MEMSYS), October 2015.
+* Marco A. Z. Alves, Paulo C. Santos, <u>Matthias Diener</u>, Luigi Carro. **“Opportunities and Challenges of Performing Vector Operations inside the DRAM.”** International Symposium on Memory Systems (MEMSYS), October 2015. [[pdf](../files/2015-MEMSYS-MVX2.pdf)]
 
 * <u>Matthias Diener</u>, Eduardo H. M. Cruz, Marco A. Z. Alves, Mohammad S. Alhakeem, Philippe O. A. Navaux, Hans-Ulrich Heiß. **“Locality and Balance for Communication-Aware Thread Mapping in Multicore Systems.”** Euro-Par, August 2015. [[pdf](../files/2015-Europar-Threadmap.pdf)]
 
-* Marco A. Z. Alves, Carlos Villavieja, <u>Matthias Diener</u>, Francis B. Moreira, Philippe O. A. Navaux. **“SiNUCA: A Validated Micro-Architecture Simulator.”** International Conference on High Performance Computing and Communications (HPCC), August 2015.
+* Marco A. Z. Alves, Carlos Villavieja, <u>Matthias Diener</u>, Francis B. Moreira, Philippe O. A. Navaux. **“SiNUCA: A Validated Micro-Architecture Simulator.”** International Conference on High Performance Computing and Communications (HPCC), August 2015. [[pdf](../files/2015-HPCC-Sinuca.pdf)]
 
-* Marco A. Z. Alves, Paulo C. Santos, <u>Matthias Diener</u>, Luigi Carro. **“Reconfigurable Vector Extensions inside the DRAM.”** International Symposium on Reconfigurable Communication-centric Systems-on-Chip (ReCoSoC), June 2015.
+* Marco A. Z. Alves, Paulo C. Santos, <u>Matthias Diener</u>, Luigi Carro. **“Reconfigurable Vector Extensions inside the DRAM.”** International Symposium on Reconfigurable Communication-centric Systems-on-Chip (ReCoSoC), June 2015. [[pdf](../files/2015-Recosoc-RVX.pdf)]
 
 * **Numalize**: <u>Matthias Diener</u>, Eduardo H. M. Cruz, Laércio L. Pilla, Fabrice Dupros, Philippe O. A. Navaux. **“Characterizing Communication and Page Usage of Parallel Applications for Thread and Data Mapping.”** Performance Evaluation, June 2015. [[pdf](../files/2015-PEVA-Numalize.pdf)]
 
