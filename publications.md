@@ -9,12 +9,25 @@ title: Publications
 
 * Marco A. Z. Alves, <u>Matthias Diener</u>, Paulo Santos, Luigi Carro. **“Large Vector Extensions inside the HMC.”** Design, Automation and Test in Europe (DATE), March 2016.
 
+* <u>Matthias Diener</u>, Eduardo Cruz, Marco A. Z. Alves,  Philippe O. A. Navaux. **“Communication in Shared Memory: Concepts, Definitions, and Efficient Detection.”** International Conference on Parallel, Distributed, and Network-Based Processing (PDP), February 2016.
+
+* Artur Mariano, <u>Matthias Diener</u>, Christian Bischof and Philippe O. A. Navaux. **“Analyzing and Improving Memory Access Patterns of Large Irregular Applications on NUMA Machines.”** International Conference on Parallel, Distributed, and Network-Based Processing (PDP), February 2016.
+
+* Paulo Cesar Santos, Marco A. Z. Alves, <u>Matthias Diener</u>, Luigi Carro and Philippe O. A. Navaux. **“Exploring Cache Size and Core Count Tradeoffs in Systems with Reduced Memory Access Latency.”** International Conference on Parallel, Distributed, and Network-Based Processing (PDP), February 2016.
+
 # 2015
+
+* <u>Matthias Diener</u>, Eduardo H. M. Cruz, Marco A. Z. Alves, Philippe O. A. Navaux, Anselm Busse, Hans-Ulrich Heiss. **“Kernel-Based Thread and Data Mapping for Improved Memory Affinity.”** IEEE Transactions on Parallel and Distributed Systems (TPDS), 2015 (accepted for publication).
 
 * Eduardo H. M. Cruz, <u>Matthias Diener</u>, Marco A. Z. Alves, Laércio L. Pilla, Philippe O. A. Navaux. **“LAPT: A Locality-Aware Page Table for Thread and Data Mapping.”** Parallel Computing (PARCO), 2015 (accepted for publication).
 
-* <u>Matthias Diener</u>, Eduardo H. M. Cruz, Marco A. Z. Alves, Mohammad S. Alhakeem, Philippe O. A. Navaux, Hans-Ulrich Heiß. **“Locality and Balance for Communication-Aware
-Thread Mapping in Multicore Systems.”** Euro-Par, August 2015. [[pdf](../files/2015-Europar-Threadmap.pdf)]
+* David Beniamine, <u>Matthias Diener</u>, Guillaume Huard, Philippe O. A. Navaux. **“TABARNAC: Visualizing and Resolving Memory Access Issues on NUMA Architectures.”** Workshop on Visual Performance Analysis (VPA), held in conjunction with SC15, November 2015.
+
+* Marco A. Z. Alves, Paulo C. Santos, Francis B. Moreira, <u>Matthias Diener</u>, Luigi Carro. **“Saving Memory Movements Through Vector Processing in the DRAM.”** International Conference on Compilers, Architecture, and Synthesis for Embedded Systems (CASES), October 2015.
+
+* <u>Matthias Diener</u>, Eduardo H. M. Cruz, Marco A. Z. Alves, Mohammad S. Alhakeem, Philippe O. A. Navaux, Hans-Ulrich Heiß. **“Locality and Balance for Communication-Aware Thread Mapping in Multicore Systems.”** Euro-Par, August 2015. [[pdf](../files/2015-Europar-Threadmap.pdf)]
+
+* Marco A. Z. Alves, Paulo C. Santos, <u>Matthias Diener</u>, Luigi Carro. **“Reconfigurable Vector Extensions inside the DRAM.”** International Symposium on Reconfigurable Communication-centric Systems-on-Chip (ReCoSoC), June 2015.
 
 * **Numalize**: <u>Matthias Diener</u>, Eduardo H. M. Cruz, Laércio L. Pilla, Fabrice Dupros, Philippe O. A. Navaux. **“Characterizing Communication and Page Usage of Parallel Applications for Thread and Data Mapping.”** Performance Evaluation, June 2015. [[pdf](../files/2015-PEVA-Numalize.pdf)]
 
