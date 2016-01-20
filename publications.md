@@ -25,7 +25,11 @@ title: Publications
 
 * Marco A. Z. Alves, Paulo C. Santos, Francis B. Moreira, <u>Matthias Diener</u>, Luigi Carro. **“Saving Memory Movements Through Vector Processing in the DRAM.”** International Conference on Compilers, Architecture, and Synthesis for Embedded Systems (CASES), October 2015.
 
+* Marco A. Z. Alves, Paulo C. Santos, <u>Matthias Diener</u>, Luigi Carro. **“Opportunities and Challenges of Performing Vector Operations inside the DRAM.”** International Symposium on Memory Systems (MEMSYS), October 2015.
+
 * <u>Matthias Diener</u>, Eduardo H. M. Cruz, Marco A. Z. Alves, Mohammad S. Alhakeem, Philippe O. A. Navaux, Hans-Ulrich Heiß. **“Locality and Balance for Communication-Aware Thread Mapping in Multicore Systems.”** Euro-Par, August 2015. [[pdf](../files/2015-Europar-Threadmap.pdf)]
+
+* Marco A. Z. Alves, Carlos Villavieja, <u>Matthias Diener</u>, Francis B. Moreira, Philippe O. A. Navaux. **“SiNUCA: A Validated Micro-Architecture Simulator.”** International Conference on High Performance Computing and Communications (HPCC), August 2015.
 
 * Marco A. Z. Alves, Paulo C. Santos, <u>Matthias Diener</u>, Luigi Carro. **“Reconfigurable Vector Extensions inside the DRAM.”** International Symposium on Reconfigurable Communication-centric Systems-on-Chip (ReCoSoC), June 2015.
 
@@ -47,8 +51,7 @@ title: Publications
 
 * Francis B. Moreira, Marco A. Z. Alves, <u>Matthias Diener</u>, Philippe O. A. Navaux, Israel Koren. **"Profiling and Reducing Micro-Architecture Bottlenecks at the Hardware Level."** International Symposium on Computer Architecture and High Performance Computing (SBAC-PAD), October 2014. [[pdf](../files/2014-SBAC-BLAP.pdf)]
 
-* **kMAF**: <u>Matthias Diener</u>, Eduardo H. M. Cruz, Philippe O. A. Navaux, Anselm Busse, Hans-Ulrich Heiß. **"kMAF: Automatic Kernel-Level Management of Thread and Data Affinity."** International Conference on Parallel Architectures and Compilation Techniques (PACT), August 2014.
-[[pdf](../files/2014-PACT-kMAF.pdf)]
+* **kMAF**: <u>Matthias Diener</u>, Eduardo H. M. Cruz, Philippe O. A. Navaux, Anselm Busse, Hans-Ulrich Heiß. **"kMAF: Automatic Kernel-Level Management of Thread and Data Affinity."** International Conference on Parallel Architectures and Compilation Techniques (PACT), August 2014. [[pdf](../files/2014-PACT-kMAF.pdf)]
 
 * Eduardo H. M. Cruz, <u>Matthias Diener</u>, Marco A. Z. Alves, Philippe O. A. Navaux. **"Dynamic thread mapping of shared memory applications by exploiting cache coherence protocols."** Journal of Parallel and Distributed Computing (JPDC), March 2014. [[pdf](../files/2014-JPDC-CohMap.pdf)]
 
