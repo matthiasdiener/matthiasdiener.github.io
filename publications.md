@@ -7,6 +7,8 @@ title: Publications
 
 # 2016
 
+* Emmanuell D. Carreño, <u>Matthias Diener</u>, Eduardo H. M. Cruz, Philippe O. A. Navaux. **“Automatic Communication Optimization of Parallel Applications in Public Clouds.”** International Symposium on Cluster, Cloud and Grid Computing (CCGrid), May 2016.
+
 * Marco A. Z. Alves, <u>Matthias Diener</u>, Paulo Santos, Luigi Carro. **“Large Vector Extensions inside the HMC.”** Design, Automation and Test in Europe (DATE), March 2016.
 
 * <u>Matthias Diener</u>, Eduardo Cruz, Marco A. Z. Alves,  Philippe O. A. Navaux. **“Communication in Shared Memory: Concepts, Definitions, and Efficient Detection.”** International Conference on Parallel, Distributed, and Network-Based Processing (PDP), February 2016.

@@ -62,6 +62,8 @@ kMAF can be found [here](https://github.com/matthiasdiener/kmaf).
 * Focus on several cloud providers, such as Amazon, Windows Azure and Rackspace and compare them to traditional clusters.
 
 # Related Publications
+* Emmanuell D. Carreño, <u>Matthias Diener</u>, Eduardo H. M. Cruz, Philippe O. A. Navaux. **“Automatic Communication Optimization of Parallel Applications in Public Clouds.”** International Symposium on Cluster, Cloud and Grid Computing (CCGrid), May 2016.
+
 * Eduardo Roloff, <u>Matthias Diener</u>, Alexandre Carissimi, Philippe O. A. Navaux. **“High Performance Computing in the Cloud: Deployment, Performance and Cost Efficiency.”** International Conference on Cloud Computing Technology and Science (CloudCom), November 2012. [[pdf](../files/2012-CloudCom-CloudMPI.pdf)]
 
 * Eduardo Roloff, Francis Birck, <u>Matthias Diener</u>, Alexandre Carissimi, Philippe O. A. Navaux. **“Evaluating High Performance Computing on the Windows Azure Platform.”** International Conference on Cloud Computing (CLOUD), May 2012. [[pdf](../files/2012-CLOUD-Azure.pdf)]
