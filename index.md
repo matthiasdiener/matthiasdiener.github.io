@@ -3,7 +3,7 @@ layout: page
 ---
 
 # **Matthias Diener**
-PhD Student<br>
+PhD<br>
 Parallel and Distributed Processing Group (GPPD)<br>
 Federal University of Rio Grande do Sul (UFRGS), Porto Alegre, Brazil<br>
 
