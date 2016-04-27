@@ -7,7 +7,11 @@ title: Publications
 
 # 2016
 
+* <u>Matthias Diener</u>, Eduardo Cruz, Philippe O. A. Navaux. **“Modeling Memory Access Behavior for Data Mapping.”** International Journal of High Performance Computing Applications (IJHPCA), 2016.
+
 * Eduardo H. M. Cruz, <u>Matthias Diener</u>, Laércio L. Pilla, Philippe O. A. Navaux. **“A Sharing-Aware Memory Management Unit for Online Mapping in Multi-Core Architectures.”** Euro-Par, August 2016.
+
+* Francis B. Moreira, Marco A. Z. Alves, <u>Matthias Diener</u>, Philippe O. A. Navaux, Israel Koren. **“A Dynamic Block-Level Execution Profiler.”**, Parallel Computing (PARCO), 2016.
 
 * Emmanuell D. Carreño, <u>Matthias Diener</u>, Eduardo H. M. Cruz, Philippe O. A. Navaux. **“Automatic Communication Optimization of Parallel Applications in Public Clouds.”** International Symposium on Cluster, Cloud and Grid Computing (CCGrid), May 2016.
 
@@ -21,9 +25,9 @@ title: Publications
 
 # 2015
 
-* <u>Matthias Diener</u>, Eduardo H. M. Cruz, Marco A. Z. Alves, Philippe O. A. Navaux, Anselm Busse, Hans-Ulrich Heiss. **“Kernel-Based Thread and Data Mapping for Improved Memory Affinity.”** IEEE Transactions on Parallel and Distributed Systems (TPDS), 2015 (accepted for publication).
+* <u>Matthias Diener</u>, Eduardo H. M. Cruz, Marco A. Z. Alves, Philippe O. A. Navaux, Anselm Busse, Hans-Ulrich Heiss. **“Kernel-Based Thread and Data Mapping for Improved Memory Affinity.”** IEEE Transactions on Parallel and Distributed Systems (TPDS), 2015.
 
-* Eduardo H. M. Cruz, <u>Matthias Diener</u>, Marco A. Z. Alves, Laércio L. Pilla, Philippe O. A. Navaux. **“LAPT: A Locality-Aware Page Table for Thread and Data Mapping.”** Parallel Computing (PARCO), 2015 (accepted for publication).
+* Eduardo H. M. Cruz, <u>Matthias Diener</u>, Marco A. Z. Alves, Laércio L. Pilla, Philippe O. A. Navaux. **“LAPT: A Locality-Aware Page Table for Thread and Data Mapping.”** Parallel Computing (PARCO), 2015.
 
 * David Beniamine, <u>Matthias Diener</u>, Guillaume Huard, Philippe O. A. Navaux. **“TABARNAC: Visualizing and Resolving Memory Access Issues on NUMA Architectures.”** Workshop on Visual Performance Analysis (VPA), held in conjunction with SC15, November 2015. [[pdf](../files/2015-VPA-Tabarnac.pdf)]
 
@@ -45,7 +49,7 @@ title: Publications
 
 * Anselm Busse, Jan Schönherr, <u>Matthias Diener</u>, Philippe O. A. Navaux, Hans-Ulrich Heiß, **"Partial Coscheduling of Virtual Machines Based on Memory Access Patterns."** ACM Symposium on Applied Computing (SAC), April 2015. [[pdf](../files/2014-SAC-Gang.pdf)]
 
-* &thinsp;<u>Matthias Diener</u>, Eduardo H. M. Cruz, Philippe O. A. Navaux. **"Locality vs. Balance: Exploring Data Mapping Policies on NUMA Systems."** International Conference on Parallel, Distributed, and Network-Based Processing (PDP), March 2015. [[pdf](../files/2015-PDP-Locality.pdf), [ppt](../files/2015-PDP-Locality-presentation.pdf)]
+* <u>Matthias Diener</u>, Eduardo H. M. Cruz, Philippe O. A. Navaux. **"Locality vs. Balance: Exploring Data Mapping Policies on NUMA Systems."** International Conference on Parallel, Distributed, and Network-Based Processing (PDP), March 2015. [[pdf](../files/2015-PDP-Locality.pdf), [ppt](../files/2015-PDP-Locality-presentation.pdf)]
 
 * Eduardo H. M. Cruz, <u>Matthias Diener</u>, Laércio L. Pilla, Philippe O. A. Navaux. **"An Efficient Algorithm for Communication-Based Task Mapping."** International Conference on Parallel, Distributed, and Network-Based Processing (PDP), March 2015. [[pdf](../files/2015-PDP-EagerMap.pdf), [ppt](../files/2015-PDP-EagerMap-presentation.pdf)]
 
@@ -81,4 +85,4 @@ title: Publications
 
 # 2010
 
-* &thinsp;<u>Matthias Diener</u>, Felipe L. Madruga, Eduardo R. Rodrigues, et al. **"Evaluating Thread Placement Based on Memory Access Patterns for Multi-core Processors."** International Conference on High Performance Computing and Communications (HPCC), September 2010. [[pdf](../files/2010-HPCC-SimpleMap.pdf)]
+* <u>Matthias Diener</u>, Felipe L. Madruga, Eduardo R. Rodrigues, et al. **"Evaluating Thread Placement Based on Memory Access Patterns for Multi-core Processors."** International Conference on High Performance Computing and Communications (HPCC), September 2010. [[pdf](../files/2010-HPCC-SimpleMap.pdf)]
