@@ -7,7 +7,7 @@ title: Publications
 
 # 2016
 
-* <u>Matthias Diener</u>, Eduardo Cruz, Philippe O. A. Navaux. **“Modeling Memory Access Behavior for Data Mapping.”** International Journal of High Performance Computing Applications (IJHPCA), 2016.
+* <u>Matthias Diener</u>, Eduardo H. M. Cruz, Philippe O. A. Navaux. **“Modeling Memory Access Behavior for Data Mapping.”** International Journal of High Performance Computing Applications (IJHPCA), 2016.
 
 * Eduardo H. M. Cruz, <u>Matthias Diener</u>, Laércio L. Pilla, Philippe O. A. Navaux. **“A Sharing-Aware Memory Management Unit for Online Mapping in Multi-Core Architectures.”** Euro-Par, August 2016.
 
