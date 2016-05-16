@@ -51,7 +51,7 @@ title: Publications
 
 * <u>Matthias Diener</u>, Eduardo H. M. Cruz, Philippe O. A. Navaux. **“Locality vs. Balance: Exploring Data Mapping Policies on NUMA Systems.”** International Conference on Parallel, Distributed, and Network-Based Processing (PDP), March 2015. [[pdf](../files/2015-PDP-Locality.pdf), [ppt](../files/2015-PDP-Locality-presentation.pdf)]
 
-* Eduardo H. M. Cruz, <u>Matthias Diener</u>, Laércio L. Pilla, Philippe O. A. Navaux. **“An Efficient Algorithm for Communication-Based Task Mapping.”** International Conference on Parallel, Distributed, and Network-Based Processing (PDP), March 2015. [[pdf](../files/2015-PDP-EagerMap.pdf), [ppt](../files/2015-PDP-EagerMap-presentation.pdf)]
+* Eduardo H. M. Cruz, <u>Matthias Diener</u>, Laércio L. Pilla, Philippe O. A. Navaux. **“An Efficient Algorithm for Communication-Based Task Mapping.”** International Conference on Parallel, Distributed, and Network-Based Processing (PDP), March 2015. [[pdf](../files/2015-PDP-EagerMap.pdf), [ppt](../files/2015-PDP-EagerMap-presentation.pdf)] **Best Paper award**
 
 # 2014
 
@@ -59,7 +59,7 @@ title: Publications
 
 * Francis B. Moreira, Marco A. Z. Alves, <u>Matthias Diener</u>, Philippe O. A. Navaux, Israel Koren. **“Profiling and Reducing Micro-Architecture Bottlenecks at the Hardware Level.”** International Symposium on Computer Architecture and High Performance Computing (SBAC-PAD), October 2014. [[pdf](../files/2014-SBAC-BLAP.pdf)]
 
-* **kMAF**: <u>Matthias Diener</u>, Eduardo H. M. Cruz, Philippe O. A. Navaux, Anselm Busse, Hans-Ulrich Heiß. **“kMAF: Automatic Kernel-Level Management of Thread and Data Affinity.”** International Conference on Parallel Architectures and Compilation Techniques (PACT), August 2014. [[pdf](../files/2014-PACT-kMAF.pdf)]
+* **kMAF**: <u>Matthias Diener</u>, Eduardo H. M. Cruz, Philippe O. A. Navaux, Anselm Busse, Hans-Ulrich Heiß. **“kMAF: Automatic Kernel-Level Management of Thread and Data Affinity.”** International Conference on Parallel Architectures and Compilation Techniques (PACT), August 2014. [[pdf](../files/2014-PACT-kMAF.pdf), [ppt](../files/2014-PACT-kMAF-presentation.pdf)]
 
 * Eduardo H. M. Cruz, <u>Matthias Diener</u>, Marco A. Z. Alves, Philippe O. A. Navaux. **“Dynamic thread mapping of shared memory applications by exploiting cache coherence protocols.”** Journal of Parallel and Distributed Computing (JPDC), March 2014. [[pdf](../files/2014-JPDC-CohMap.pdf)]
 
