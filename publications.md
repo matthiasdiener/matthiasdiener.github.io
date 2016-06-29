@@ -19,9 +19,9 @@ title: Publications
 
 * <u>Matthias Diener</u>, Eduardo Cruz, Marco A. Z. Alves,  Philippe O. A. Navaux. **“Communication in Shared Memory: Concepts, Definitions, and Efficient Detection.”** International Conference on Parallel, Distributed, and Network-Based Processing (PDP), February 2016. [[pdf](../files/2016-PDP-Comm.pdf)]
 
-* Artur Mariano, <u>Matthias Diener</u>, Christian Bischof and Philippe O. A. Navaux. **“Analyzing and Improving Memory Access Patterns of Large Irregular Applications on NUMA Machines.”** International Conference on Parallel, Distributed, and Network-Based Processing (PDP), February 2016. [[pdf](../files/2016-PDP-HashSieve.pdf)]
+* Artur Mariano, <u>Matthias Diener</u>, Christian Bischof, Philippe O. A. Navaux. **“Analyzing and Improving Memory Access Patterns of Large Irregular Applications on NUMA Machines.”** International Conference on Parallel, Distributed, and Network-Based Processing (PDP), February 2016. [[pdf](../files/2016-PDP-HashSieve.pdf)]
 
-* Paulo Cesar Santos, Marco A. Z. Alves, <u>Matthias Diener</u>, Luigi Carro and Philippe O. A. Navaux. **“Exploring Cache Size and Core Count Tradeoffs in Systems with Reduced Memory Access Latency.”** International Conference on Parallel, Distributed, and Network-Based Processing (PDP), February 2016. [[pdf](../files/2016-PDP-HMCvsDDR.pdf)]
+* Paulo Cesar Santos, Marco A. Z. Alves, <u>Matthias Diener</u>, Luigi Carro, Philippe O. A. Navaux. **“Exploring Cache Size and Core Count Tradeoffs in Systems with Reduced Memory Access Latency.”** International Conference on Parallel, Distributed, and Network-Based Processing (PDP), February 2016. [[pdf](../files/2016-PDP-HMCvsDDR.pdf)]
 
 # 2015
 
