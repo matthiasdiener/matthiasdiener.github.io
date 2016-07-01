@@ -25,6 +25,8 @@ title: Publications
 
 # 2015
 
+* **Thesis:** <u>Matthias Diener</u>. **“Automatic Task and Data Mapping in Shared Memory Architectures.”** Ph.D. thesis, 2015. [[pdf](../files/thesis.pdf)]
+
 * <u>Matthias Diener</u>, Eduardo H. M. Cruz, Marco A. Z. Alves, Philippe O. A. Navaux, Anselm Busse, Hans-Ulrich Heiss. **“Kernel-Based Thread and Data Mapping for Improved Memory Affinity.”** IEEE Transactions on Parallel and Distributed Systems (TPDS), 2015.
 
 * Eduardo H. M. Cruz, <u>Matthias Diener</u>, Marco A. Z. Alves, Laércio L. Pilla, Philippe O. A. Navaux. **“LAPT: A Locality-Aware Page Table for Thread and Data Mapping.”** Parallel Computing (PARCO), 2015.
