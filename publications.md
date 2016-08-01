@@ -11,7 +11,7 @@ title: Publications
 
 * <u>Matthias Diener</u>, Eduardo H. M. Cruz, Philippe O. A. Navaux. **“Modeling Memory Access Behavior for Data Mapping.”** International Journal of High Performance Computing Applications (IJHPCA), 2016.
 
-* Eduardo H. M. Cruz, <u>Matthias Diener</u>, Laércio L. Pilla, Philippe O. A. Navaux. **“A Sharing-Aware Memory Management Unit for Online Mapping in Multi-Core Architectures.”** Euro-Par, August 2016.
+* Eduardo H. M. Cruz, <u>Matthias Diener</u>, Laércio L. Pilla, Philippe O. A. Navaux. **“A Sharing-Aware Memory Management Unit for Online Mapping in Multi-Core Architectures.”** International European Conference on Parallel and Distributed Computing (Euro-Par), August 2016.
 
 * Francis B. Moreira, Marco A. Z. Alves, <u>Matthias Diener</u>, Philippe O. A. Navaux, Israel Koren. **“A Dynamic Block-Level Execution Profiler.”**, Parallel Computing (PARCO), 2016.
 
@@ -39,7 +39,7 @@ title: Publications
 
 * Marco A. Z. Alves, Paulo C. Santos, <u>Matthias Diener</u>, Luigi Carro. **“Opportunities and Challenges of Performing Vector Operations inside the DRAM.”** International Symposium on Memory Systems (MEMSYS), October 2015. [[pdf](../files/2015-MEMSYS-MVX2.pdf)]
 
-* <u>Matthias Diener</u>, Eduardo H. M. Cruz, Marco A. Z. Alves, Mohammad S. Alhakeem, Philippe O. A. Navaux, Hans-Ulrich Heiß. **“Locality and Balance for Communication-Aware Thread Mapping in Multicore Systems.”** Euro-Par, August 2015. [[pdf](../files/2015-Europar-Threadmap.pdf)]
+* <u>Matthias Diener</u>, Eduardo H. M. Cruz, Marco A. Z. Alves, Mohammad S. Alhakeem, Philippe O. A. Navaux, Hans-Ulrich Heiß. **“Locality and Balance for Communication-Aware Thread Mapping in Multicore Systems.”** International European Conference on Parallel and Distributed Computing (Euro-Par), August 2015. [[pdf](../files/2015-Europar-Threadmap.pdf)]
 
 * Marco A. Z. Alves, Carlos Villavieja, <u>Matthias Diener</u>, Francis B. Moreira, Philippe O. A. Navaux. **“SiNUCA: A Validated Micro-Architecture Simulator.”** International Conference on High Performance Computing and Communications (HPCC), August 2015. [[pdf](../files/2015-HPCC-Sinuca.pdf)]
 
