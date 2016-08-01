@@ -9,9 +9,9 @@ title: Publications
 
 * Eduardo H. M. Cruz, <u>Matthias Diener</u>, Laércio L. Pilla, Philippe O. A. Navaux. **“Hardware-Assisted Thread and Data Mapping in Hierarchical Multi-Core Architectures.”** ACM Transactions on Architecture and Code Optimization (TACO), 2016.
 
-* <u>Matthias Diener</u>, Eduardo H. M. Cruz, Philippe O. A. Navaux. **“Modeling Memory Access Behavior for Data Mapping.”** International Journal of High Performance Computing Applications (IJHPCA), 2016.
+* <u>Matthias Diener</u>, Eduardo H. M. Cruz, Philippe O. A. Navaux. **“Modeling Memory Access Behavior for Data Mapping.”** International Journal of High Performance Computing Applications (IJHPCA), 2016. [[doi](http://dx.doi.org/10.1177/1094342016640056)]
 
-* Eduardo H. M. Cruz, <u>Matthias Diener</u>, Laércio L. Pilla, Philippe O. A. Navaux. **“A Sharing-Aware Memory Management Unit for Online Mapping in Multi-Core Architectures.”** International European Conference on Parallel and Distributed Computing (Euro-Par), 2016.
+* Eduardo H. M. Cruz, <u>Matthias Diener</u>, Laércio L. Pilla, Philippe O. A. Navaux. **“A Sharing-Aware Memory Management Unit for Online Mapping in Multi-Core Architectures.”** International European Conference on Parallel and Distributed Computing (Euro-Par), 2016. [[pdf](../files/2016-Europar-SAMMU.pdf)]
 
 * Francis B. Moreira, Marco A. Z. Alves, <u>Matthias Diener</u>, Philippe O. A. Navaux, Israel Koren. **“A Dynamic Block-Level Execution Profiler.”**, Parallel Computing (PARCO), 2016. [[pdf](../files/2016-PARCO-DBLEP.pdf), [doi](http://dx.doi.org/10.1016/j.parco.2016.01.010)]
 
@@ -69,9 +69,9 @@ title: Publications
 
 # 2013
 
-* Marco A. Z. Alves, Carlos Villavieja, <u>Matthias Diener</u>, Philippe O. A. Navaux. **“Energy Efficient Last Level Caches via Last Read/Write Prediction.”** International Symposium on Computer Architecture and High Performance Computing (SBAC-PAD), 2013. [[pdf](../files/2014-SBAC-DEWP.pdf), [doi](http://dx.doi.org/]
+* Marco A. Z. Alves, Carlos Villavieja, <u>Matthias Diener</u>, Philippe O. A. Navaux. **“Energy Efficient Last Level Caches via Last Read/Write Prediction.”** International Symposium on Computer Architecture and High Performance Computing (SBAC-PAD), 2013. [[pdf](../files/2014-SBAC-DEWP.pdf), [doi](http://dx.doi.org/10.1109/SBAC-PAD.2013.12)]
 
-* **SPCD**: <u>Matthias Diener</u>, Eduardo H. M. Cruz, Philippe O. A. Navaux. **“Communication-Based Mapping using Shared Pages.”** International Parallel & Distributed Processing Symposium (IPDPS), 2013. [[pdf](../files/2013-IPDPS-SPCD.pdf), [ppt](../files/2013-IPDPS-SPCD-presentation.pdf), [doi](http://dx.doi.org/10.1109/SBAC-PAD.2013.12)]
+* **SPCD**: <u>Matthias Diener</u>, Eduardo H. M. Cruz, Philippe O. A. Navaux. **“Communication-Based Mapping using Shared Pages.”** International Parallel & Distributed Processing Symposium (IPDPS), 2013. [[pdf](../files/2013-IPDPS-SPCD.pdf), [ppt](../files/2013-IPDPS-SPCD-presentation.pdf), [doi](http://dx.doi.org/10.1109/10.1109/IPDPS.2013.57)]
 
 * Anselm Busse, Jan H. Schönherr, <u>Matthias Diener</u>, Gero Mühl, Jan Richling. **“Analyzing Resource Interdependencies in Multi-Core Architectures to Improve Scheduling Decisions.”** ACM Symposium on Applied Computing (SAC), 2013. [[pdf](../files/2013-SAC-Quadbench.pdf), [doi](http://dx.doi.org/10.1145/2480362.2480661)]
 
