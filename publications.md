@@ -13,7 +13,7 @@ title: Publications
 
 * Eduardo H. M. Cruz, <u>Matthias Diener</u>, Laércio L. Pilla, Philippe O. A. Navaux. **“A Sharing-Aware Memory Management Unit for Online Mapping in Multi-Core Architectures.”** International European Conference on Parallel and Distributed Computing (Euro-Par), August 2016.
 
-* Francis B. Moreira, Marco A. Z. Alves, <u>Matthias Diener</u>, Philippe O. A. Navaux, Israel Koren. **“A Dynamic Block-Level Execution Profiler.”**, Parallel Computing (PARCO), 2016.
+* Francis B. Moreira, Marco A. Z. Alves, <u>Matthias Diener</u>, Philippe O. A. Navaux, Israel Koren. **“A Dynamic Block-Level Execution Profiler.”**, Parallel Computing (PARCO), 2016. [[pdf](../files/2016-DATE-HIVE.pdf), [doi](http://dx.doi.org/10.1016/j.parco.2016.01.010)]
 
 * Emmanuell D. Carreño, <u>Matthias Diener</u>, Eduardo H. M. Cruz, Philippe O. A. Navaux. **“Automatic Communication Optimization of Parallel Applications in Public Clouds.”** International Symposium on Cluster, Cloud and Grid Computing (CCGrid), May 2016.
 
