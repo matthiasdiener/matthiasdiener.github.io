@@ -7,11 +7,11 @@ title: Publications
 
 # 2016
 
-* Eduardo H. M. Cruz, <u>Matthias Diener</u>, Laércio L. Pilla, Philippe O. A. Navaux. **“Hardware-Assisted Thread and Data Mapping in Hierarchical Multi-Core Architectures.”** ACM Transactions on Architecture and Code Optimization (TACO), 2016.
+* Eduardo H. M. Cruz, <u>Matthias Diener</u>, Laércio L. Pilla, Philippe O. A. Navaux. **“Hardware-Assisted Thread and Data Mapping in Hierarchical Multi-Core Architectures.”** ACM Transactions on Architecture and Code Optimization (TACO), 2016. [[pdf](../files/2016-TACO-IPM.pdf)]
 
-* <u>Matthias Diener</u>, Eduardo H. M. Cruz, Philippe O. A. Navaux. **“Modeling Memory Access Behavior for Data Mapping.”** International Journal of High Performance Computing Applications (IJHPCA), 2016. [[doi](http://dx.doi.org/10.1177/1094342016640056)]
+* <u>Matthias Diener</u>, Eduardo H. M. Cruz, Philippe O. A. Navaux. **“Modeling Memory Access Behavior for Data Mapping.”** International Journal of High Performance Computing Applications (IJHPCA), 2016. [[pdf](../files/2015-IJHPCA-DMModel.pdf), [doi](http://dx.doi.org/10.1177/1094342016640056)]
 
-* Eduardo H. M. Cruz, <u>Matthias Diener</u>, Laércio L. Pilla, Philippe O. A. Navaux. **“A Sharing-Aware Memory Management Unit for Online Mapping in Multi-Core Architectures.”** International European Conference on Parallel and Distributed Computing (Euro-Par), 2016. [[pdf](../files/2016-Europar-SAMMU.pdf)]
+* Eduardo H. M. Cruz, <u>Matthias Diener</u>, Laércio L. Pilla, Philippe O. A. Navaux. **“A Sharing-Aware Memory Management Unit for Online Mapping in Multi-Core Architectures.”** International European Conference on Parallel and Distributed Computing (Euro-Par), 2016. [[pdf](../files/2016-Europar-SAMMU.pdf), [doi](http://dx.doi.org/10.1007/978-3-319-43659-3_36)]
 
 * Francis B. Moreira, Marco A. Z. Alves, <u>Matthias Diener</u>, Philippe O. A. Navaux, Israel Koren. **“A Dynamic Block-Level Execution Profiler.”**, Parallel Computing (PARCO), 2016. [[pdf](../files/2016-PARCO-DBLEP.pdf), [doi](http://dx.doi.org/10.1016/j.parco.2016.01.010)]
 
