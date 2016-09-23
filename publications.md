@@ -7,7 +7,7 @@ title: Publications
 
 # 2016
 
-* Eduardo H. M. Cruz, <u>Matthias Diener</u>, Laércio L. Pilla, Philippe O. A. Navaux. **“Hardware-Assisted Thread and Data Mapping in Hierarchical Multi-Core Architectures.”** ACM Transactions on Architecture and Code Optimization (TACO), 2016. [[pdf](../files/2016-TACO-IPM.pdf)]
+* Eduardo H. M. Cruz, <u>Matthias Diener</u>, Laércio L. Pilla, Philippe O. A. Navaux. **“Hardware-Assisted Thread and Data Mapping in Hierarchical Multi-Core Architectures.”** ACM Transactions on Architecture and Code Optimization (TACO), 2016. [[pdf](../files/2016-TACO-IPM.pdf), [doi](http://dx.doi.org/10.1145/2975587)]
 
 * <u>Matthias Diener</u>, Eduardo H. M. Cruz, Philippe O. A. Navaux. **“Modeling Memory Access Behavior for Data Mapping.”** International Journal of High Performance Computing Applications (IJHPCA), 2016. [[pdf](../files/2015-IJHPCA-DMModel.pdf), [doi](http://dx.doi.org/10.1177/1094342016640056)]
 
