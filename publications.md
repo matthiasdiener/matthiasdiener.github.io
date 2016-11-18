@@ -7,7 +7,7 @@ title: Publications
 
 # 2016
 
-* <u>Matthias Diener</u>, Eduardo H. M. Cruz, Marco A. Z. Alves, Philippe O. A. Navaux, Israel Koren. **“Affinity-Based Thread and Data Mapping in Shared Memory Systems.”** ACM Computing Surveys (CSUR), 2016. (accepted for publication)
+* <u>Matthias Diener</u>, Eduardo H. M. Cruz, Marco A. Z. Alves, Philippe O. A. Navaux, Israel Koren. **“Affinity-Based Thread and Data Mapping in Shared Memory Systems.”** ACM Computing Surveys (CSUR), 2016. [doi](http://dx.doi.org/10.1145/3006385)
 
 * Eduardo H. M. Cruz, <u>Matthias Diener</u>, Laércio L. Pilla, Philippe O. A. Navaux. **“Hardware-Assisted Thread and Data Mapping in Hierarchical Multi-Core Architectures.”** ACM Transactions on Architecture and Code Optimization (TACO), 2016. [[pdf](../files/2016-TACO-IPM.pdf), [doi](http://dx.doi.org/10.1145/2975587)]
 
