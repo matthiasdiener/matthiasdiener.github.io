@@ -26,7 +26,7 @@ title: Publications
 
 * Marco A. Z. Alves, <u>Matthias Diener</u>, Paulo Santos, Luigi Carro. **“Large Vector Extensions inside the HMC.”** Design, Automation and Test in Europe (DATE), 2016. [[pdf](../files/2016-DATE-HIVE.pdf), [doi](http://dx.doi.org/10.3850/9783981537079_0093)]
 
-* <u>Matthias Diener</u>, Eduardo Cruz, Marco A. Z. Alves,  Philippe O. A. Navaux. **“Communication in Shared Memory: Concepts, Definitions, and Efficient Detection.”** International Conference on Parallel, Distributed, and Network-Based Processing (PDP), 2016. [[pdf](../files/2016-PDP-Comm.pdf), [doi](http://dx.doi.org/10.1109/PDP.2016.16)]
+* <u>Matthias Diener</u>, Eduardo Cruz, Marco A. Z. Alves,  Philippe O. A. Navaux. **“Communication in Shared Memory: Concepts, Definitions, and Efficient Detection.”** International Conference on Parallel, Distributed, and Network-Based Processing (PDP), 2016. [[pdf](../files/2016-PDP-Comm.pdf), [ppt](../files/2016-02-PDP-Comm.pdf), [doi](http://dx.doi.org/10.1109/PDP.2016.16)]
 
 * Artur Mariano, <u>Matthias Diener</u>, Christian Bischof, Philippe O. A. Navaux. **“Analyzing and Improving Memory Access Patterns of Large Irregular Applications on NUMA Machines.”** International Conference on Parallel, Distributed, and Network-Based Processing (PDP), 2016. [[pdf](../files/2016-PDP-HashSieve.pdf), [doi](http://dx.doi.org/10.1109/PDP.2016.37)]
 
