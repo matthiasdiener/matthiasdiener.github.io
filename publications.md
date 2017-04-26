@@ -14,8 +14,8 @@ title: Publications
 
 * Francis B. Moreira, <u>Matthias Diener</u>, Philippe O. A. Navaux, Israel Koren. **“Data mining the memory access stream to detect anomalous application behavior.”** ACM International Conference on Computing Frontiers (CF), 2017.
 
-* Eduardo Roloff, <u>Matthias Diener</u>, Luciano Paschoal Gaspary, Philippe O. A. Navaux. **“HPC Application Performance and Cost Efficiency in the Cloud.”** International Conference on Parallel, Distributed, and Network-Based Processing (PDP), 2017.
-
+* Eduardo Roloff, <u>Matthias Diener</u>, Luciano Paschoal Gaspary, Philippe O. A. Navaux. **“HPC Application Performance and Cost Efficiency in the Cloud.”** International Conference on Parallel, Distributed, and Network-Based Processing (PDP), 2017. [[doi](http://dx.doi.org/10.1109/PDP.2017.59)]
+ 
 # 2016
 
 * <u>Matthias Diener</u>, Eduardo H. M. Cruz, Marco A. Z. Alves, Philippe O. A. Navaux, Israel Koren. **“Affinity-Based Thread and Data Mapping in Shared Memory Systems.”** ACM Computing Surveys (CSUR), 2016. [[doi](http://dx.doi.org/10.1145/3006385)]
