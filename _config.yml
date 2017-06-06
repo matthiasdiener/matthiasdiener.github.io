@@ -1,9 +1,9 @@
 # Site settings
 title: Matthias Diener
-email: mdiener@inf.ufrgs.br
+email: mdiener@illinois.edu
 description:
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "http://matthiasdiener.github.io" # the base hostname & protocol for your site
 # twitter_username: jekyllrb
 github_username:  matthiasdiener
 
