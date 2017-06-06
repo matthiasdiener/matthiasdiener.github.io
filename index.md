@@ -7,7 +7,7 @@ PhD<br>
 Parallel Programming Lab (PPL)<br>
 University of Illinois at Urbana-Champaign<br>
 
-<a href="mailto:mdiener@illinois.edu">mdiener@illinois.edu</a> \| <a href="http://matthiasdiener.github.io"> http://matthiasdiener.github.io </a> <br>
+<a href="mailto:mdiener@illinois.edu">mdiener@illinois.edu</a> \| <a href="https://matthiasdiener.github.io"> http://matthiasdiener.github.io </a> <br>
 
 <br>
 
