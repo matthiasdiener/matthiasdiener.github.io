@@ -8,6 +8,8 @@ title: Publications
 
 # 2017
 
+* <u>Matthias Diener</u>, Sam White, Laxmikant V. Kale, Michael T. Campbell, Daniel J. Bodony, Jonathan B. Freund. **“Improving the memory access locality of hybrid MPI applications.”** EuroMPI, 2017.
+
 * Eduardo Roloff, <u>Matthias Diener</u>, Emmanuell D. Carreño, Luciano P. Gaspary, Philippe O. A. Navaux. **“Leveraging cloud heterogeneity for cost-efficient execution of parallel applications.”** International European Conference on Parallel and Distributed Computing (Euro-Par), 2017.
 
 * <u>Matthias Diener</u>, Eduardo H. M. Cruz, Marco A. Z. Alves, Edson Borin, Philippe O. A. Navaux. **“Optimizing memory affinity with a hybrid compiler/OS approach.”** ACM International Conference on Computing Frontiers (CF), 2017. [[doi](http://dx.doi.org/10.1145/3075564.3075566)]
