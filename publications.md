@@ -34,7 +34,7 @@ title: Publications
 
 1. Seonmyeong Bak, Harshitha Menon, Sam White, <u>Matthias Diener</u>, Laxmikant Kale. **“Handling Transient and Persistent Imbalance Together in Distributed and Shared Memory.”** International Symposium on Cluster, Cloud and Grid Computing (CCGrid), 2018.
 
-1. Eduardo Roloff, Matthias Diener, Luciano P. Gaspary,  Philippe O. A. Navaux. **“Exploiting Load Imbalance Patterns for Heterogeneous Cloud Computing Platforms.”** International Conference on Cloud Computing and Services Science (CLOSER), 2018.
+1. Eduardo Roloff, <u>Matthias Diener</u>, Luciano P. Gaspary,  Philippe O. A. Navaux. **“Exploiting Load Imbalance Patterns for Heterogeneous Cloud Computing Platforms.”** International Conference on Cloud Computing and Services Science (CLOSER), 2018.
 
 1. <u>Matthias Diener</u>, Sam White, Laxmikant V. Kale, Michael T. Campbell, Daniel J. Bodony, Jonathan B. Freund. **“Improving the memory access locality of hybrid MPI applications.”** EuroMPI, 2017. [[doi](http://doi.org/10.1145/3127024.3127038)]
 
