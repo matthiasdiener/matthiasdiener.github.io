@@ -45,6 +45,7 @@ Urbana, IL 61801. \hfill{}<http://matthiasdiener.github.io>
 	*Berlin University of Technology (TU Berlin), Germany*.
 	Advisor: Prof. Hans-Ulrich Heiss.
 
+
 # Work Experience
 
 - **Postdoctoral researcher in Computer Science**, January 2017 -- Present.
@@ -56,6 +57,7 @@ Urbana, IL 61801. \hfill{}<http://matthiasdiener.github.io>
 	*Federal University of Rio Grande do Sul (UFRGS), Brazil* and *University of Massachusetts, Amherst*.
     - *Performance portability of parallel applications in the cloud:* Developed scheduling improvements for large parallel applications running in public clouds, taking into account network and processing speeds as well as interference from other cloud tenants. Substantial improvements of execution time and performance portability in a variety of cloud computing environments.
     - *Memory tracing:* Created efficient memory tracing mechanisms that are faster than the current state-of-the-art and can trace physical memory addresses extracted from the host system in order to differentiate concurrently running applications.
+
 
 # Teaching Experience
 
@@ -75,17 +77,20 @@ Urbana, IL 61801. \hfill{}<http://matthiasdiener.github.io>
 	- *Advanced Computer Architectures:* Graduate-level course. Developed part of the lecture material. Responsible for part of the lectures, lab and homework assignments, and application of exams.
 	- *Parallel and Distributed Processing:* 	Graduate-level course. Developed part of the lecture material. Responsible for part of the lectures, lab and homework assignments, and exams.
 
+
 # Awards
 
 - **Best paper award** --- International Conference on Parallel, Distributed, and Network-Based Processing (PDP), 2015.
 - **Distinction (summa cum laude)** --- PhD dissertation, 2015.
 - **Award for 3^rd^ best dissertation in High Performance Computing in Brazil** --- PhD dissertation, 2016.
 
+
 # Languages
 
 - Native German speaker.
 - Fluent in English and Portuguese.
 - Working knowledge in Spanish and French.
+
 
 # Skills
 
@@ -128,6 +133,7 @@ A partial, verified record of reviews is available at <https://publons.com/autho
 - International Conference on Performance Evaluation Methodologies and Tools (ValueTools).
 - International Workshop on OpenMP (IWOMP).
 
+
 # Program Committee Membership
 
 - Heterogeneity in Computing Workshop (HCW), co-located with IPDPS 2017.
@@ -141,9 +147,15 @@ A partial, verified record of reviews is available at <https://publons.com/autho
 - University of Darmstadt, Germany, February 2016.
 
 
+# Advised Students
+
+- João Paulo Tarasconi Ruschel: *Parallel Implementations of the Cholesky Decomposition on CPUs and GPUs* (Undergraduate thesis, co-advised with Philippe O. A. Navaux)
+
+
 # References
 
 Available on request.
+
 
 # Publications
 
