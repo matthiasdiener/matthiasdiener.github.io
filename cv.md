@@ -140,7 +140,7 @@ A partial, verified record of reviews is available at <https://publons.com/autho
 - Heterogeneity in Computing Workshop (HCW), co-located with IPDPS 2017.
 - Open Workshop on Data Locality (COLOC), co-located with Euro-Par 2017.
 - Heterogeneity in Computing Workshop (HCW), co-located with IPDPS 2018.
-
+- Open Workshop on Data Locality (COLOC), co-located with Euro-Par 2018.
 
 # Invited Talks
 
