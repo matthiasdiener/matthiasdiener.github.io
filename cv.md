@@ -17,21 +17,20 @@ header-includes: |
     \urlstyle{tt}
 ---
 
-\vspace{-2cm}\rule{\linewidth}{1pt}
-
-
-\iffalse
+<!-- compile: pandoc -s -f markdown+hard_line_breaks cv.md publications.md -o cv.pdf -->
 
 ---
 
-\fi
 
 # Contact
 
-305 Coordinated Science Lab \hfill +1 (413)-317-1713
-University of Illinois at Urbana-Champaign, \hfill{}<matthias.diener@gmail.com>
-Urbana, IL 61801. \hfill{}<http://matthiasdiener.github.io>
+305 Coordinated Science Lab
+University of Illinois at Urbana-Champaign,
+Urbana, IL 61801.
 
++1 (413)-317-1713
+<matthias.diener@gmail.com>
+<http://matthiasdiener.github.io>
 
 # Education
 
