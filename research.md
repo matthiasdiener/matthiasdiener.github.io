@@ -1,7 +1,6 @@
 ---
 layout: page
-title: "Research"
-slug: Research
+title: Research
 ---
 
 ## Affinity-Based Thread and Data Mapping
