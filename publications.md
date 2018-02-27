@@ -3,8 +3,8 @@ layout: page
 title: Publications
 ---
 
-<!-- [Google Scholar](http://scholar.google.com/citations?user=LiU7uKIAAAAJ)
- -->
+[Google Scholar](http://scholar.google.com/citations?user=LiU7uKIAAAAJ)
+
 
 
 ## Journals
