@@ -124,7 +124,7 @@ A partial, verified record of reviews is available at <https://publons.com/autho
 - Springer Computing.
 - International Journal of Computational Science and Engineering.
 
-## Conferences
+## Conferences & Workshops
 - IEEE International Parallel & Distributed Processing Symposium (IPDPS).
 - International Conference on Computational Science (ICCS).
 - International European Conference on Parallel and Distributed Computing (Euro-Par).
@@ -141,15 +141,16 @@ A partial, verified record of reviews is available at <https://publons.com/autho
 - Heterogeneity in Computing Workshop (HCW), co-located with IPDPS 2018.
 - Open Workshop on Data Locality (COLOC), co-located with Euro-Par 2018.
 
-# Invited Talks
-
-- Inria, Grenoble, France, December 2013.
-- University of Darmstadt, Germany, February 2016.
-
 
 # Advised Students
 
 - João Paulo Tarasconi Ruschel: *Parallel Implementations of the Cholesky Decomposition on CPUs and GPUs* (Undergraduate thesis, co-advised with Philippe O. A. Navaux)
+
+
+# Invited Talks
+
+- Inria, Grenoble, France, December 2013.
+- University of Darmstadt, Germany, February 2016.
 
 
 # References
@@ -159,5 +160,4 @@ Available on request.
 
 # Publications
 
-Approximately 47 peer-reviewed publications with 320 citations.
-A list of publications and citations is available on Google Scholar: <https://scholar.google.com/citations?user=LiU7uKIAAAAJ>.
+Approximately 47 peer-reviewed publications with 320 citations. A list of publications and citations is available on Google Scholar: <https://scholar.google.com/citations?user=LiU7uKIAAAAJ>.
