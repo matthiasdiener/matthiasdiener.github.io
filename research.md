@@ -2,17 +2,17 @@
 title: Research
 ---
 
-# Affinity-Based Thread and Data Mapping
+## Affinity-Based Thread and Data Mapping
 
-## Main Objectives
+### Main Objectives
 
 * Create kernel-based mechanisms that detect inter-thread and inter-process communication, as well as accesses to memory pages in parallel applications based on shared memory programming models.
 * Use the detected memory access behavior to improve process and thread mapping, as well as data mapping for NUMA architectures.
 
 
-## Mechanisms
+### Mechanisms
 
-### SPCD: Inter-Thread Communication Detection (IPDPS 2013)
+#### SPCD: Inter-Thread Communication Detection (IPDPS 2013)
 
 SPCD is a mechanism to detect inter-thread communication of shared-memory based applications. SPCD analyzes the addresses of page faults of the application to detect the communication. To increase the accuracy of the detection and to be able to detect a change in the communication pattern, SPCD introduces additional low-overhead page faults during the execution of the parallel application.
 
@@ -21,20 +21,20 @@ This pattern is analyzed by a mapping algorithm to create an optimized mapping o
 
 SPCD can be found [here](https://github.com/matthiasdiener/spcd).
 
-### CDSM: Inter-process and inter-thread communication detection (PARCO 2015)
+#### CDSM: Inter-process and inter-thread communication detection (PARCO 2015)
 
 CDSM is an extension of SPCD and supports detecting communication between different processes as well as between threads. In this way, the mapping can be performed for applications that use multi-process parallel programming models (such as MPI) and mixed programming models (such as MPI and OpenMP).
 Since processes use different virtual memory address spaces (at least on Linux), detection needs to be performed using the physical address.
 
 CDSM can be found [here](https://github.com/matthiasdiener/cdsm).
 
-### kMAF: The kernel Memory Affinity Framework (PACT 2014, TPDS 2015)
+#### kMAF: The kernel Memory Affinity Framework (PACT 2014, TPDS 2015)
 
 kMAF extends the basic idea of SPCD and CDSM to the problem of data mapping in architectures that have a Non-Uniform Memory Access (NUMA) behavior.
 
 kMAF can be found [here](https://github.com/matthiasdiener/kmaf).
 
-## Related Publications
+### Related Publications
 
 * **SPCD**: *Matthias Diener*, Eduardo H. M. Cruz, Philippe O. A. Navaux. **“Communication-Based Mapping using Shared Pages.”** International Parallel & Distributed Processing Symposium (IPDPS), May 2013.
 
@@ -51,14 +51,14 @@ kMAF can be found [here](https://github.com/matthiasdiener/kmaf).
 
 <br />
 
-# High Performance Computing in the Cloud
+## High Performance Computing in the Cloud
 
-## Main Objectives
+### Main Objectives
 
 * Evaluate the viability of the Cloud for High Performance Computing (HPC) using various characteristics, such as deployment facilities, performance and cost efficiency.
 * Focus on several cloud providers, such as Amazon, Windows Azure and Rackspace and compare them to traditional clusters.
 
-## Related Publications
+### Related Publications
 * Emmanuell D. Carreño, *Matthias Diener*, Eduardo H. M. Cruz, Philippe O. A. Navaux. **“Automatic Communication Optimization of Parallel Applications in Public Clouds.”** International Symposium on Cluster, Cloud and Grid Computing (CCGrid), May 2016.
 
 * Eduardo Roloff, *Matthias Diener*, Alexandre Carissimi, Philippe O. A. Navaux. **“High Performance Computing in the Cloud: Deployment, Performance and Cost Efficiency.”** International Conference on Cloud Computing Technology and Science (CloudCom), November 2012.

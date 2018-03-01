@@ -6,7 +6,6 @@ papersize: letter
 fontfamily: palatino
 fontsize: 11pt
 colorlinks: true
-numbersections: true
 header-includes: |
     \usepackage{fancyhdr}\renewcommand{\headrulewidth}{0pt}
     \pagestyle{fancy}
@@ -16,36 +15,34 @@ header-includes: |
     \urlstyle{tt}
 ---
 
-<!-- compile: pandoc -s -f markdown+hard_line_breaks cv.md publications.md -o cv.pdf -->
-
----
+<!-- compile: pandoc -s cv.md publications.md -o cv.pdf -->
 
 
-# Contact
+## Contact
 
-305 Coordinated Science Lab
-University of Illinois at Urbana-Champaign,
+305 Coordinated Science Lab  
+University of Illinois at Urbana-Champaign,  
 Urbana, IL 61801.
 
-+1 (413)-317-1713
-<matthias.diener@gmail.com>
++1 (413)-317-1713  
+<matthias.diener@gmail.com>  
 <http://matthiasdiener.github.io>
 
-# Education
+## Education
 
-- **PhD in Computer Science**, October 2015.
-	*Berlin University of Technology (TU Berlin), Germany* and *Federal University of Rio Grande do Sul (UFRGS), Brazil*. 
-	Advisors: Prof. Hans-Ulrich Heiss and Prof. Philippe O. A. Navaux. 
-	Dissertation: Automatic Task and Data Mapping in Shared Memory Architectures.
-	*Summa cum laude*.
-	Received award for 3$^\mathrm{rd}$ best dissertation in Brazil in High Performance Computing, 2016.
+- **PhD in Computer Science**, October 2015.  
+	*Berlin University of Technology (TU Berlin), Germany* and *Federal University of Rio Grande do Sul (UFRGS), Brazil*.  
+	Advisors: Prof. Hans-Ulrich Heiss and Prof. Philippe O. A. Navaux.  
+	Dissertation: Automatic Task and Data Mapping in Shared Memory Architectures.  
+	*Summa cum laude*.  
+	Received award for 3rd best dissertation in Brazil in High Performance Computing, 2016.
 
-- **Diploma (equivalent to M.Sc.) in Computer Engineering**, November 2010.
-	*Berlin University of Technology (TU Berlin), Germany*.
+- **Diploma (equivalent to M.Sc.) in Computer Engineering**, November 2010.  
+	*Berlin University of Technology (TU Berlin), Germany*.  
 	Advisor: Prof. Hans-Ulrich Heiss.
 
 
-# Work Experience
+## Work Experience
 
 - **Postdoctoral researcher in Computer Science**, January 2017 -- Present.
 	*University of Illinois at Urbana-Champaign*.
@@ -58,7 +55,7 @@ Urbana, IL 61801.
     - *Memory tracing:* Created efficient memory tracing mechanisms that are faster than the current state-of-the-art and can trace physical memory addresses extracted from the host system in order to differentiate concurrently running applications.
 
 
-# Teaching Experience
+## Teaching Experience
 
 - **Lecturer/Technical Lead, Intel Modern Code Partner** (2016--2017).
 	*Intel* and *Federal University of Rio Grande do Sul (UFRGS), Brazil*.
@@ -77,21 +74,21 @@ Urbana, IL 61801.
 	- *Parallel and Distributed Processing:* 	Graduate-level course. Developed part of the lecture material. Responsible for part of the lectures, lab and homework assignments, and exams.
 
 
-# Awards
+## Awards
 
 - **Best paper award** --- International Conference on Parallel, Distributed, and Network-Based Processing (PDP), 2015.
 - **Distinction (summa cum laude)** --- PhD dissertation, 2015.
-- **Award for 3^rd^ best dissertation in High Performance Computing in Brazil** --- PhD dissertation, 2016.
+- **Award for 3rd best dissertation in High Performance Computing in Brazil** --- PhD dissertation, 2016.
 
 
-# Languages
+## Languages
 
 - Native German speaker.
 - Fluent in English and Portuguese.
 - Working knowledge in Spanish and French.
 
 
-# Skills
+## Skills
 
 - **Key skills**
   + Strong technical background in parallel architectures, including low level hardware.
@@ -108,11 +105,11 @@ Urbana, IL 61801.
   + Applications: BRAMS (weather simulation), Ondes3D (seismic wave propagation), PlasCom/2. 
 
 
-# Reviewer
+## Reviewer
 
 A partial, verified record of reviews is available at <https://publons.com/author/1341957/>.
 
-## Journals
+### Journals
 - ACM Computing Surveys (CSUR).
 - ACM Transactions on Architecture and Code Optimization (TACO).
 - ACM Transactions on Modeling and Performance Evaluation of Computing Systems (ToMPECS).
@@ -123,7 +120,7 @@ A partial, verified record of reviews is available at <https://publons.com/autho
 - Springer Computing.
 - International Journal of Computational Science and Engineering.
 
-## Conferences & Workshops
+### Conferences & Workshops
 - IEEE International Parallel & Distributed Processing Symposium (IPDPS).
 - International Conference on Computational Science (ICCS).
 - International European Conference on Parallel and Distributed Computing (Euro-Par).
@@ -133,7 +130,7 @@ A partial, verified record of reviews is available at <https://publons.com/autho
 - International Workshop on OpenMP (IWOMP).
 
 
-# Program Committee Membership
+## Program Committee Membership
 
 - Heterogeneity in Computing Workshop (HCW), co-located with IPDPS 2017.
 - Open Workshop on Data Locality (COLOC), co-located with Euro-Par 2017.
@@ -141,22 +138,22 @@ A partial, verified record of reviews is available at <https://publons.com/autho
 - Open Workshop on Data Locality (COLOC), co-located with Euro-Par 2018.
 
 
-# Advised Students
+## Advised Students
 
 - João Paulo Tarasconi Ruschel: *Parallel Implementations of the Cholesky Decomposition on CPUs and GPUs* (Undergraduate thesis, co-advised with Philippe O. A. Navaux)
 
 
-# Invited Talks
+## Invited Talks
 
 - Inria, Grenoble, France, December 2013.
 - University of Darmstadt, Germany, February 2016.
 
 
-# References
+## References
 
 Available on request.
 
 
-# Publications
+## Publications
 
 Approximately 47 peer-reviewed publications with 320 citations. A list of publications and citations is available on Google Scholar: <https://scholar.google.com/citations?user=LiU7uKIAAAAJ>.

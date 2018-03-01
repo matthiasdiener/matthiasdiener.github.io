@@ -6,7 +6,7 @@ title: Publications
 
 
 
-## Journals
+### Journals
 
 1. *Matthias Diener*, Eduardo H. M. Cruz, Marco A. Z. Alves, Philippe O. A. Navaux, Israel Koren. **“Affinity-Based Thread and Data Mapping in Shared Memory Systems.”** ACM Computing Surveys (CSUR), 2016. [[doi](http://doi.org/10.1145/3006385)]
 
@@ -29,7 +29,7 @@ title: Publications
 1. Eduardo H. M. Cruz, *Matthias Diener*, Marco A. Z. Alves, Philippe O. A. Navaux. **“Dynamic thread mapping of shared memory applications by exploiting cache coherence protocols.”** Journal of Parallel and Distributed Computing (JPDC), 2014. [[doi](http://doi.org/10.1016/j.jpdc.2013.11.006)]
 
 
-## Conferences
+### Conferences
 
 1. Seonmyeong Bak, Harshitha Menon, Sam White, *Matthias Diener*, Laxmikant Kale. **“Handling Transient and Persistent Imbalance Together in Distributed and Shared Memory.”** International Symposium on Cluster, Cloud and Grid Computing (CCGrid), 2018.
 
@@ -95,7 +95,7 @@ title: Publications
 1. Eduardo Roloff, Francis Birck, *Matthias Diener*, Alexandre Carissimi, Philippe O. A. Navaux. **“Evaluating High Performance Computing on the Windows Azure Platform.”** International Conference on Cloud Computing (CLOUD), 2012. [[doi](http://doi.org/10.1109/CLOUD.2012.47)]
 
 
-## Workshops
+### Workshops
 
 1. Eduardo Roloff, *Matthias Diener*, Emmanuell D. Carreño, Francis B. Moreira, Luciano P. Gaspary, Philippe O. A. Navaux. **“Exploiting price and performance tradeoffs in heterogeneous clouds.”** International Workshop on Clouds and eScience Applications Management (CloudAM), held in conjunction with the International Conference on Utility and Cloud Computing (UCC), 2017. [[doi](http://doi.org/10.1145/3147234.3148103)]
 
