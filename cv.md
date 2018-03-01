@@ -13,6 +13,7 @@ header-includes: |
     \fancyfoot[L]{\color{gray!30!black}{\small Matthias Diener -- CV}}
     \fancyfoot[R]{\color{gray!30!black}{\small \thepage}}
     \urlstyle{tt}
+    \makeatletter\let\ps@plain\ps@fancy\makeatother
 ---
 
 <!-- compile: pandoc -s cv.md publications.md -o cv.pdf -->
