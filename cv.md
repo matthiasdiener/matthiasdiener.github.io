@@ -45,12 +45,12 @@ Urbana, IL 61801.
 
 ## Work Experience
 
-- **Postdoctoral researcher in Computer Science**, January 2017 -- Present.
+- **Postdoctoral researcher in Computer Science**, January 2017 -- Present.  
 	*University of Illinois at Urbana-Champaign*.
     - *Memory affinity improvements in parallel systems:* Developed automatic mapping mechanisms to detect and optimize the memory access behavior of parallel applications, drastically improving performance and energy efficiency.
     - *Heterogeneous computing:* Designed a model for heterogeneous CPU+GPU computing with an adaptive load balancing scheme to distribute work.
 
-- **Postdoctoral researcher in Computer Science**, November 2015 -- December 2016.
+- **Postdoctoral researcher in Computer Science**, November 2015 -- December 2016.  
 	*Federal University of Rio Grande do Sul (UFRGS), Brazil* and *University of Massachusetts, Amherst*.
     - *Performance portability of parallel applications in the cloud:* Developed scheduling improvements for large parallel applications running in public clouds, taking into account network and processing speeds as well as interference from other cloud tenants. Substantial improvements of execution time and performance portability in a variety of cloud computing environments.
     - *Memory tracing:* Created efficient memory tracing mechanisms that are faster than the current state-of-the-art and can trace physical memory addresses extracted from the host system in order to differentiate concurrently running applications.
@@ -58,17 +58,17 @@ Urbana, IL 61801.
 
 ## Teaching Experience
 
-- **Lecturer/Technical Lead, Intel Modern Code Partner** (2016--2017).
+- **Lecturer/Technical Lead, Intel Modern Code Partner** (2016--2017).  
 	*Intel* and *Federal University of Rio Grande do Sul (UFRGS), Brazil*.
 	-  Co-developed a series of short courses to teach undergraduate and early graduate students parallel and distributed processing for modern multicore and manycore systems, in a partnership project with Intel.
 	-  Created course contents, and responsible for part of the lectures and lab assignments.
 
-- **Lecturer/Technical Lead, Education in High Performance Computing** (2016--2017).
+- **Lecturer/Technical Lead, Education in High Performance Computing** (2016--2017).  
 	*HP Enterprise* and *Federal University of Rio Grande do Sul (UFRGS), Brazil*.
 	-  Co-developed a course in cooperation with HP Enterprise to teach undergraduate and graduate students about parallel programming (in OpenMP and MPI) and High Performance Computing.
 	-  Created course contents, and responsible for part of the lectures, lab and homework assignments, and the final project.
 
-- **Teaching Assistant** (2 semesters, 2012 and 1 semester, 2015).
+- **Teaching Assistant** (2 semesters, 2012 and 1 semester, 2015).  
 	*Federal University of Rio Grande do Sul (UFRGS), Brazil.*
 	- *Introduction to Computer Architecture:* Undergraduate-level course. Developed part of the lecture material. Responsible for part of the lectures, supervision of student projects, lab assignments, and application of exams.
 	- *Advanced Computer Architectures:* Graduate-level course. Developed part of the lecture material. Responsible for part of the lectures, lab and homework assignments, and application of exams.
@@ -157,4 +157,7 @@ Available on request.
 
 ## Publications
 
-Approximately 47 peer-reviewed publications with 320 citations. A list of publications and citations is available on Google Scholar: <https://scholar.google.com/citations?user=LiU7uKIAAAAJ>.
+Approximately 47 peer-reviewed publications with 320 citations. A list of publications and citations is available on:
+
+- Google Scholar: <https://scholar.google.com/citations?user=LiU7uKIAAAAJ>
+- Scopus: <https://www.scopus.com/authid/detail.uri?authorId=36617072900>
