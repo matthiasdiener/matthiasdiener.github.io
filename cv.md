@@ -141,7 +141,7 @@ A partial, verified record of reviews is available at <https://publons.com/autho
 
 ## Advised Students
 
-- João Paulo Tarasconi Ruschel: *Parallel Implementations of the Cholesky Decomposition on CPUs and GPUs* (Undergraduate thesis, co-advised with Philippe O. A. Navaux)
+- João Paulo Tarasconi Ruschel: *Parallel Implementations of the Cholesky Decomposition on CPUs and GPUs* (Undergraduate thesis, co-advised with Philippe O. A. Navaux).
 
 
 ## Invited Talks
