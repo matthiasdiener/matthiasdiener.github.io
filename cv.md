@@ -2,7 +2,6 @@
 title: Matthias Diener
 geometry: margin=0.95in
 slug: CV
-layout: page
 papersize: letter
 fontfamily: palatino
 fontsize: 11pt

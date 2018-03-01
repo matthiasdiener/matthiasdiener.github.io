@@ -1,17 +1,16 @@
 ---
-layout: page
 title: Research
 ---
 
-## Affinity-Based Thread and Data Mapping
+# Affinity-Based Thread and Data Mapping
 
-# Main Objectives
+## Main Objectives
 
 * Create kernel-based mechanisms that detect inter-thread and inter-process communication, as well as accesses to memory pages in parallel applications based on shared memory programming models.
 * Use the detected memory access behavior to improve process and thread mapping, as well as data mapping for NUMA architectures.
 
 
-# Mechanisms
+## Mechanisms
 
 ### SPCD: Inter-Thread Communication Detection (IPDPS 2013)
 
@@ -35,16 +34,15 @@ kMAF extends the basic idea of SPCD and CDSM to the problem of data mapping in a
 
 kMAF can be found [here](https://github.com/matthiasdiener/kmaf).
 
-# Related Publications
+## Related Publications
 
-* **SPCD**: <u>Matthias Diener</u>, Eduardo H. M. Cruz, Philippe O. A. Navaux. **“Communication-Based Mapping using Shared Pages.”** International Parallel & Distributed Processing Symposium (IPDPS), May 2013. [[pdf](../files/2013-IPDPS-SPCD.pdf), [ppt](../files/2013-IPDPS-SPCD-presentation.pdf)]
+* **SPCD**: *Matthias Diener*, Eduardo H. M. Cruz, Philippe O. A. Navaux. **“Communication-Based Mapping using Shared Pages.”** International Parallel & Distributed Processing Symposium (IPDPS), May 2013.
 
-* **CDSM**: <u>Matthias Diener</u>, Eduardo H. M. Cruz, Philippe O. A. Navaux, Anselm Busse, Hans-Ulrich Heiß. **Communication-Aware Process and Thread Mapping Using Online Communication Detection**, Parallel Computing (PARCO), 2015 (accepted for publication).
+* **CDSM**: *Matthias Diener*, Eduardo H. M. Cruz, Philippe O. A. Navaux, Anselm Busse, Hans-Ulrich Heiß. **Communication-Aware Process and Thread Mapping Using Online Communication Detection**, Parallel Computing (PARCO), 2015 (accepted for publication).
 
-* **kMAF**: <u>Matthias Diener</u>, Eduardo H. M. Cruz, Philippe O. A. Navaux, Anselm Busse, Hans-Ulrich Heiß. **“kMAF: Automatic Kernel-Level Management of Thread and Data Affinity.”** International Conference on Parallel Architectures and Compilation Techniques (PACT), August 2014.
-[[pdf](../files/2014-PACT-kMAF.pdf)]
+* **kMAF**: *Matthias Diener*, Eduardo H. M. Cruz, Philippe O. A. Navaux, Anselm Busse, Hans-Ulrich Heiß. **“kMAF: Automatic Kernel-Level Management of Thread and Data Affinity.”** International Conference on Parallel Architectures and Compilation Techniques (PACT), August 2014.
 
-* **kMAF**: <u>Matthias Diener</u>, Eduardo H. M. Cruz, Marco A. Z. Alves, Philippe O. A. Navaux, Anselm Busse, Hans-Ulrich Heiss. **“Kernel-Based Thread and Data Mapping for Improved Memory Affinity.”** IEEE Transactions on Parallel and Distributed Systems (TPDS), 2015 (accepted for publication).
+* **kMAF**: *Matthias Diener*, Eduardo H. M. Cruz, Marco A. Z. Alves, Philippe O. A. Navaux, Anselm Busse, Hans-Ulrich Heiss. **“Kernel-Based Thread and Data Mapping for Improved Memory Affinity.”** IEEE Transactions on Parallel and Distributed Systems (TPDS), 2015.
 
 
 <br />
@@ -53,16 +51,16 @@ kMAF can be found [here](https://github.com/matthiasdiener/kmaf).
 
 <br />
 
-## High Performance Computing in the Cloud
+# High Performance Computing in the Cloud
 
-# Main Objectives
+## Main Objectives
 
 * Evaluate the viability of the Cloud for High Performance Computing (HPC) using various characteristics, such as deployment facilities, performance and cost efficiency.
 * Focus on several cloud providers, such as Amazon, Windows Azure and Rackspace and compare them to traditional clusters.
 
-# Related Publications
-* Emmanuell D. Carreño, <u>Matthias Diener</u>, Eduardo H. M. Cruz, Philippe O. A. Navaux. **“Automatic Communication Optimization of Parallel Applications in Public Clouds.”** International Symposium on Cluster, Cloud and Grid Computing (CCGrid), May 2016.
+## Related Publications
+* Emmanuell D. Carreño, *Matthias Diener*, Eduardo H. M. Cruz, Philippe O. A. Navaux. **“Automatic Communication Optimization of Parallel Applications in Public Clouds.”** International Symposium on Cluster, Cloud and Grid Computing (CCGrid), May 2016.
 
-* Eduardo Roloff, <u>Matthias Diener</u>, Alexandre Carissimi, Philippe O. A. Navaux. **“High Performance Computing in the Cloud: Deployment, Performance and Cost Efficiency.”** International Conference on Cloud Computing Technology and Science (CloudCom), November 2012. [[pdf](../files/2012-CloudCom-CloudMPI.pdf)]
+* Eduardo Roloff, *Matthias Diener*, Alexandre Carissimi, Philippe O. A. Navaux. **“High Performance Computing in the Cloud: Deployment, Performance and Cost Efficiency.”** International Conference on Cloud Computing Technology and Science (CloudCom), November 2012.
 
-* Eduardo Roloff, Francis Birck, <u>Matthias Diener</u>, Alexandre Carissimi, Philippe O. A. Navaux. **“Evaluating High Performance Computing on the Windows Azure Platform.”** International Conference on Cloud Computing (CLOUD), May 2012. [[pdf](../files/2012-CLOUD-Azure.pdf)]
+* Eduardo Roloff, Francis Birck, *Matthias Diener*, Alexandre Carissimi, Philippe O. A. Navaux. **“Evaluating High Performance Computing on the Windows Azure Platform.”** International Conference on Cloud Computing (CLOUD), May 2012.

@@ -1,8 +1,7 @@
 ---
-layout: page
 ---
 
-# **Matthias Diener**
+**Matthias Diener**,
 PhD<br><br>
 *Parallel Programming Laboratory (PPL)* and<br>
 *The Center For Exascale Simulation Of Plasma-coupled Combustion (XPACC)* <br>
@@ -13,7 +12,7 @@ PhD<br><br>
 <br>
 
 <img src="https://charm.cs.illinois.edu/images/header_ppllogo.png" width="200px">
-<img src="http://illinois.edu/assets/img/branding/wordmark_vertical.png" width="200px">
+<!-- <img src="http://illinois.edu/assets/img/branding/wordmark_vertical.png" width="200px"> -->
 
 <!-- QR code -->
 <!-- TU Berlin pic -->
