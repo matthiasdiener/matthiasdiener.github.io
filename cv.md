@@ -92,18 +92,18 @@ Urbana, IL 61801.
 ## Skills
 
 - **Key skills**
-  + Strong technical background in parallel architectures, including low level hardware.
-  + Extensive experience in C/C++, including parallel programming.
-  + 4+ years in Linux kernel development.
+  - Strong technical background in parallel architectures, including low level hardware.
+  - Extensive experience in C/C++, including parallel programming.
+  - 4+ years in Linux kernel development.
 - **Programming languages**
-  + C, C++, Java, Python, R, x86 Assembler, OpenMP, MPI, Shell (Bash).
+  - C, C++, Java, Python, R, x86 Assembler, OpenMP, MPI, Shell (Bash).
 - **Operating systems**
-  + Linux (kernel programming in the scheduling and virtual memory subsystems), Solaris.
+  - Linux (kernel programming in the scheduling and virtual memory subsystems), Solaris.
 - **Tools**
-  + Simulation: Pin, Simics, Gem5, CACTI, McPAT.
-  + Performance analysis: perf, Intel vTune, gprof, Intel PCM.
-  + Benchmarks: NAS-NPB, PARSEC, Rodinia, SPEC OMP2001/2012, SPEC CPU2006.
-  + Applications: BRAMS (weather simulation), Ondes3D (seismic wave propagation), PlasCom/2. 
+  - Simulation: Intel Pin, Simics, Gem5, CACTI, McPAT.
+  - Performance analysis: perf, Intel vTune, gprof, Intel PCM.
+  - Benchmarks: NAS-NPB, PARSEC, Rodinia, SPEC OMP2001/2012, SPEC CPU2006.
+  - Applications: BRAMS (weather simulation), Ondes3D (seismic wave propagation), PlasCom/2. 
 
 
 ## Reviewer
