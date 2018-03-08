@@ -31,7 +31,7 @@ Urbana, IL 61801.
 
 ## Education
 
-- **PhD in Computer Science**, October 2015.  
+- **Ph.D. in Computer Science**, October 2015.  
 	*Berlin University of Technology (TU Berlin), Germany* and *Federal University of Rio Grande do Sul (UFRGS), Brazil*.  
 	Advisors: Prof. Hans-Ulrich Heiss and Prof. Philippe O. A. Navaux.  
 	Dissertation: Automatic Task and Data Mapping in Shared Memory Architectures.  
@@ -78,9 +78,8 @@ Urbana, IL 61801.
 ## Awards
 
 - **Best paper award** --- International Conference on Parallel, Distributed, and Network-Based Processing (PDP), 2015.
-- **Distinction (summa cum laude)** --- PhD dissertation, 2015.
-- **Award for 3rd best dissertation in High Performance Computing in Brazil** --- PhD dissertation, 2016.
-
+- **Distinction (summa cum laude)** --- Ph.D. dissertation, 2015.
+- **Award for 3rd best dissertation in High Performance Computing in Brazil** --- Ph.D. dissertation, 2016.
 
 ## Languages
 
@@ -94,7 +93,7 @@ Urbana, IL 61801.
 - **Key skills**
   - Strong technical background in parallel architectures, including low level hardware.
   - Extensive experience in C/C++, including parallel programming.
-  - 4+ years in Linux kernel development.
+  - 4+ years experience in optimizing parallel application performance.
 - **Programming languages**
   - C, C++, Java, Python, R, x86 Assembler, OpenMP, MPI, Shell (Bash).
 - **Operating systems**
@@ -108,7 +107,7 @@ Urbana, IL 61801.
 
 ## Reviewer
 
-A partial, verified record of reviews is available at <https://publons.com/author/1341957/>.
+A verified record of reviews is available at <https://publons.com/author/1341957/>.
 
 ### Journals
 - ACM Computing Surveys (CSUR).
@@ -141,8 +140,7 @@ A partial, verified record of reviews is available at <https://publons.com/autho
 
 ## Advised Students
 
-- João Paulo Tarasconi Ruschel: *Parallel Implementations of the Cholesky Decomposition on CPUs and GPUs* (Undergraduate thesis, co-advised with Philippe O. A. Navaux).
-
+- João Paulo Tarasconi Ruschel: *Parallel Implementations of the Cholesky Decomposition on CPUs and GPUs.* (Undergraduate thesis, co-advised with Philippe O. A. Navaux).
 
 ## Invited Talks
 
