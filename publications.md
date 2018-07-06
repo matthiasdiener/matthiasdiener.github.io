@@ -31,7 +31,7 @@ title: Publications
 
 ### Conferences
 
-1. Seonmyeong Bak, Harshitha Menon, Sam White, *Matthias Diener*, Laxmikant Kale. **“Handling Transient and Persistent Imbalance Together in Distributed and Shared Memory.”** International Symposium on Cluster, Cloud and Grid Computing (CCGrid), 2018.
+1. Seonmyeong Bak, Harshitha Menon, Sam White, *Matthias Diener*, Laxmikant Kale. **“Multi-level Load Balancing with an Integrated Runtime Approach.”** International Symposium on Cluster, Cloud and Grid Computing (CCGrid), 2018.
 
 1. Eduardo Roloff, *Matthias Diener*, Luciano P. Gaspary,  Philippe O. A. Navaux. **“Exploiting Load Imbalance Patterns for Heterogeneous Cloud Computing Platforms.”** International Conference on Cloud Computing and Services Science (CLOSER), 2018.
 
@@ -58,7 +58,6 @@ title: Publications
 1. Artur Mariano, *Matthias Diener*, Christian Bischof, Philippe O. A. Navaux. **“Analyzing and Improving Memory Access Patterns of Large Irregular Applications on NUMA Machines.”** International Conference on Parallel, Distributed, and Network-Based Processing (PDP), 2016. [[doi](http://doi.org/10.1109/PDP.2016.37)]
 
 1. Paulo Cesar Santos, Marco A. Z. Alves, *Matthias Diener*, Luigi Carro, Philippe O. A. Navaux. **“Exploring Cache Size and Core Count Tradeoffs in Systems with Reduced Memory Access Latency.”** International Conference on Parallel, Distributed, and Network-Based Processing (PDP), 2016. [[doi](http://doi.org/10.1109/PDP.2016.55)]
-
 
 1. Marco A. Z. Alves, Paulo C. Santos, Francis B. Moreira, *Matthias Diener*, Luigi Carro. **“Saving Memory Movements Through Vector Processing in the DRAM.”** International Conference on Compilers, Architecture, and Synthesis for Embedded Systems (CASES), 2015. [[doi](http://doi.org/10.1109/CASES.2015.7324552)]
 
