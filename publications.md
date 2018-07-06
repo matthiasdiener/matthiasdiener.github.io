@@ -95,6 +95,11 @@ title: Publications
 1. Eduardo Roloff, Francis Birck, *Matthias Diener*, Alexandre Carissimi, Philippe O. A. Navaux. **“Evaluating High Performance Computing on the Windows Azure Platform.”** International Conference on Cloud Computing (CLOUD), 2012. [[doi](http://doi.org/10.1109/CLOUD.2012.47)]
 
 
+### Books
+
+1. Eduardo H. M. Cruz, *Matthias Diener*, Philippe O. A. Navaux. **“Thread and Data Mapping for Multicore Systems.”**, 2018. [[doi](https://doi.org/10.1007/978-3-319-91074-1)]
+
+
 ### Workshops
 
 1. Eduardo Roloff, *Matthias Diener*, Emmanuell D. Carreño, Francis B. Moreira, Luciano P. Gaspary, Philippe O. A. Navaux. **“Exploiting price and performance tradeoffs in heterogeneous clouds.”** International Workshop on Clouds and eScience Applications Management (CloudAM), held in conjunction with the International Conference on Utility and Cloud Computing (UCC), 2017. [[doi](http://doi.org/10.1145/3147234.3148103)]
