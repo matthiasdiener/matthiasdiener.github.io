@@ -35,7 +35,7 @@ title: Publications
 
 1. Seonmyeong Bak, Harshitha Menon, Sam White, *Matthias Diener*, Laxmikant Kale. **“Multi-level Load Balancing with an Integrated Runtime Approach.”** International Symposium on Cluster, Cloud and Grid Computing (CCGrid), 2018.
 
-1. Eduardo Roloff, *Matthias Diener*, Luciano P. Gaspary,  Philippe O. A. Navaux. **“Exploiting Load Imbalance Patterns for Heterogeneous Cloud Computing Platforms.”** International Conference on Cloud Computing and Services Science (CLOSER), 2018.
+1. Eduardo Roloff, *Matthias Diener*, Luciano P. Gaspary,  Philippe O. A. Navaux. **“Exploiting Load Imbalance Patterns for Heterogeneous Cloud Computing Platforms.”** International Conference on Cloud Computing and Services Science (CLOSER), 2018. [[doi](https://doi.org/10.5220/0006807502480259)]
 
 1. *Matthias Diener*, Sam White, Laxmikant V. Kale, Michael T. Campbell, Daniel J. Bodony, Jonathan B. Freund. **“Improving the memory access locality of hybrid MPI applications.”** EuroMPI, 2017. [[doi](http://doi.org/10.1145/3127024.3127038)]
 
