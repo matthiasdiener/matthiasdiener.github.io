@@ -31,6 +31,8 @@ title: Publications
 
 ### Conferences
 
+1. *Matthias Diener*, Daniel J. Bodony, Laxmikant Kale. **“Accelerating scientific applications on heterogeneous systems with HybridOMP.”** International Meeting on High Performance Computing for Computational Science (VECPAR), 2018.
+
 1. Eduardo H. M. Cruz, *Matthias Diener*, Matheus Da Silva Serpa, Philippe O. A. Navaux, Laércio L. Pilla, Israel Koren. **“Improving Communication and Load Balancing with Thread Mapping in Manycore Systems.”** International Conference on Parallel, Distributed and Network-based Processing (PDP), 2018. [[doi](http://doi.org/10.1109/PDP2018.2018.00021)]
 
 1. Seonmyeong Bak, Harshitha Menon, Sam White, *Matthias Diener*, Laxmikant Kale. **“Multi-level Load Balancing with an Integrated Runtime Approach.”** International Symposium on Cluster, Cloud and Grid Computing (CCGrid), 2018.
