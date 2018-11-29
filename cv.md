@@ -45,12 +45,12 @@ Urbana, IL 61801.
 
 ## Work Experience
 
-- **Postdoctoral researcher in Computer Science**, January 2017 -- Present.  
+- **Postdoctoral researcher in Computer Science**, January 2017 -- Present.
 	*University of Illinois at Urbana-Champaign*.
     - *Memory affinity improvements in parallel systems:* Developed automatic mapping mechanisms to detect and optimize the memory access behavior of parallel applications, drastically improving performance and energy efficiency.
     - *Heterogeneous computing:* Designed a model for heterogeneous CPU+GPU computing with an adaptive load balancing scheme to distribute work.
 
-- **Postdoctoral researcher in Computer Science**, November 2015 -- December 2016.  
+- **Postdoctoral researcher in Computer Science**, November 2015 -- December 2016.
 	*Federal University of Rio Grande do Sul (UFRGS), Brazil* and *University of Massachusetts, Amherst*.
     - *Performance portability of parallel applications in the cloud:* Developed scheduling improvements for large parallel applications running in public clouds, taking into account network and processing speeds as well as interference from other cloud tenants. Substantial improvements of execution time and performance portability in a variety of cloud computing environments.
     - *Memory tracing:* Created efficient memory tracing mechanisms that are faster than the current state-of-the-art and can trace physical memory addresses extracted from the host system in order to differentiate concurrently running applications.
@@ -146,13 +146,13 @@ A verified record of reviews is available at <https://publons.com/author/1341957
 
 ## Advised Students
 
-- João Paulo Tarasconi Ruschel: *Parallel Implementations of the Cholesky Decomposition on CPUs and GPUs.* (Undergraduate thesis, co-advised with Philippe O. A. Navaux).
+- João Paulo Tarasconi Ruschel, *“Parallel Implementations of the Cholesky Decomposition on CPUs and GPUs.”* (Undergraduate thesis, co-advised with Philippe O. A. Navaux).
 
 ## Invited Talks
 
-- **“Thread and Data Mapping in NUMA Architectures: An operating system perspective.”**
+- *“Thread and Data Mapping in NUMA Architectures: An operating system perspective.”*
 Inria, Grenoble (France), December 2013.
-- **“Thread and Data Mapping in Shared Memory Architectures.”**
+- *“Thread and Data Mapping in Shared Memory Architectures.”*
 University of Darmstadt (Germany), February 2016.
 
 
