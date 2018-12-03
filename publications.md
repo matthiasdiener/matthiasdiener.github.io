@@ -2,7 +2,7 @@
 title: Publications
 ---
 
-[Google Scholar](http://scholar.google.com/citations?user=LiU7uKIAAAAJ)
+<!-- [Google Scholar](http://scholar.google.com/citations?user=LiU7uKIAAAAJ) -->
 
 
 
@@ -35,7 +35,7 @@ title: Publications
 
 1. Eduardo H. M. Cruz, *Matthias Diener*, Matheus Da Silva Serpa, Philippe O. A. Navaux, Laércio L. Pilla, Israel Koren. **“Improving Communication and Load Balancing with Thread Mapping in Manycore Systems.”** International Conference on Parallel, Distributed and Network-based Processing (PDP), 2018. [[doi](http://doi.org/10.1109/PDP2018.2018.00021)]
 
-1. Seonmyeong Bak, Harshitha Menon, Sam White, *Matthias Diener*, Laxmikant Kale. **“Multi-level Load Balancing with an Integrated Runtime Approach.”** International Symposium on Cluster, Cloud and Grid Computing (CCGrid), 2018.
+1. Seonmyeong Bak, Harshitha Menon, Sam White, *Matthias Diener*, Laxmikant Kale. **“Multi-level Load Balancing with an Integrated Runtime Approach.”** International Symposium on Cluster, Cloud and Grid Computing (CCGrid), 2018. [[doi](https://doi.org/10.1109/CCGRID.2018.00018)]
 
 1. Eduardo Roloff, *Matthias Diener*, Luciano P. Gaspary,  Philippe O. A. Navaux. **“Exploiting Load Imbalance Patterns for Heterogeneous Cloud Computing Platforms.”** International Conference on Cloud Computing and Services Science (CLOSER), 2018. [[doi](https://doi.org/10.5220/0006807502480259)]
 
