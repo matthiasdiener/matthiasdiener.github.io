@@ -172,7 +172,7 @@ Available on request.
 
 ## Publications
 
-50 peer-reviewed publications with over 440 citations. A list of publications and citations is available on:
+More than 50 peer-reviewed publications with over 460 citations. A list of publications and citations is available on:
 
 - Google Scholar: <https://scholar.google.com/citations?user=LiU7uKIAAAAJ>
 - Scopus: <https://www.scopus.com/authid/detail.uri?authorId=36617072900>
