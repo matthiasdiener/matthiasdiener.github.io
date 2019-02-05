@@ -8,6 +8,8 @@ title: Publications
 
 ### Journals
 
+1. Matheus S. Serpa, Eduardo H. M. Cruz, *Matthias Diener*, Arthur M. Krause, Philippe O. A. Navaux, Jairo Panetta, Albert Farrés, Claudia Rosas, Mauricio Hanzich. **“Optimization Strategies for Geophysics Models on Manycore Systems.”** International Journal of High Performance Computing Applications (IJHPCA), 2019. [[doi](http://doi.org/10.1177/1094342018824150)]
+
 1. *Matthias Diener*, Eduardo H. M. Cruz, Marco A. Z. Alves, Philippe O. A. Navaux, Israel Koren. **“Affinity-Based Thread and Data Mapping in Shared Memory Systems.”** ACM Computing Surveys (CSUR), 2016. [[doi](http://doi.org/10.1145/3006385)]
 
 1. Eduardo H. M. Cruz, *Matthias Diener*, Laércio L. Pilla, Philippe O. A. Navaux. **“Hardware-Assisted Thread and Data Mapping in Hierarchical Multi-Core Architectures.”** ACM Transactions on Architecture and Code Optimization (TACO), 2016. [[doi](http://doi.org/10.1145/2975587)]
@@ -31,7 +33,9 @@ title: Publications
 
 ### Conferences
 
-1. *Matthias Diener*, Daniel J. Bodony, Laxmikant Kale. **“Accelerating scientific applications on heterogeneous systems with HybridOMP.”** International Meeting on High Performance Computing for Computational Science (VECPAR), 2018.
+1. Matheus S. Serpa, Eduardo H. M. Cruz, Francis B. Moreira, *Matthias Diener*, Philippe O. A. Navaux, Dalvan Griebler, Luiz G. Fernandes. **“Memory Performance and Bottlenecks in Multicore and GPU Architectures.”** International Conference on Parallel, Distributed and Network-based Processing (PDP), 2019. <!-- TODO: DOI -->
+
+1. *Matthias Diener*, Daniel J. Bodony, Laxmikant Kale. **“Accelerating scientific applications on heterogeneous systems with HybridOMP.”** International Meeting on High Performance Computing for Computational Science (VECPAR), 2018. <!-- TODO: LNCS -->
 
 1. Eduardo H. M. Cruz, *Matthias Diener*, Matheus Da Silva Serpa, Philippe O. A. Navaux, Laércio L. Pilla, Israel Koren. **“Improving Communication and Load Balancing with Thread Mapping in Manycore Systems.”** International Conference on Parallel, Distributed and Network-based Processing (PDP), 2018. [[doi](http://doi.org/10.1109/PDP2018.2018.00021)]
 

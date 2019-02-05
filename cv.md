@@ -21,26 +21,34 @@ header-includes: |
 
 ## Contact
 
-305 Coordinated Science Lab  
-University of Illinois at Urbana-Champaign,  
-Urbana, IL 61801.
+| 305 Coordinated Science Lab
+| University of Illinois at Urbana-Champaign,
+| Urbana, IL 61801.
 
-+1 (413)-317-1713  
-<matthias.diener@gmail.com>  
-<http://matthiasdiener.github.io>
+| +1 (413)-317-1713
+| <matthias.diener@gmail.com>
+| <mdiener@illinois.edu>
+| <http://matthiasdiener.github.io>
+
+
+## Objective
+
+My research goals are the optimization of parallel applications running on large computer systems, by adapting the application to the underlying hardware platform through usage of accelerators, improving memory affinity, and increasing load balance.
+
+
 
 ## Education
 
-- **Ph.D. in Computer Science**, October 2015.  
-	*Berlin University of Technology (TU Berlin), Germany* and *Federal University of Rio Grande do Sul (UFRGS), Brazil*.  
-	Advisors: Prof. Hans-Ulrich Heiss and Prof. Philippe O. A. Navaux.  
-	Dissertation: Automatic Task and Data Mapping in Shared Memory Architectures.  
-	*Summa cum laude*.  
-	Received award for 3rd best dissertation in Brazil in High Performance Computing, 2016.
+- **Ph.D. in Computer Science**, October 2015.
+	*Berlin University of Technology (TU Berlin), Germany* and *Federal University of Rio Grande do Sul (UFRGS), Brazil*.
+	<!-- Advisors: Prof. Hans-Ulrich Heiss and Prof. Philippe O. A. Navaux.   -->
+	<!-- Dissertation: Automatic Task and Data Mapping in Shared Memory Architectures.   -->
+	**Summa cum laude**.
+	<!-- Received award for 3rd best dissertation in Brazil in High Performance Computing, 2016. -->
 
-- **Diploma (equivalent to M.Sc.) in Computer Engineering**, November 2010.  
-	*Berlin University of Technology (TU Berlin), Germany*.  
-	Advisor: Prof. Hans-Ulrich Heiss.
+- **Diploma (equivalent to M.Sc.) in Computer Engineering**, November 2010.
+	*Berlin University of Technology (TU Berlin), Germany*.
+	<!-- Advisor: Prof. Hans-Ulrich Heiss. -->
 
 
 ## Work Experience
@@ -113,6 +121,7 @@ A verified record of reviews is available at <https://publons.com/author/1341957
 - ACM Computing Surveys (CSUR).
 - ACM Transactions on Architecture and Code Optimization (TACO).
 - ACM Transactions on Modeling and Performance Evaluation of Computing Systems (ToMPECS).
+- ACM Transactions on Parallel Computing (TOPC).
 - IEEE Transactions on Parallel and Distributed Systems (TPDS).
 - Concurrency and Computation: Practice and Experience.
 - Elsevier Parallel Computing (Parco).
