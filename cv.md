@@ -16,7 +16,7 @@ header-includes: |
     \makeatletter\let\ps@plain\ps@fancy\makeatother
 ---
 
-<!-- compile: pandoc -s cv.md publications.md -o cv.pdf -->
+<!-- compile: pandoc cv.md publications.md -o cv.pdf -->
 
 
 ## Contact
@@ -184,9 +184,9 @@ A verified record of reviews is available at <https://publons.com/author/1341957
 
 ## Invited Talks
 
-- *“Thread and Data Mapping in NUMA Architectures: An operating system perspective.”*
+- **“Thread and Data Mapping in NUMA Architectures: An operating system perspective.”**
 Inria, Grenoble (France), December 2013.
-- *“Thread and Data Mapping in Shared Memory Architectures.”*
+- **“Thread and Data Mapping in Shared Memory Architectures.”**
 University of Darmstadt (Germany), February 2016.
 
 
