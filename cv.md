@@ -63,31 +63,31 @@ My research goals are the optimization of parallel applications running on large
     - *Performance portability of parallel applications in the cloud:* Developed scheduling improvements for large parallel applications running in public clouds, taking into account network and processing speeds as well as interference from other cloud tenants. Substantial improvements of execution time and performance portability in a variety of cloud computing environments.
     - *Memory tracing:* Created efficient memory tracing mechanisms that are faster than the current state-of-the-art and can trace physical memory addresses extracted from the host system in order to differentiate concurrently running applications.
 
-
+<!-- 
 ## Teaching Experience
 
-- **Lecturer/Technical Lead, Intel Modern Code Partner** (2016--2017).  
+- **Lecturer/Technical Lead, Intel Modern Code Partner** (2016).
 	*Intel* and *Federal University of Rio Grande do Sul (UFRGS), Brazil*.
 	-  Co-developed a series of short courses to teach undergraduate and early graduate students parallel and distributed processing for modern multicore and manycore systems, in a partnership project with Intel.
 	-  Created course contents, and responsible for part of the lectures and lab assignments.
 
-- **Lecturer/Technical Lead, Education in High Performance Computing** (2016--2017).  
+- **Lecturer/Technical Lead, Education in High Performance Computing** (2016).
 	*HP Enterprise* and *Federal University of Rio Grande do Sul (UFRGS), Brazil*.
 	-  Co-developed a course in cooperation with HP Enterprise to teach undergraduate and graduate students about parallel programming (in OpenMP and MPI) and High Performance Computing.
 	-  Created course contents, and responsible for part of the lectures, lab and homework assignments, and the final project.
 
-- **Teaching Assistant** (2 semesters, 2012 and 1 semester, 2015).  
+- **Teaching Assistant** (2 semesters, 2012 and 1 semester, 2015).
 	*Federal University of Rio Grande do Sul (UFRGS), Brazil.*
 	- *Introduction to Computer Architecture:* Undergraduate-level course. Developed part of the lecture material. Responsible for part of the lectures, supervision of student projects, lab assignments, and application of exams.
 	- *Advanced Computer Architectures:* Graduate-level course. Developed part of the lecture material. Responsible for part of the lectures, lab and homework assignments, and application of exams.
 	- *Parallel and Distributed Processing:* 	Graduate-level course. Developed part of the lecture material. Responsible for part of the lectures, lab and homework assignments, and exams.
-
+ -->
 
 ## Awards
 
 - **Best paper award** --- International Conference on Parallel, Distributed, and Network-Based Processing (PDP), 2015.
 - **Distinction (summa cum laude)** --- Ph.D. dissertation, 2015.
-- **Award for 3rd best dissertation in High Performance Computing in Brazil** --- Ph.D. dissertation, 2016.
+<!-- - **Award for 3rd best dissertation in High Performance Computing in Brazil** --- Ph.D. dissertation, 2016. -->
 
 ## Languages
 
@@ -103,14 +103,30 @@ My research goals are the optimization of parallel applications running on large
   - Extensive experience in C/C++, including parallel programming.
   - 4+ years experience in optimizing parallel application performance.
 - **Programming languages**
-  - C, C++, Java, Python, R, x86 Assembler, OpenMP, MPI, Shell (Bash).
+  - C, C++, Java, OpenMP, MPI, Shell (Bash).
 - **Operating systems**
   - Linux (kernel programming in the scheduling and virtual memory subsystems), Solaris.
 - **Tools**
   - Simulation: Intel Pin, Simics, Gem5, CACTI, McPAT.
   - Performance analysis: perf, Intel vTune, gprof, Intel PCM.
   - Benchmarks: NAS-NPB, PARSEC, Rodinia, SPEC OMP2001/2012, SPEC CPU2006.
-  - Applications: BRAMS (weather simulation), Ondes3D (seismic wave propagation), PlasCom/2. 
+  - Applications: BRAMS (weather simulation), Ondes3D (seismic wave propagation), PlasCom/2.
+
+
+## Grants
+
+### Government:
+<!-- NNSA @XPACC -->
+<!-- - Probral/Unibral
+  - 2018: Padoin - submitted?
+  - 2017: submitted (researcher) - not accepted
+  - 2016: submitted, not including my name - not accepted? -->
+- 2017: **“Efficient Smart Memories for Data Intensive Computing.”** (researcher, 3.6\% of proposals accepted, Brazil), 2017.
+- 2015  **“High Performance Computing for Energy (HPC4E).”** (researcher, joint project of the European Union and Brazil), 2015.
+
+### Industry:
+<!-- - Intel Modern Code, technical lead, 2016. -->
+- HP Enterprise (HPC-ELO project), technical lead, 2016.
 
 
 ## Reviewer
@@ -156,6 +172,15 @@ A verified record of reviews is available at <https://publons.com/author/1341957
 ## Advised Students
 
 - João Paulo Tarasconi Ruschel, *“Parallel Implementations of the Cholesky Decomposition on CPUs and GPUs.”* (Undergraduate thesis, co-advised with Philippe O. A. Navaux).
+
+## Participation in examination committees
+
+<!-- Marco student: -->
+- Tiago Rodrigo Kepe (PhD thesis, 2017).
+<!-- end of 2015 people: -->
+- João Paulo Tarasconi Ruschel (Undergraduate thesis, 2016).
+- Guilherme Grunewald de Magalhães (Undergraduate thesis, 2016).
+
 
 ## Invited Talks
 
