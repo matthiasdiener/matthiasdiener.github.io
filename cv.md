@@ -169,6 +169,7 @@ A verified record of reviews is available at <https://publons.com/author/1341957
 - Tutorials Program Committee for Supercomputing 2018.
 - Tutorials Program Committee for Supercomputing 2019.
 - Heterogeneity in Computing Workshop (HCW), co-located with IPDPS 2019.
+- Workshop on Data Locality (COLOC), co-located with Euro-Par 2019.
 
 ## Advised Students
 
