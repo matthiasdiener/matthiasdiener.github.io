@@ -135,6 +135,7 @@ A verified record of reviews is available at <https://publons.com/author/1341957
 
 ### Journals
 - ACM Computing Surveys (CSUR).
+- ACM Journal on Emerging Technologies in Computing Systems (JETC).
 - ACM Transactions on Architecture and Code Optimization (TACO).
 - ACM Transactions on Modeling and Performance Evaluation of Computing Systems (ToMPECS).
 - ACM Transactions on Parallel Computing (TOPC).
@@ -177,9 +178,11 @@ A verified record of reviews is available at <https://publons.com/author/1341957
 
 <!-- Marco student: -->
 - Tiago Rodrigo Kepe (PhD thesis, 2017).
-<!-- end of 2015 people: -->
+<!-- 2016 people: -->
 - João Paulo Tarasconi Ruschel (Undergraduate thesis, 2016).
 - Guilherme Grunewald de Magalhães (Undergraduate thesis, 2016).
+<!-- Caco: -->
+- Charles Cardoso de Oliveira (Master's thesis, 2019).
 
 
 ## Invited Talks

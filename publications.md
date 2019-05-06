@@ -35,7 +35,7 @@ title: Publications
 
 1. Matheus S. Serpa, Eduardo H. M. Cruz, Francis B. Moreira, *Matthias Diener*, Philippe O. A. Navaux, Dalvan Griebler, Luiz G. Fernandes. **“Memory Performance and Bottlenecks in Multicore and GPU Architectures.”** International Conference on Parallel, Distributed and Network-based Processing (PDP), 2019. <!-- TODO: DOI -->
 
-1. *Matthias Diener*, Daniel J. Bodony, Laxmikant Kale. **“Accelerating scientific applications on heterogeneous systems with HybridOMP.”** International Meeting on High Performance Computing for Computational Science (VECPAR), 2018. <!-- TODO: LNCS -->
+1. *Matthias Diener*, Daniel J. Bodony, Laxmikant Kale. **“Accelerating scientific applications on heterogeneous systems with HybridOMP.”** International Meeting on High Performance Computing for Computational Science (VECPAR), 2018. <!-- TODO: LNCS, DOI -->
 
 1. Eduardo H. M. Cruz, *Matthias Diener*, Matheus Da Silva Serpa, Philippe O. A. Navaux, Laércio L. Pilla, Israel Koren. **“Improving Communication and Load Balancing with Thread Mapping in Manycore Systems.”** International Conference on Parallel, Distributed and Network-based Processing (PDP), 2018. [[doi](http://doi.org/10.1109/PDP2018.2018.00021)]
 
