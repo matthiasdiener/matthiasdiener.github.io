@@ -143,6 +143,7 @@ A verified record of reviews is available at <https://publons.com/author/1341957
 - Concurrency and Computation: Practice and Experience.
 - Elsevier Parallel Computing (Parco).
 - Elsevier Journal of Parallel and Distributed Processing (JPDC).
+- Elsevier Journal of Systems Architecture (JSA).
 - Elsevier Computers & Electrical Engineering.
 - Elsevier Microelectronic Engineering.
 - Elsevier Microprocessors and Microsystems.
@@ -170,10 +171,12 @@ A verified record of reviews is available at <https://publons.com/author/1341957
 - Tutorials Program Committee for Supercomputing 2019.
 - Heterogeneity in Computing Workshop (HCW), co-located with IPDPS 2019.
 - Workshop on Data Locality (COLOC), co-located with Euro-Par 2019.
+- International Symposium on Computer Architecture and High Performance Computing (SBAC-PAD) 2019.
 
 ## Advised Students
 
 - João Paulo Tarasconi Ruschel, *“Parallel Implementations of the Cholesky Decomposition on CPUs and GPUs.”* (Undergraduate thesis, co-advised with Philippe O. A. Navaux).
+<!-- add Dev? -->
 
 ## Participation in examination committees
 
