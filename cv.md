@@ -140,6 +140,7 @@ A verified record of reviews is available at <https://publons.com/author/1341957
 - ACM Transactions on Modeling and Performance Evaluation of Computing Systems (ToMPECS).
 - ACM Transactions on Parallel Computing (TOPC).
 - IEEE Transactions on Parallel and Distributed Systems (TPDS).
+- IEEE Access.
 - Concurrency and Computation: Practice and Experience.
 - Elsevier Parallel Computing (Parco).
 - Elsevier Journal of Parallel and Distributed Processing (JPDC).
