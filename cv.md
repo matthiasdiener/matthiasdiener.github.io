@@ -173,6 +173,8 @@ A verified record of reviews is available at <https://publons.com/author/1341957
 - Heterogeneity in Computing Workshop (HCW), co-located with IPDPS 2019.
 - Workshop on Data Locality (COLOC), co-located with Euro-Par 2019.
 - International Symposium on Computer Architecture and High Performance Computing (SBAC-PAD) 2019.
+- Heterogeneity in Computing Workshop (HCW), co-located with IPDPS 2020.
+- IEEE Cluster 2020.
 
 ## Advised Students
 
