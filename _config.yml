@@ -5,4 +5,4 @@ description:
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://matthiasdiener.github.io" # the base hostname & protocol for your site
 github_username: matthiasdiener
-theme: jekyll-theme-time-machine
+theme: jekyll-theme-tactile
