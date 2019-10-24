@@ -121,7 +121,7 @@ My research goals are the optimization of parallel applications running on large
   - 2018: Padoin - submitted?
   - 2017: submitted (researcher) - not accepted
   - 2016: submitted, not including my name - not accepted? -->
-- 2017: **“Efficient Smart Memories for Data Intensive Computing.”** (researcher, 3.6\% of proposals accepted, Brazil), 2017.
+- 2017: **“Efficient Smart Memories for Data Intensive Computing.”** (researcher, 3.6% of proposals accepted, Brazil), 2017.
 - 2015  **“High Performance Computing for Energy (HPC4E).”** (researcher, joint project of the European Union and Brazil), 2015.
 
 ### Industry:
