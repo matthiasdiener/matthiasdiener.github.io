@@ -35,7 +35,7 @@ title: Publications
 
 ### Conferences
 
-1. Eduardo Roloff, *Matthias Diener*, Luciano P. Gaspary,  Philippe O. A. Navaux. **“Exploring Instance Heterogeneity in Public Cloud Providers for HPC Applications.”** International Conference on Cloud Computing and Services Science (CLOSER), 2019. [[doi](https://doi.org/10.1109/ISPDC.2019.00023)]
+1. Eduardo Roloff, *Matthias Diener*, Luciano P. Gaspary,  Philippe O. A. Navaux. **“Exploring Instance Heterogeneity in Public Cloud Providers for HPC Applications.”** International Conference on Cloud Computing and Services Science (CLOSER), 2019. [[doi](https://doi.org/10.5220/0007799302100222)]
 
 1. Emmanuell D. Carreno, Marco A. Z. Alves, *Matthias Diener*, Eduardo Roloff, Philippe A. O. Navaux. **“Multi-phased Task Placement of HPC Applications in the Cloud.”** International Symposium on Parallel and Distributed Computing (ISPDC), 2019. [[doi](https://doi.org/10.1109/ISPDC.2019.00023)]
 
