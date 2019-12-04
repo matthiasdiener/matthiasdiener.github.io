@@ -200,11 +200,6 @@ Inria, Grenoble (France), December 2013.
 University of Darmstadt (Germany), February 2016.
 
 
-## References
-
-Available on request.
-
-
 ## Publications
 
 More than 50 peer-reviewed publications with over 500 citations (h-index: 13). A list of publications and citations is available on:
