@@ -28,7 +28,7 @@ header-includes: |
 | +1 (413)-317-1713
 | <matthias.diener@gmail.com>
 | <mdiener@illinois.edu>
-| <http://matthiasdiener.github.io>
+| <https://matthiasdiener.github.io>
 
 
 ## Objective
@@ -59,7 +59,7 @@ My research goals are the optimization of parallel applications running on large
     - *Heterogeneous computing:* Designed a model for heterogeneous CPU+GPU computing with an adaptive load balancing scheme to distribute work.
 
 - **Postdoctoral researcher in Computer Science**, November 2015 -- December 2016.
-	*Federal University of Rio Grande do Sul (UFRGS), Brazil* and *University of Massachusetts, Amherst*.
+	*Federal University of Rio Grande do Sul (UFRGS), Brazil*.
     - *Performance portability of parallel applications in the cloud:* Developed scheduling improvements for large parallel applications running in public clouds, taking into account network and processing speeds as well as interference from other cloud tenants. Substantial improvements of execution time and performance portability in a variety of cloud computing environments.
     - *Memory tracing:* Created efficient memory tracing mechanisms that are faster than the current state-of-the-art and can trace physical memory addresses extracted from the host system in order to differentiate concurrently running applications.
 
