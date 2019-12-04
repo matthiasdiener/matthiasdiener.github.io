@@ -99,7 +99,7 @@ title: Publications
 
 1. Marco A. Z. Alves, Carlos Villavieja, *Matthias Diener*, Philippe O. A. Navaux. **“Energy Efficient Last Level Caches via Last Read/Write Prediction.”** International Symposium on Computer Architecture and High Performance Computing (SBAC-PAD), 2013. [[doi](https://doi.org/10.1109/SBAC-PAD.2013.12)]
 
-1. *Matthias Diener*, Eduardo H. M. Cruz, Philippe O. A. Navaux. **“Communication-Based Mapping using Shared Pages.”** International Parallel & Distributed Processing Symposium (IPDPS), 2013. [[doi](https://doi.org/10.1109/10.1109/IPDPS.2013.57)]
+1. *Matthias Diener*, Eduardo H. M. Cruz, Philippe O. A. Navaux. **“Communication-Based Mapping using Shared Pages.”** International Parallel & Distributed Processing Symposium (IPDPS), 2013. [[doi](https://doi.org/10.1109/IPDPS.2013.57)]
 
 1. Anselm Busse, Jan H. Schönherr, *Matthias Diener*, Gero Mühl, Jan Richling. **“Analyzing Resource Interdependencies in Multi-Core Architectures to Improve Scheduling Decisions.”** ACM Symposium on Applied Computing (SAC), 2013. [[doi](https://doi.org/10.1145/2480362.2480661)]
 
