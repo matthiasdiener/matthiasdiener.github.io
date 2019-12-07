@@ -39,7 +39,7 @@ title: Publications
 
 1. Emmanuell D. Carreno, Marco A. Z. Alves, *Matthias Diener*, Eduardo Roloff, Philippe A. O. Navaux. **“Multi-phased Task Placement of HPC Applications in the Cloud.”** International Symposium on Parallel and Distributed Computing (ISPDC), 2019. [[doi](https://doi.org/10.1109/ISPDC.2019.00023)]
 
-1. Edson Luiz Padoin, *Matthias Diener*, Philippe O. A. Navaux and Jean-François Méhaut. **“Managing Power Demand and Load Imbalance to Save Energy on Systems with Heterogeneous CPU Speeds.”** International Symposium on Computer Architecture and High Performance Computing (SBAC-PAD), 2019. <!-- TODO: doi -->
+1. Edson Luiz Padoin, *Matthias Diener*, Philippe O. A. Navaux, Jean-François Méhaut. **“Managing Power Demand and Load Imbalance to Save Energy on Systems with Heterogeneous CPU Speeds.”** International Symposium on Computer Architecture and High Performance Computing (SBAC-PAD), 2019. [[doi](https://doi.org/10.1109/SBAC-PAD.2019.00024)]
 
 1. Matheus S. Serpa, Eduardo H. M. Cruz, Francis B. Moreira, *Matthias Diener*, Philippe O. A. Navaux, Dalvan Griebler, Luiz G. Fernandes. **“Memory Performance and Bottlenecks in Multicore and GPU Architectures.”** International Conference on Parallel, Distributed and Network-based Processing (PDP), 2019. [[doi](https://doi.org/10.1109/EMPDP.2019.8671628)]
 
