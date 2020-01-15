@@ -26,7 +26,6 @@ header-includes: |
 | Urbana, IL 61801.
 
 | +1 (413)-317-1713
-| <matthias.diener@gmail.com>
 | <mdiener@illinois.edu>
 | <https://matthiasdiener.github.io>
 
@@ -139,6 +138,7 @@ A verified record of reviews is available at <https://publons.com/author/1341957
 - ACM Transactions on Architecture and Code Optimization (TACO).
 - ACM Transactions on Modeling and Performance Evaluation of Computing Systems (ToMPECS).
 - ACM Transactions on Parallel Computing (TOPC).
+- ACM Transactions on Emerging Topics in Computing (TETCSI).
 - IEEE Transactions on Parallel and Distributed Systems (TPDS).
 - IEEE Access.
 - Concurrency and Computation: Practice and Experience.
