@@ -37,6 +37,10 @@ title: Publications
 
 ### Conferences
 
+1. Douglas Pereira Pasqualin, *Matthias Diener*, André Rauber Du Bois, Mauricio Lima Pilla. **“Characterizing the Sharing Behavior of Applications using Software Transactional Memory.”** International Symposium on Benchmarking, Measuring and Optimizing (Bench), 2020.
+
+1. Douglas Pereira Pasqualin, *Matthias Diener*, André Rauber Du Bois, Mauricio Lima Pilla. **“Online Sharing-Aware Thread Mapping in Software Transactional Memory.”** International Symposium on Computer Architecture and High Performance Computing (SBAC-PAD), 2020.
+
 1. Douglas Pereira Pasqualin, *Matthias Diener*, André Rauber Du Bois, Mauricio Lima Pilla. **“Thread Affinity in Software Transactional Memory.”** International Symposium on Parallel and Distributed Computing (ISPDC), 2020. [[doi](https://doi.org/10.1109/ISPDC51135.2020.00033)]
 
 1. Eduardo Roloff, *Matthias Diener*, Luciano P. Gaspary,  Philippe O. A. Navaux. **“Exploring Instance Heterogeneity in Public Cloud Providers for HPC Applications.”** International Conference on Cloud Computing and Services Science (CLOSER), 2019. [[doi](https://doi.org/10.5220/0007799302100222)]
