@@ -8,6 +8,8 @@ title: Publications
 
 ### Journals
 
+1. *Matthias Diener*, Laxmikant V. Kale, Daniel J. Bodony. **“Heterogeneous Computing with OpenMP and Hydra.”** Concurrency and Computation: Practice and Experience (CCPE), 2020. [[doi](https://doi.org/10.1002/cpe.5728)]
+
 1. Eduardo H. M. Cruz, *Matthias Diener*, Laércio L. Pilla, Philippe O. A. Navaux. **“EagerMap: A Task Mapping Algorithm to Improve Communication and Load Balancing in Clusters of Multicore Systems.”** ACM Transactions on Parallel Computing (TOPC), 2019. [[doi](https://doi.org/10.1145/3309711)]
 
 1. Matheus S. Serpa, Eduardo H. M. Cruz, *Matthias Diener*, Arthur M. Krause, Philippe O. A. Navaux, Jairo Panetta, Albert Farrés, Claudia Rosas, Mauricio Hanzich. **“Optimization Strategies for Geophysics Models on Manycore Systems.”** International Journal of High Performance Computing Applications (IJHPCA), 2019. [[doi](https://doi.org/10.1177/1094342018824150)]
