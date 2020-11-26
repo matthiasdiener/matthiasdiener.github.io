@@ -8,6 +8,8 @@ title: Publications
 
 ### Journals
 
+1.  Eduardo H. M. Cruz, *Matthias Diener*, Laércio L. Pilla, Philippe O. A. Navaux. **“Online Thread and Data Mapping Using a Sharing-Aware Memory Management Unit.”** ACM Transactions on Modeling and Performance Evaluation of Computing Systems (TOMPECS), 2020.
+
 1. *Matthias Diener*, Laxmikant V. Kale, Daniel J. Bodony. **“Heterogeneous Computing with OpenMP and Hydra.”** Concurrency and Computation: Practice and Experience (CCPE), 2020. [[doi](https://doi.org/10.1002/cpe.5728)]
 
 1. Eduardo H. M. Cruz, *Matthias Diener*, Laércio L. Pilla, Philippe O. A. Navaux. **“EagerMap: A Task Mapping Algorithm to Improve Communication and Load Balancing in Clusters of Multicore Systems.”** ACM Transactions on Parallel Computing (TOPC), 2019. [[doi](https://doi.org/10.1145/3309711)]
