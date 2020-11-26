@@ -37,6 +37,8 @@ title: Publications
 
 ### Conferences
 
+1. Douglas Pereira Pasqualin, *Matthias Diener*, André Rauber Du Bois, Mauricio Lima Pilla. **“Thread Affinity in Software Transactional Memory.”** International Symposium on Parallel and Distributed Computing (ISPDC), 2020. [[doi](https://doi.org/10.1109/ISPDC51135.2020.00033)]
+
 1. Eduardo Roloff, *Matthias Diener*, Luciano P. Gaspary,  Philippe O. A. Navaux. **“Exploring Instance Heterogeneity in Public Cloud Providers for HPC Applications.”** International Conference on Cloud Computing and Services Science (CLOSER), 2019. [[doi](https://doi.org/10.5220/0007799302100222)]
 
 1. Emmanuell D. Carreno, Marco A. Z. Alves, *Matthias Diener*, Eduardo Roloff, Philippe A. O. Navaux. **“Multi-phased Task Placement of HPC Applications in the Cloud.”** International Symposium on Parallel and Distributed Computing (ISPDC), 2019. [[doi](https://doi.org/10.1109/ISPDC.2019.00023)]
@@ -118,6 +120,8 @@ title: Publications
 
 
 ### Workshops
+
+1. *Matthias Diener*, Laxmikant Kale. **“Unified data movement for offloading Charm++ applications.”** International Workshop on Accelerators and Hybrid Exascale Systems (AsHES), held in conjunction with the International Parallel and Distributed Processing Symposium (IPDPS), 2020.
 
 1. Eduardo Roloff, *Matthias Diener*, Emmanuell D. Carreño, Francis B. Moreira, Luciano P. Gaspary, Philippe O. A. Navaux. **“Exploiting price and performance tradeoffs in heterogeneous clouds.”** International Workshop on Clouds and eScience Applications Management (CloudAM), held in conjunction with the International Conference on Utility and Cloud Computing (UCC), 2017. [[doi](https://doi.org/10.1145/3147234.3148103)]
 
