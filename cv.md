@@ -201,4 +201,4 @@ More than 60 peer-reviewed publications with over 800 citations (h-index: 17). A
 
 - Google Scholar: <https://scholar.google.com/citations?user=LiU7uKIAAAAJ>
 - Scopus: <https://www.scopus.com/authid/detail.uri?authorId=36617072900>
-- SemanticScholar: <https://www.semanticscholar.org/author/M.-Diener/1734736>
+- Semantic Scholar: <https://www.semanticscholar.org/author/M.-Diener/1734736>
