@@ -39,8 +39,8 @@ My research goals are the optimization of parallel applications running on large
 ## Education
 
 - **Ph.D. in Computer Science**, October 2015.
-	*Berlin University of Technology (TU Berlin), Germany* and *Federal University of Rio Grande do Sul (UFRGS), Brazil*.
-	<!-- Advisors: Prof. Hans-Ulrich Heiss and Prof. Philippe O. A. Navaux.   -->
+	*Federal University of Rio Grande do Sul (UFRGS), Brazil* and *Berlin University of Technology (TU Berlin), Germany*.
+	<!-- Advisors: Prof. Philippe O. A. Navaux and Prof. Hans-Ulrich Heiss.   -->
 	<!-- Dissertation: Automatic Task and Data Mapping in Shared Memory Architectures.   -->
 	**Summa cum laude**.
 	<!-- Received award for 3rd best dissertation in Brazil in High Performance Computing, 2016. -->
@@ -185,7 +185,7 @@ A verified record of reviews is available at <https://publons.com/author/1341957
 - Tiago Rodrigo Kepe (PhD thesis, 2017).
 <!-- Caco: -->
 - Charles Cardoso de Oliveira (Master's thesis, 2019).
-
+- Douglas Pereira Pasqualin (PhD thesis, 2021).
 
 ## Invited Talks
 
