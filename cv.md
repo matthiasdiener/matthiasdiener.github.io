@@ -40,7 +40,7 @@ My research goals are the optimization of parallel applications running on large
 
 - **Ph.D. in Computer Science**, October 2015.
 	*Federal University of Rio Grande do Sul (UFRGS), Brazil* and *Berlin University of Technology (TU Berlin), Germany*.
-	<!-- Advisors: Prof. Philippe O. A. Navaux and Prof. Hans-Ulrich Heiss.   -->
+	Advisors: Prof. Philippe O. A. Navaux and Prof. Hans-Ulrich Heiss.
 	<!-- Dissertation: Automatic Task and Data Mapping in Shared Memory Architectures.   -->
 	**Summa cum laude**.
 	<!-- Received award for 3rd best dissertation in Brazil in High Performance Computing, 2016. -->
