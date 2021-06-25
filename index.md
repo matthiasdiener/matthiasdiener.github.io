@@ -5,7 +5,7 @@ title: About
 **Matthias Diener**,
 PhD<br><br>
 *Parallel Programming Laboratory (PPL)* and<br>
-*The Center For Exascale Simulation Of Plasma-coupled Combustion (XPACC)* <br>
+*The Center for Exascale-enabled Scramjet Design (CEESD)* <br>
 *University of Illinois at Urbana-Champaign*<br>
 
 <a href="mailto:mdiener@illinois.edu">mdiener@illinois.edu</a> \| <a href="https://matthiasdiener.github.io">matthiasdiener.github.io</a> <br>
