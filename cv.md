@@ -84,6 +84,7 @@ My research goals are the optimization of parallel applications running on large
 
 ## Awards
 
+- **Best paper award** --- International Symposium on Benchmarking, Measuring and Optimizing, 2020.
 - **Best paper award** --- International Conference on Parallel, Distributed, and Network-Based Processing (PDP), 2015.
 - **Distinction (summa cum laude)** --- Ph.D. dissertation, 2015.
 <!-- - **Award for 3rd best dissertation in High Performance Computing in Brazil** --- Ph.D. dissertation, 2016. -->
@@ -114,7 +115,7 @@ My research goals are the optimization of parallel applications running on large
 
 ## Grants
 
-### Government:
+<!-- ### Government: -->
 <!-- NNSA @XPACC -->
 <!-- - Probral/Unibral
   - 2018: Padoin - submitted?
@@ -123,7 +124,7 @@ My research goals are the optimization of parallel applications running on large
 - 2017: **“Efficient Smart Memories for Data Intensive Computing.”** (researcher, 3.6% of proposals accepted, Brazil), 2017.
 - 2015  **“High Performance Computing for Energy (HPC4E).”** (researcher, joint project of the European Union and Brazil), 2015.
 
-### Industry:
+<!-- ### Industry: -->
 <!-- - Intel Modern Code, technical lead, 2016. -->
 - HP Enterprise (HPC-ELO project), technical lead, 2016.
 
