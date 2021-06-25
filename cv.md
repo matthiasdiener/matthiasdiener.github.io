@@ -30,9 +30,9 @@ header-includes: |
 | <https://matthiasdiener.github.io>
 
 
-## Objective
+<!-- ## Objective
 
-My research goals are the optimization of parallel applications running on large computer systems, by adapting the application to the underlying hardware platform through usage of accelerators, improving memory affinity, and increasing load balance.
+My research goals are the optimization of parallel applications running on large computer systems, by adapting the application to the underlying hardware platform through usage of accelerators, improving memory affinity, and increasing load balance. -->
 
 
 
@@ -166,7 +166,7 @@ A verified record of reviews is available at <https://publons.com/author/1341957
 ## Program Committee Membership
 
 - Heterogeneity in Computing Workshop (HCW, co-located with IPDPS) 2017, 2018, 2019, 2020.
-- Open Workshop on Data Locality (COLOC, co-located with Euro-Par) 2017, 2018, 2019.
+- Open Workshop on Data Locality (COLOC, co-located with Euro-Par) 2017, 2018, 2019, 2021.
 - Tutorials Program Committee for Supercomputing 2018, 2019.
 - International Symposium on Computer Architecture and High Performance Computing (SBAC-PAD) 2019.
 - IEEE Cluster 2020.
@@ -175,7 +175,9 @@ A verified record of reviews is available at <https://publons.com/author/1341957
 
 - Douglas Pereira Pasqualin *“Thread and Data Mapping in STM architectures.”* (Ph.D. thesis, co-advised with André Rauber Du Bois, 2021)
 - João Paulo Tarasconi Ruschel, *“Parallel Implementations of the Cholesky Decomposition on CPUs and GPUs.”* (Undergraduate thesis, co-advised with Philippe O. A. Navaux, 2016).
-<!-- add Dev? -->
+<!-- add Dev? --- No.-->
+<!-- add Annabelle? -->
+
 
 ## Participation in examination committees
 
