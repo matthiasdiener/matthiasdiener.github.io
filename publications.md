@@ -8,7 +8,7 @@ title: Publications
 
 ### Journals
 
-1.  Eduardo H. M. Cruz, *Matthias Diener*, Laércio L. Pilla, Philippe O. A. Navaux. **“Online Thread and Data Mapping Using a Sharing-Aware Memory Management Unit.”** ACM Transactions on Modeling and Performance Evaluation of Computing Systems (TOMPECS), 2020.
+1.  Eduardo H. M. Cruz, *Matthias Diener*, Laércio L. Pilla, Philippe O. A. Navaux. **“Online Thread and Data Mapping Using a Sharing-Aware Memory Management Unit.”** ACM Transactions on Modeling and Performance Evaluation of Computing Systems (TOMPECS), 2020. [[doi](https://doi.org/10.1145/3433687)]
 
 1. *Matthias Diener*, Laxmikant V. Kale, Daniel J. Bodony. **“Heterogeneous Computing with OpenMP and Hydra.”** Concurrency and Computation: Practice and Experience (CCPE), 2020. [[doi](https://doi.org/10.1002/cpe.5728)]
 
@@ -39,7 +39,7 @@ title: Publications
 
 ### Conferences
 
-1. Douglas Pereira Pasqualin, *Matthias Diener*, André Rauber Du Bois, Mauricio Lima Pilla. **“Characterizing the Sharing Behavior of Applications using Software Transactional Memory.”** International Symposium on Benchmarking, Measuring and Optimizing (Bench), 2020. **Award for Best Paper.** **Award for Excellence for Reproducible Research.**
+1. Douglas Pereira Pasqualin, *Matthias Diener*, André Rauber Du Bois, Mauricio Lima Pilla. **“Characterizing the Sharing Behavior of Applications using Software Transactional Memory.”** International Symposium on Benchmarking, Measuring and Optimizing (Bench), 2020. **Award for Best Paper.** **Award for Excellence for Reproducible Research.** [[doi](https://doi.org/10.1007/978-3-030-71058-3_1)]
 
 1. Douglas Pereira Pasqualin, *Matthias Diener*, André Rauber Du Bois, Mauricio Lima Pilla. **“Online Sharing-Aware Thread Mapping in Software Transactional Memory.”** International Symposium on Computer Architecture and High Performance Computing (SBAC-PAD), 2020.
 
@@ -127,7 +127,7 @@ title: Publications
 
 ### Workshops
 
-1. *Matthias Diener*, Laxmikant Kale. **“Unified data movement for offloading Charm++ applications.”** International Workshop on Accelerators and Hybrid Exascale Systems (AsHES), held in conjunction with the International Parallel and Distributed Processing Symposium (IPDPS), 2020.
+1. *Matthias Diener*, Laxmikant Kale. **“Unified data movement for offloading Charm++ applications.”** International Workshop on Accelerators and Hybrid Exascale Systems (AsHES), held in conjunction with the International Parallel and Distributed Processing Symposium (IPDPS), 2020. [[doi](https://doi.org/10.1109/IPDPSW50202.2020.00085)]
 
 1. Eduardo Roloff, *Matthias Diener*, Emmanuell D. Carreño, Francis B. Moreira, Luciano P. Gaspary, Philippe O. A. Navaux. **“Exploiting price and performance tradeoffs in heterogeneous clouds.”** International Workshop on Clouds and eScience Applications Management (CloudAM), held in conjunction with the International Conference on Utility and Cloud Computing (UCC), 2017. [[doi](https://doi.org/10.1145/3147234.3148103)]
 

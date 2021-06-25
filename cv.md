@@ -62,7 +62,7 @@ My research goals are the optimization of parallel applications running on large
     - *Performance portability of parallel applications in the cloud:* Developed scheduling improvements for large parallel applications running in public clouds, taking into account network and processing speeds as well as interference from other cloud tenants. Substantial improvements of execution time and performance portability in a variety of cloud computing environments.
     - *Memory tracing:* Created efficient memory tracing mechanisms that are faster than the current state-of-the-art and can trace physical memory addresses extracted from the host system in order to differentiate concurrently running applications.
 
-<!-- 
+<!--
 ## Teaching Experience
 
 - **Lecturer/Technical Lead, Intel Modern Code Partner** (2016).
@@ -102,7 +102,7 @@ My research goals are the optimization of parallel applications running on large
   - Extensive experience in C/C++, including parallel programming.
   - 4+ years experience in optimizing parallel application performance.
 - **Programming languages**
-  - C, C++, Java, OpenMP, MPI, Shell (Bash).
+  - C, C++, Python, Java, OpenMP, MPI, Shell (Bash).
 - **Operating systems**
   - Linux (kernel programming in the scheduling and virtual memory subsystems), Solaris.
 - **Tools**
@@ -136,20 +136,21 @@ A verified record of reviews is available at <https://publons.com/author/1341957
 - ACM Computing Surveys (CSUR).
 - ACM Journal on Emerging Technologies in Computing Systems (JETC).
 - ACM Transactions on Architecture and Code Optimization (TACO).
+- ACM Transactions on Emerging Topics in Computing (TETCSI).
 - ACM Transactions on Modeling and Performance Evaluation of Computing Systems (ToMPECS).
 - ACM Transactions on Parallel Computing (TOPC).
-- ACM Transactions on Emerging Topics in Computing (TETCSI).
-- IEEE Transactions on Parallel and Distributed Systems (TPDS).
-- IEEE Access.
 - Concurrency and Computation: Practice and Experience.
-- Elsevier Parallel Computing (Parco).
+- Elsevier Computers & Electrical Engineering.
+- Elsevier Future Generation Computer Systems (FGCS).
 - Elsevier Journal of Parallel and Distributed Processing (JPDC).
 - Elsevier Journal of Systems Architecture (JSA).
-- Elsevier Computers & Electrical Engineering.
 - Elsevier Microelectronic Engineering.
 - Elsevier Microprocessors and Microsystems.
-- Springer Computing.
+- Elsevier Parallel Computing (Parco).
+- IEEE Access.
+- IEEE Transactions on Parallel and Distributed Systems (TPDS).
 - International Journal of Computational Science and Engineering.
+- Springer Computing.
 
 ### Conferences & Workshops
 - IEEE International Parallel & Distributed Processing Symposium (IPDPS).
@@ -178,21 +179,21 @@ A verified record of reviews is available at <https://publons.com/author/1341957
 
 ## Participation in examination committees
 
+- Douglas Pereira Pasqualin (PhD thesis, 2021).
+<!-- Caco: -->
+- Charles Cardoso de Oliveira (Master's thesis, 2019).
+<!-- Marco student: -->
+- Tiago Rodrigo Kepe (PhD thesis, 2017).
 <!-- 2016 people: -->
 - João Paulo Tarasconi Ruschel (Undergraduate thesis, 2016).
 - Guilherme Grunewald de Magalhães (Undergraduate thesis, 2016).
-<!-- Marco student: -->
-- Tiago Rodrigo Kepe (PhD thesis, 2017).
-<!-- Caco: -->
-- Charles Cardoso de Oliveira (Master's thesis, 2019).
-- Douglas Pereira Pasqualin (PhD thesis, 2021).
+
 
 ## Invited Talks
 
-- **“Thread and Data Mapping in NUMA Architectures: An operating system perspective.”**
-Inria, Grenoble (France), December 2013.
-- **“Thread and Data Mapping in Shared Memory Architectures.”**
-University of Darmstadt (Germany), February 2016.
+- **“Thread and Data Mapping in Shared Memory Architectures.”** University of Darmstadt (Germany), February 2016.
+- **“Thread and Data Mapping in NUMA Architectures: An operating system perspective.”** Inria, Grenoble (France), December 2013.
+
 
 
 ## Publications
