@@ -110,7 +110,7 @@ My research goals are the optimization of parallel applications running on large
   - Simulation: Intel Pin, Simics, Gem5, CACTI, McPAT.
   - Performance analysis: perf, Intel vTune, gprof, Intel PCM.
   - Benchmarks: NAS-NPB, PARSEC, Rodinia, SPEC OMP2001/2012, SPEC CPU2006.
-  - Applications: BRAMS (weather simulation), Ondes3D (seismic wave propagation), PlasCom/2.
+  - Applications: BRAMS (weather simulation), Ondes3D (seismic wave propagation), PlasCom/2, MIRGE-Com.
 
 
 ## Grants
@@ -121,12 +121,12 @@ My research goals are the optimization of parallel applications running on large
   - 2018: Padoin - submitted?
   - 2017: submitted (researcher) - not accepted
   - 2016: submitted, not including my name - not accepted? -->
-- 2017: **“Efficient Smart Memories for Data Intensive Computing.”** (researcher, 3.6% of proposals accepted, Brazil), 2017.
-- 2015  **“High Performance Computing for Energy (HPC4E).”** (researcher, joint project of the European Union and Brazil), 2015.
-
+- *“Efficient Smart Memories for Data Intensive Computing.”* (researcher, 3.6% of proposals accepted, Brazil), 2017.
+- *“High Performance Computing for Energy (HPC4E).”* (researcher, joint project of the European Union and Brazil), 2015.
+<!--  -->
 <!-- ### Industry: -->
-<!-- - Intel Modern Code, technical lead, 2016. -->
-- HP Enterprise (HPC-ELO project), technical lead, 2016.
+- *Intel Modern Code*, technical lead, 2016.
+- *HP Enterprise (HPC-ELO project)*, technical lead, 2016.
 
 
 ## Reviewer
