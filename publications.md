@@ -8,6 +8,10 @@ title: Publications
 
 ### Journals
 
+1. Eduardo H. M. Cruz, João M. Maciel, Camila Clozato, Matheus S. Serpa, Philippe O. A. Navaux, Esteban Meneses, Mariela Abdalah, *Matthias Diener*. **“Simulation-based evaluation of school reopening strategies during COVID-19: A case study of São Paulo, Brazil.”** Epidemiology & Infection, 2021. [[doi](https://doi.org/10.1017/S0950268821001059)]
+
+1. Eduardo H. M. Cruz, João M. Maciel, Camila Clozato, Matheus S. Serpa, Philippe O. A. Navaux, Esteban Meneses, Mariela Abdalah, *Matthias Diener*. **“The impact of school reopening strategies during COVID-19: A case study of Sao Paulo, Brazil.”** arXiv, 2020. [[url](https://arxiv.org/abs/2010.08426)]
+
 1.  Eduardo H. M. Cruz, *Matthias Diener*, Laércio L. Pilla, Philippe O. A. Navaux. **“Online Thread and Data Mapping Using a Sharing-Aware Memory Management Unit.”** ACM Transactions on Modeling and Performance Evaluation of Computing Systems (TOMPECS), 2020. [[doi](https://doi.org/10.1145/3433687)]
 
 1. *Matthias Diener*, Laxmikant V. Kale, Daniel J. Bodony. **“Heterogeneous Computing with OpenMP and Hydra.”** Concurrency and Computation: Practice and Experience (CCPE), 2020. [[doi](https://doi.org/10.1002/cpe.5728)]
@@ -38,6 +42,8 @@ title: Publications
 
 
 ### Conferences
+
+1. Douglas Pereira Pasqualin, *Matthias Diener*, André Rauber Du Bois, Mauricio Lima Pilla. **“Sharing-Aware Data Mapping in Software Transactional Memory.”** International Conference on Embedded Computer Systems: Architectures, Modeling and Simulation (SAMOS), 2021.
 
 1. Douglas Pereira Pasqualin, *Matthias Diener*, André Rauber Du Bois, Mauricio Lima Pilla. **“Characterizing the Sharing Behavior of Applications using Software Transactional Memory.”** International Symposium on Benchmarking, Measuring and Optimizing (Bench), 2020. **Award for Best Paper.** **Award for Excellence for Reproducible Research.** [[doi](https://doi.org/10.1007/978-3-030-71058-3_1)]
 
