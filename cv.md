@@ -201,7 +201,7 @@ A verified record of reviews is available at <https://publons.com/author/1341957
 
 ## Publications
 
-More than 60 peer-reviewed publications with over 800 citations (h-index: 17). A list of publications and citations is available on:
+More than 60 peer-reviewed publications with over 900 citations (h-index: 17). A list of publications and citations is available on:
 
 - Google Scholar: <https://scholar.google.com/citations?user=LiU7uKIAAAAJ>
 - Scopus: <https://www.scopus.com/authid/detail.uri?authorId=36617072900>
