@@ -166,7 +166,7 @@ A verified record of reviews is available at <https://publons.com/author/1341957
 
 ## Program Committee Membership
 
-- Heterogeneity in Computing Workshop (HCW, co-located with IPDPS) 2017, 2018, 2019, 2020.
+- Heterogeneity in Computing Workshop (HCW, co-located with IPDPS) 2017, 2018, 2019, 2020, 2021, 2022.
 - Open Workshop on Data Locality (COLOC, co-located with Euro-Par) 2017, 2018, 2019, 2021.
 - Tutorials Program Committee for Supercomputing 2018, 2019.
 - International Symposium on Computer Architecture and High Performance Computing (SBAC-PAD) 2019.
