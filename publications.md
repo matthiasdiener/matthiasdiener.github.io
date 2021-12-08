@@ -47,7 +47,7 @@ title: Publications
 
 1. Douglas Pereira Pasqualin, *Matthias Diener*, André Rauber Du Bois, Mauricio Lima Pilla. **“Characterizing the Sharing Behavior of Applications using Software Transactional Memory.”** International Symposium on Benchmarking, Measuring and Optimizing (Bench), 2020. **Award for Best Paper.** **Award for Excellence for Reproducible Research.** [[doi](https://doi.org/10.1007/978-3-030-71058-3_1)]
 
-1. Douglas Pereira Pasqualin, *Matthias Diener*, André Rauber Du Bois, Mauricio Lima Pilla. **“Online Sharing-Aware Thread Mapping in Software Transactional Memory.”** International Symposium on Computer Architecture and High Performance Computing (SBAC-PAD), 2020.
+1. Douglas Pereira Pasqualin, *Matthias Diener*, André Rauber Du Bois, Mauricio Lima Pilla. **“Online Sharing-Aware Thread Mapping in Software Transactional Memory.”** International Symposium on Computer Architecture and High Performance Computing (SBAC-PAD), 2020.  [[doi](https://doi.org/10.1109/SBAC-PAD49847.2020.00016)]
 
 1. Douglas Pereira Pasqualin, *Matthias Diener*, André Rauber Du Bois, Mauricio Lima Pilla. **“Thread Affinity in Software Transactional Memory.”** International Symposium on Parallel and Distributed Computing (ISPDC), 2020. [[doi](https://doi.org/10.1109/ISPDC51135.2020.00033)]
 
