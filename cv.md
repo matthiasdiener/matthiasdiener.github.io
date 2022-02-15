@@ -182,6 +182,7 @@ A verified record of reviews is available at <https://publons.com/author/1341957
 
 ## Participation in examination committees
 
+- Simone Dominico (PhD thesis, 2022).
 - Douglas Pereira Pasqualin (PhD thesis, 2021).
 <!-- Caco: -->
 - Charles Cardoso de Oliveira (Master's thesis, 2019).
