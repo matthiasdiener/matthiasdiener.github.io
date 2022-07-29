@@ -8,6 +8,7 @@ fontsize: 11pt
 colorlinks: true
 header-includes: |
     \usepackage{fancyhdr}\renewcommand{\headrulewidth}{0pt}
+    \usepackage{xurl}
     \pagestyle{fancy}
     \fancyhf{}
     \fancyfoot[L]{\color{gray!30!black}{\small Matthias Diener -- CV}}
@@ -52,7 +53,11 @@ My research goals are the optimization of parallel applications running on large
 
 ## Work Experience
 
-- **Postdoctoral researcher in Computer Science**, January 2017 -- Present.
+- **Research Scientist in Computer Science**, August 2021 -- present.
+	*University of Illinois at Urbana-Champaign*.
+    - Research in scientific and research computing for the development and implementation of software, tools and computational algorithms on current and forthcoming HPC platforms.
+
+- **Postdoctoral researcher in Computer Science**, January 2017 -- July 2021.
 	*University of Illinois at Urbana-Champaign*.
     - *Memory affinity improvements in parallel systems:* Developed automatic mapping mechanisms to detect and optimize the memory access behavior of parallel applications, drastically improving performance and energy efficiency.
     - *Heterogeneous computing:* Designed a model for heterogeneous CPU+GPU computing with an adaptive load balancing scheme to distribute work.
@@ -61,6 +66,11 @@ My research goals are the optimization of parallel applications running on large
 	*Federal University of Rio Grande do Sul (UFRGS), Brazil*.
     - *Performance portability of parallel applications in the cloud:* Developed scheduling improvements for large parallel applications running in public clouds, taking into account network and processing speeds as well as interference from other cloud tenants. Substantial improvements of execution time and performance portability in a variety of cloud computing environments.
     - *Memory tracing:* Created efficient memory tracing mechanisms that are faster than the current state-of-the-art and can trace physical memory addresses extracted from the host system in order to differentiate concurrently running applications.
+
+<!-- - **Student trainee**, September 2006 -- June 2008. *Siemens AG, Berlin, Germany*.
+    - Technical support for marketing in the mobile networks department.
+    - Design and implementation of showcases in Mobile Television.
+    - Preparation and supervision of product presentations in international fairs, conferences, and events. -->
 
 <!--
 ## Teaching Experience
@@ -202,7 +212,7 @@ A verified record of reviews is available at <https://publons.com/author/1341957
 
 ## Publications
 
-More than 60 peer-reviewed publications with over 900 citations (h-index: 17). A list of publications and citations is available on:
+More than 60 peer-reviewed publications with over 1000 citations (h-index: 18). A list of publications and citations is available on:
 
 - Google Scholar: <https://scholar.google.com/citations?user=LiU7uKIAAAAJ>
 - Scopus: <https://www.scopus.com/authid/detail.uri?authorId=36617072900>
