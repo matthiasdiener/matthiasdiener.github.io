@@ -23,7 +23,7 @@ header-includes: |
 ## Contact
 
 | 4020 National Center for Supercomputing Applications
-| University of Illinois at Urbana-Champaign,
+| University of Illinois Urbana-Champaign,
 | Urbana, IL 61801.
 
 | +1 (413)-317-1713
@@ -54,11 +54,11 @@ My research goals are the optimization of parallel applications running on large
 ## Work Experience
 
 - **Research Scientist in Computer Science**, August 2021 -- present.
-	*University of Illinois at Urbana-Champaign*.
+	*University of Illinois Urbana-Champaign*.
     - Research in scientific and research computing for the development and implementation of software, tools and computational algorithms on current and forthcoming HPC platforms.
 
 - **Postdoctoral researcher in Computer Science**, January 2017 -- July 2021.
-	*University of Illinois at Urbana-Champaign*.
+	*University of Illinois Urbana-Champaign*.
     - *Memory affinity improvements in parallel systems:* Developed automatic mapping mechanisms to detect and optimize the memory access behavior of parallel applications, drastically improving performance and energy efficiency.
     - *Heterogeneous computing:* Designed a model for heterogeneous CPU+GPU computing with an adaptive load balancing scheme to distribute work.
 
