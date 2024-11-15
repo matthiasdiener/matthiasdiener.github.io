@@ -17,6 +17,7 @@ header-includes: |
     \makeatletter\let\ps@plain\ps@fancy\makeatother
 ---
 
+<!-- delete title in publications.md, then: -->
 <!-- compile: pandoc cv.md publications.md -o cv.pdf -->
 
 
@@ -56,6 +57,9 @@ My research goals are the optimization of parallel applications running on large
 - **Research Scientist in Computer Science**, August 2021 -- present.
 	*University of Illinois Urbana-Champaign*.
     - Research in scientific and research computing for the development and implementation of software, tools and computational algorithms on current and forthcoming HPC platforms.
+    - *Determinism and reproducibility*: Developed data structures and algorithms for the deterministic and reproducible execution of distributed applications.
+    - *Performance*: Developed methods to profile, track, and improve the compile time and runtime performance of distributed applications.
+    - *Memory*: Developed methods to detect, track, and fix memory leaks in distributed applications.
 
 - **Postdoctoral researcher in Computer Science**, January 2017 -- July 2021.
 	*University of Illinois Urbana-Champaign*.
@@ -113,7 +117,7 @@ My research goals are the optimization of parallel applications running on large
   - Extensive experience in C/C++, including parallel programming.
   - 4+ years experience in optimizing parallel application performance.
 - **Programming languages**
-  - C, C++, Python, Java, OpenMP, MPI, Shell (Bash).
+  - Python, C, C++, Java, OpenMP, MPI, Shell (Bash).
 - **Operating systems**
   - Linux (kernel programming in the scheduling and virtual memory subsystems), Solaris.
 - **Tools**
