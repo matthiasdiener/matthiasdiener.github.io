@@ -12,7 +12,7 @@ title: Publications
 
 1. Eduardo H. M. Cruz, João M. Maciel, Camila Clozato, Matheus S. Serpa, Philippe O. A. Navaux, Esteban Meneses, Mariela Abdalah, *Matthias Diener*. **“Simulation-based evaluation of school reopening strategies during COVID-19: A case study of São Paulo, Brazil.”** Epidemiology & Infection, 2021. [[doi](https://doi.org/10.1017/S0950268821001059)]
 
-1. Eduardo H. M. Cruz, João M. Maciel, Camila Clozato, Matheus S. Serpa, Philippe O. A. Navaux, Esteban Meneses, Mariela Abdalah, *Matthias Diener*. **“The impact of school reopening strategies during COVID-19: A case study of Sao Paulo, Brazil.”** arXiv, 2020. [[url](https://arxiv.org/abs/2010.08426)]
+1. Eduardo H. M. Cruz, João M. Maciel, Camila Clozato, Matheus S. Serpa, Philippe O. A. Navaux, Esteban Meneses, Mariela Abdalah, *Matthias Diener*. **“The impact of school reopening strategies during COVID-19: A case study of Sao Paulo, Brazil.”** arXiv, 2020. [[doi](https://doi.org/10.48550/arXiv.2010.08426)]
 
 1.  Eduardo H. M. Cruz, *Matthias Diener*, Laércio L. Pilla, Philippe O. A. Navaux. **“Online Thread and Data Mapping Using a Sharing-Aware Memory Management Unit.”** ACM Transactions on Modeling and Performance Evaluation of Computing Systems (TOMPECS), 2020. [[doi](https://doi.org/10.1145/3433687)]
 
