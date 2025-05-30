@@ -6,7 +6,7 @@ title: Publications
 
 
 
-### Journals
+## Journals
 
 1. Douglas Pereira Pasqualin, *Matthias Diener*, André Rauber Du Bois, Maurício Lima Pilla. **“Thread and Data Mapping in Software Transactional Memory: an Overview.”** International Journal of Parallel Programming (IJPP), (2025). [[doi](https://doi.org/10.1007/s10766-025-00796-1)]
 
@@ -43,7 +43,7 @@ title: Publications
 1. Eduardo H. M. Cruz, *Matthias Diener*, Marco A. Z. Alves, Philippe O. A. Navaux. **“Dynamic thread mapping of shared memory applications by exploiting cache coherence protocols.”** Journal of Parallel and Distributed Computing (JPDC), 2014. [[doi](https://doi.org/10.1016/j.jpdc.2013.11.006)]
 
 
-### Conferences
+## Conferences
 
 1. Douglas Pereira Pasqualin, *Matthias Diener*, André Rauber Du Bois, Maurício Lima Pilla. **“Sharing-Aware Data Mapping in Software Transactional Memory.”** International Conference on Embedded Computer Systems: Architectures, Modeling and Simulation (SAMOS), 2021.
 
@@ -128,12 +128,12 @@ title: Publications
 1. Eduardo Roloff, Francis Birck, *Matthias Diener*, Alexandre Carissimi, Philippe O. A. Navaux. **“Evaluating High Performance Computing on the Windows Azure Platform.”** International Conference on Cloud Computing (CLOUD), 2012. [[doi](https://doi.org/10.1109/CLOUD.2012.47)]
 
 
-### Books
+## Books
 
 1. Eduardo H. M. Cruz, *Matthias Diener*, Philippe O. A. Navaux. **“Thread and Data Mapping for Multicore Systems.”**, 2018. [[doi](https://doi.org/10.1007/978-3-319-91074-1)]
 
 
-### Workshops
+## Workshops
 
 1. *Matthias Diener*, Laxmikant Kale. **“Unified data movement for offloading Charm++ applications.”** International Workshop on Accelerators and Hybrid Exascale Systems (AsHES), held in conjunction with the International Parallel and Distributed Processing Symposium (IPDPS), 2020. [[doi](https://doi.org/10.1109/IPDPSW50202.2020.00085)]
 
@@ -150,7 +150,7 @@ title: Publications
 1. *Matthias Diener*, Felipe L. Madruga, Eduardo R. Rodrigues, et al. **“Evaluating Thread Placement Based on Memory Access Patterns for Multi-core Processors.”** International Conference on High Performance Computing and Communications (HPCC), 2010. [[doi](https://doi.org/10.1109/HPCC.2010.114)]
 
 
-### Posters
+## Posters
 
 1. Douglas Pereira Pasqualin, André Rauber Du Bois, Maurício Lima Pilla, *Matthias Diener*. **“Improving the Performance of Software Transactional Memory Through Sharing-Aware Mapping.”** International Symposium on Computer Architecture and High Performance Computing (SBAC-PAD), 2019.
 

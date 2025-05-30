@@ -1,6 +1,6 @@
 ---
 title: Matthias Diener
-geometry: margin=0.95in
+geometry: margin=0.85in
 slug: CV
 papersize: letter
 fontfamily: palatino
@@ -21,24 +21,35 @@ header-includes: |
 <!-- compile: pandoc cv.md publications.md -o cv.pdf -->
 
 
-## Contact
+# Contact
 
-| 4020 National Center for Supercomputing Applications
+
+::: {.columns columngap=0em .raggedright}
+
+| National Center for Supercomputing Applications
 | University of Illinois Urbana-Champaign,
 | Urbana, IL 61801.
 
-| +1 (413)-317-1713
+
+
+
+
+
+
+
+\raggedleft
 | <mdiener@illinois.edu>
 | <https://matthiasdiener.github.io>
+| +1 (413)-317-1713
 
+:::
 
 <!-- ## Objective
 
 My research goals are the optimization of parallel applications running on large computer systems, by adapting the application to the underlying hardware platform through usage of accelerators, improving memory affinity, and increasing load balance. -->
 
 
-
-## Education
+# Education
 
 - **Ph.D. in Computer Science**, October 2015.
 	*Federal University of Rio Grande do Sul (UFRGS), Brazil* and *Berlin University of Technology (TU Berlin), Germany*.
@@ -52,7 +63,7 @@ My research goals are the optimization of parallel applications running on large
 	<!-- Advisor: Prof. Hans-Ulrich Heiss. -->
 
 
-## Work Experience
+# Work Experience
 
 - **Research Scientist in Computer Science**, August 2021 -- present.
 	*University of Illinois Urbana-Champaign*.
@@ -77,7 +88,7 @@ My research goals are the optimization of parallel applications running on large
     - Preparation and supervision of product presentations in international fairs, conferences, and events. -->
 
 <!--
-## Teaching Experience
+# Teaching Experience
 
 - **Lecturer/Technical Lead, Intel Modern Code Partner** (2016).
 	*Intel* and *Federal University of Rio Grande do Sul (UFRGS), Brazil*.
@@ -96,21 +107,21 @@ My research goals are the optimization of parallel applications running on large
 	- *Parallel and Distributed Processing:* 	Graduate-level course. Developed part of the lecture material. Responsible for part of the lectures, lab and homework assignments, and exams.
  -->
 
-## Awards
+# Awards
 
 - **Best paper award** --- International Symposium on Benchmarking, Measuring and Optimizing, 2020.
 - **Best paper award** --- International Conference on Parallel, Distributed, and Network-Based Processing (PDP), 2015.
 - **Distinction (summa cum laude)** --- Ph.D. dissertation, 2015.
 <!-- - **Award for 3rd best dissertation in High Performance Computing in Brazil** --- Ph.D. dissertation, 2016. -->
 
-## Languages
+# Languages
 
 - Native German speaker.
 - Fluent in English and Portuguese.
 - Working knowledge in Spanish and French.
 
 
-## Skills
+# Skills
 
 - **Key skills**
   - Strong technical background in parallel architectures, including low level hardware.
@@ -127,7 +138,7 @@ My research goals are the optimization of parallel applications running on large
   - Applications: BRAMS (weather simulation), Ondes3D (seismic wave propagation), PlasCom/2, MIRGE-Com.
 
 
-## Grants
+# Grants
 
 <!-- ### Government: -->
 <!-- NNSA @XPACC -->
@@ -143,11 +154,11 @@ My research goals are the optimization of parallel applications running on large
 - *HP Enterprise (HPC-ELO project)*, technical lead, 2016.
 
 
-## Reviewer
+# Reviewer
 
 A verified record of reviews is available at <https://publons.com/author/1341957/>.
 
-### Journals
+## Journals
 - ACM Computing Surveys (CSUR).
 - ACM Journal on Emerging Technologies in Computing Systems (JETC).
 - ACM Transactions on Architecture and Code Optimization (TACO).
@@ -167,7 +178,7 @@ A verified record of reviews is available at <https://publons.com/author/1341957
 - International Journal of Computational Science and Engineering.
 - Springer Computing.
 
-### Conferences & Workshops
+## Conferences & Workshops
 - IEEE International Parallel & Distributed Processing Symposium (IPDPS).
 - International Conference on Computational Science (ICCS).
 - International European Conference on Parallel and Distributed Computing (Euro-Par).
@@ -178,7 +189,7 @@ A verified record of reviews is available at <https://publons.com/author/1341957
 - International Heterogeneity in Computing Workshop (HCW).
 
 
-## Program Committee Membership
+# Program Committee Membership
 
 - Heterogeneity in Computing Workshop (HCW, co-located with IPDPS) 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2025.
 - Open Workshop on Data Locality (COLOC, co-located with Euro-Par) 2017, 2018, 2019, 2021.
@@ -186,7 +197,7 @@ A verified record of reviews is available at <https://publons.com/author/1341957
 - International Symposium on Computer Architecture and High Performance Computing (SBAC-PAD) 2019, 2024.
 - IEEE Cluster 2020, 2024, 2025.
 
-## Advised Students
+# Advised Students
 
 - Douglas Pereira Pasqualin, *“Thread and Data Mapping in STM architectures.”* (Ph.D. thesis, co-advised with André Rauber Du Bois), 2021.
 - João Paulo Tarasconi Ruschel, *“Parallel Implementations of the Cholesky Decomposition on CPUs and GPUs.”* (Undergraduate thesis, co-advised with Philippe O. A. Navaux), 2016.
@@ -194,7 +205,7 @@ A verified record of reviews is available at <https://publons.com/author/1341957
 <!-- add Annabelle? -->
 
 
-## Participation in examination committees
+# Participation in examination committees
 
 - Simone Dominico (PhD thesis, 2022).
 - Douglas Pereira Pasqualin (PhD thesis, 2021).
@@ -207,14 +218,14 @@ A verified record of reviews is available at <https://publons.com/author/1341957
 - Guilherme Grunewald de Magalhães (Undergraduate thesis, 2016).
 
 
-## Invited Talks
+# Invited Talks
 
 - **“Thread and Data Mapping in Shared Memory Architectures.”** University of Darmstadt (Germany), February 2016.
 - **“Thread and Data Mapping in NUMA Architectures: An operating system perspective.”** Inria, Grenoble (France), December 2013.
 
 
 
-## Publications
+# Publications
 
 More than 60 peer-reviewed publications with over 1200 citations (h-index: 20). A list of publications and citations is available on:
 
