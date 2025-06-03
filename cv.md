@@ -176,7 +176,7 @@ A verified record of reviews is available at <https://publons.com/author/1341957
 - International Heterogeneity in Computing Workshop (HCW).
 
 
-# Program Committee Membership
+# Program Committee Memberships
 
 ## Conferences
 
