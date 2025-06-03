@@ -17,36 +17,30 @@ header-includes: |
     \makeatletter\let\ps@plain\ps@fancy\makeatother
 ---
 
-<!-- delete title in publications.md, then: -->
-<!-- compile: pandoc cv.md publications.md -o cv.pdf -->
-
-
 # Contact
 
 
-::: {.columns columngap=0em .raggedright}
 
-| National Center for Supercomputing Applications
-| University of Illinois Urbana-Champaign,
-| Urbana, IL 61801.
+<https://matthiasdiener.github.io>\
+<mdiener@illinois.edu>\
++1 (413)-317-1713
 
+National Center for Supercomputing Applications (NCSA)\
+University of Illinois Urbana-Champaign
 
-
-
-
-
-
-
-\raggedleft
-| <mdiener@illinois.edu>
-| <https://matthiasdiener.github.io>
-| +1 (413)-317-1713
-
-:::
 
 <!-- ## Objective
 
 My research goals are the optimization of parallel applications running on large computer systems, by adapting the application to the underlying hardware platform through usage of accelerators, improving memory affinity, and increasing load balance. -->
+
+# Key Skills
+
+- **High-Performance Computing (HPC):** Expertise in developing, optimizing, and maintaining HPC software for large-scale simulation, with a focus on performance, memory efficiency, reproducibility, and cross-platform portability.
+- **Scientific Software Engineering:** Proficient in Python, C/C++, OpenMP, and MPI; significant experience developing and maintaining complex codebases such as MIRGE-Com and Charm++.
+<!-- - **Performance Optimization:** Demonstrated success in reducing compile times and memory usage, and in making builds deterministic and efficiently cacheable. -->
+<!-- - **Software Portability:** Proven ability to support and adapt scientific software to diverse hardware platforms (e.g., Delta, Tioga, Nvidia GPUs, AMD systems). -->
+- **Open Source Contributor:** Active contributor to major HPC, scientific computing, and Python ecosystem projects (PoCL, Spack, conda-forge, vmprof, numpy, cantera, among others).
+<!-- - **Mentorship & Inclusion:** Committed to mentoring students and early-career researchers from underrepresented groups. -->
 
 
 # Education
@@ -66,14 +60,14 @@ My research goals are the optimization of parallel applications running on large
 # Work Experience
 
 - **Research Scientist in Computer Science**, August 2021 -- present.
-	*University of Illinois Urbana-Champaign*.
+	*National Center for Supercomputing Applications (NCSA), University of Illinois Urbana-Champaign*.
     - Research in scientific and research computing for the development and implementation of software, tools and computational algorithms on current and forthcoming HPC platforms.
     - *Determinism and reproducibility*: Developed data structures and algorithms for the deterministic and reproducible execution of distributed applications.
     - *Performance*: Developed methods to profile, track, and improve the compile time and runtime performance of distributed applications.
     - *Memory*: Developed methods to detect, track, and fix memory leaks in distributed applications.
 
 - **Postdoctoral researcher in Computer Science**, January 2017 -- July 2021.
-	*University of Illinois Urbana-Champaign*.
+	*Coordinated Science Laboratory (CSL) and National Center for Supercomputing Applications (NCSA), University of Illinois Urbana-Champaign*.
     - *Memory affinity improvements in parallel systems:* Developed automatic mapping mechanisms to detect and optimize the memory access behavior of parallel applications, drastically improving performance and energy efficiency.
     - *Heterogeneous computing:* Designed a model for heterogeneous CPU+GPU computing with an adaptive load balancing scheme to distribute work.
 
@@ -107,6 +101,18 @@ My research goals are the optimization of parallel applications running on large
 	- *Parallel and Distributed Processing:* 	Graduate-level course. Developed part of the lecture material. Responsible for part of the lectures, lab and homework assignments, and exams.
  -->
 
+# Technical Proficiencies
+
+- **Programming languages**
+  - Python, C, C++, OpenMP, OpenCL, Cuda, MPI, Shell (Bash).
+- **Operating systems**
+  - Linux (kernel programming in the scheduling and virtual memory subsystems), Solaris.
+- **Tools**
+  - Performance analysis: pyinstrument, vmprof, perf, Intel vTune, gprof, Intel PCM, nvprof.
+  - Benchmark suites: NAS-NPB, PARSEC, Rodinia, SPEC OMP2001/2012, SPEC CPU2006.
+  - Applications: MIRGE-Com, PlasComCM, PlasCom2, BRAMS (weather simulation), Ondes3D (seismic wave propagation).
+  - Simulation: Intel Pin, Simics, Gem5, CACTI, McPAT.
+
 # Awards
 
 - **Best paper award** --- International Symposium on Benchmarking, Measuring and Optimizing, 2020.
@@ -119,24 +125,6 @@ My research goals are the optimization of parallel applications running on large
 - Native German speaker.
 - Fluent in English and Portuguese.
 - Working knowledge in Spanish and French.
-
-
-# Skills
-
-- **Key skills**
-  - Strong technical background in parallel architectures, including low level hardware.
-  - Extensive experience in C/C++, including parallel programming.
-  - 4+ years experience in optimizing parallel application performance.
-- **Programming languages**
-  - Python, C, C++, Java, OpenMP, MPI, Shell (Bash).
-- **Operating systems**
-  - Linux (kernel programming in the scheduling and virtual memory subsystems), Solaris.
-- **Tools**
-  - Simulation: Intel Pin, Simics, Gem5, CACTI, McPAT.
-  - Performance analysis: perf, Intel vTune, gprof, Intel PCM.
-  - Benchmarks: NAS-NPB, PARSEC, Rodinia, SPEC OMP2001/2012, SPEC CPU2006.
-  - Applications: BRAMS (weather simulation), Ondes3D (seismic wave propagation), PlasCom/2, MIRGE-Com.
-
 
 # Grants
 
@@ -152,7 +140,6 @@ My research goals are the optimization of parallel applications running on large
 <!-- ### Industry: -->
 - *Intel Modern Code*, technical lead, 2016.
 - *HP Enterprise (HPC-ELO project)*, technical lead, 2016.
-
 
 # Reviewer
 
@@ -191,16 +178,22 @@ A verified record of reviews is available at <https://publons.com/author/1341957
 
 # Program Committee Membership
 
+## Conferences
+
+- International Symposium on Computer Architecture and High Performance Computing (SBAC-PAD) 2019, 2024, 2025.
+- IEEE Cluster 2020, 2024, 2025.
+
+## Workshops & Tutorials
+
 - Heterogeneity in Computing Workshop (HCW, co-located with IPDPS) 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2025.
 - Open Workshop on Data Locality (COLOC, co-located with Euro-Par) 2017, 2018, 2019, 2021.
 - Tutorials Program Committee for Supercomputing 2018, 2019.
-- International Symposium on Computer Architecture and High Performance Computing (SBAC-PAD) 2019, 2024.
-- IEEE Cluster 2020, 2024, 2025.
 
 # Advised Students
 
 - Douglas Pereira Pasqualin, *“Thread and Data Mapping in STM architectures.”* (Ph.D. thesis, co-advised with André Rauber Du Bois), 2021.
 - João Paulo Tarasconi Ruschel, *“Parallel Implementations of the Cholesky Decomposition on CPUs and GPUs.”* (Undergraduate thesis, co-advised with Philippe O. A. Navaux), 2016.
+- Supervised 4 students through research internships at NCSA.
 <!-- add Dev? --- No.-->
 <!-- add Annabelle? -->
 
