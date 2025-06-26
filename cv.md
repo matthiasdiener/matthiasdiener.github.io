@@ -39,7 +39,7 @@ My research goals are the optimization of parallel applications running on large
 - **Scientific Software Engineering:** Proficient in Python, C/C++, OpenMP, and MPI; significant experience developing and maintaining complex codebases such as MIRGE-Com and Charm++; experience in development for accelerators (Nvidia GPUs, AMD GPUs, and Intel Xeon Phi).
 <!-- - **Performance Optimization:** Demonstrated success in reducing compile times and memory usage, and in making builds deterministic and efficiently cacheable. -->
 <!-- - **Software Portability:** Proven ability to support and adapt scientific software to diverse hardware platforms (e.g., Delta, Tioga, Nvidia GPUs, AMD systems). -->
-- **Open Source Contributor:** Active contributor to major HPC, scientific computing, and Python ecosystem projects (PoCL, Spack, conda-forge, vmprof, numpy, cantera, among others).
+- **Open Source Contributor:** Active contributor to major HPC, scientific computing, and Python ecosystem projects (PoCL, Spack, conda-forge, vmprof, pyinstrument, among others).
 <!-- - **Mentorship & Inclusion:** Committed to mentoring students and early-career researchers from underrepresented groups. -->
 
 
