@@ -12,7 +12,10 @@ PhD<br><br>
 
 <br>
 
-<img src="https://charm.cs.illinois.edu/images/header_ppllogo.png" width="200px">
+
+
+<a href="https://ceesd.illinois.edu"><img src="https://avatars.githubusercontent.com/u/62910281" width="200px"></a>
+<a href="https://charm.cs.illinois.edu"><img src="https://charm.cs.illinois.edu/images/header_ppllogo.png" width="200px">
 <!-- <img src="http://illinois.edu/assets/img/branding/wordmark_vertical.png" width="200px"> -->
 
 <!-- QR code -->
