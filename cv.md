@@ -17,7 +17,7 @@ header-includes: |
     \makeatletter\let\ps@plain\ps@fancy\makeatother
 ---
 
-# Contact
+## Contact
 
 
 
@@ -34,7 +34,7 @@ University of Illinois Urbana-Champaign
 
 My research goals are the optimization of parallel applications running on large computer systems, by adapting the application to the underlying hardware platform through usage of accelerators, improving memory affinity, and increasing load balance. -->
 
-# Key Skills
+## Key Skills
 
 - **High-Performance Computing (HPC):** Expertise in developing, optimizing, and maintaining HPC software for large-scale simulation, with a focus on performance, memory efficiency, reproducibility, and cross-platform portability.
 - **Scientific Software Engineering:** Proficient in Python, C/C++, OpenMP, and MPI; significant experience developing and maintaining complex codebases such as MIRGE-Com and Charm++; experience in development for accelerators (Nvidia GPUs, AMD GPUs, and Intel Xeon Phi).
@@ -44,7 +44,7 @@ My research goals are the optimization of parallel applications running on large
 <!-- - **Mentorship & Inclusion:** Committed to mentoring students and early-career researchers from underrepresented groups. -->
 
 
-# Education
+## Education
 
 - **Ph.D. in Computer Science**, October 2015.
 	*Federal University of Rio Grande do Sul (UFRGS), Brazil* and *Berlin University of Technology (TU Berlin), Germany*.
@@ -58,7 +58,7 @@ My research goals are the optimization of parallel applications running on large
 	<!-- Advisor: Prof. Hans-Ulrich Heiss. -->
 
 
-# Work Experience
+## Work Experience
 
 - **Research Scientist in Computer Science**, August 2021 -- present.
 	*National Center for Supercomputing Applications (NCSA), University of Illinois Urbana-Champaign*.
@@ -102,7 +102,7 @@ My research goals are the optimization of parallel applications running on large
 	- *Parallel and Distributed Processing:* 	Graduate-level course. Developed part of the lecture material. Responsible for part of the lectures, lab and homework assignments, and exams.
  -->
 
-# Technical Proficiencies
+## Technical Proficiencies
 
 - **Programming languages**
   - Python, C, C++, OpenMP, OpenCL, Cuda, MPI, Shell (Bash).
@@ -114,20 +114,20 @@ My research goals are the optimization of parallel applications running on large
   - Applications: MIRGE-Com, PlasComCM, PlasCom2, BRAMS (weather simulation), Ondes3D (seismic wave propagation).
   - Simulation: Intel Pin, Simics, Gem5.
 
-# Awards
+## Awards
 
 - **Best paper award** --- International Symposium on Benchmarking, Measuring and Optimizing, 2020.
 - **Best paper award** --- International Conference on Parallel, Distributed, and Network-Based Processing (PDP), 2015.
 - **Distinction (summa cum laude)** --- Ph.D. dissertation, 2015.
 <!-- - **Award for 3rd best dissertation in High Performance Computing in Brazil** --- Ph.D. dissertation, 2016. -->
 
-# Languages
+## Languages
 
 - Native German speaker.
 - Fluent in English and Portuguese.
 - Working knowledge in Spanish and French.
 
-# Grants
+## Grants
 
 <!-- ### Government: -->
 <!-- NNSA @XPACC -->
@@ -142,11 +142,11 @@ My research goals are the optimization of parallel applications running on large
 - *Intel Modern Code*, technical lead, 2016.
 - *HP Enterprise (HPC-ELO project)*, technical lead, 2016.
 
-# Reviewer
+## Reviewer
 
 A verified record of reviews is available at <https://publons.com/author/1341957/>.
 
-## Journals
+### Journals
 - ACM Computing Surveys (CSUR).
 - ACM Journal on Emerging Technologies in Computing Systems (JETC).
 - ACM Transactions on Architecture and Code Optimization (TACO).
@@ -166,7 +166,7 @@ A verified record of reviews is available at <https://publons.com/author/1341957
 - International Journal of Computational Science and Engineering.
 - Springer Computing.
 
-## Conferences & Workshops
+### Conferences & Workshops
 - IEEE International Parallel & Distributed Processing Symposium (IPDPS).
 - International Conference on Computational Science (ICCS).
 - International European Conference on Parallel and Distributed Computing (Euro-Par).
@@ -177,20 +177,20 @@ A verified record of reviews is available at <https://publons.com/author/1341957
 - International Heterogeneity in Computing Workshop (HCW).
 
 
-# Program Committee Memberships
+## Program Committee Memberships
 
-## Conferences
+### Conferences
 
 - International Symposium on Computer Architecture and High Performance Computing (SBAC-PAD) 2019, 2024, 2025.
 - IEEE Cluster 2020, 2024, 2025.
 
-## Workshops & Tutorials
+### Workshops & Tutorials
 
 - Heterogeneity in Computing Workshop (HCW, co-located with IPDPS) 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2025.
 - Open Workshop on Data Locality (COLOC, co-located with Euro-Par) 2017, 2018, 2019, 2021.
 - Tutorials Program Committee for Supercomputing 2018, 2019.
 
-# Advised Students
+## Advised Students
 
 - Douglas Pereira Pasqualin, *“Thread and Data Mapping in STM architectures.”* (Ph.D. thesis, co-advised with André Rauber Du Bois), 2021.
 - João Paulo Tarasconi Ruschel, *“Parallel Implementations of the Cholesky Decomposition on CPUs and GPUs.”* (Undergraduate thesis, co-advised with Philippe O. A. Navaux), 2016.
@@ -199,7 +199,7 @@ A verified record of reviews is available at <https://publons.com/author/1341957
 <!-- add Annabelle? -->
 
 
-# Participation in examination committees
+## Participation in examination committees
 
 - Simone Dominico (PhD thesis, 2022).
 - Douglas Pereira Pasqualin (PhD thesis, 2021).
@@ -212,14 +212,14 @@ A verified record of reviews is available at <https://publons.com/author/1341957
 - Guilherme Grunewald de Magalhães (Undergraduate thesis, 2016).
 
 
-# Invited Talks
+## Invited Talks
 
 - **“Thread and Data Mapping in Shared Memory Architectures.”** University of Darmstadt (Germany), February 2016.
 - **“Thread and Data Mapping in NUMA Architectures: An operating system perspective.”** Inria, Grenoble (France), December 2013.
 
 
 
-# Publications
+## Publications
 
 More than 60 peer-reviewed publications with over 1200 citations (h-index: 20). A list of publications and citations is available on:
 
