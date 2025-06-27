@@ -12,8 +12,8 @@ PhD<br><br>
 
 <img src="https://www.freeiconspng.com/uploads/email-icon-23.png" width="20px" style="filter: invert(1) grayscale(1); vertical-align: middle;" /><a href="mailto:mdiener@illinois.edu"> mdiener@illinois.edu</a><br>
 <a href="https://matthiasdiener.github.io">
-<img style="vertical-align: middle;" src="https://www.freeiconspng.com/uploads/site-internet-icon-18.png" width="20"/> matthiasdiener.github.io</a> <br>
-<a href="https://github.com/matthiasdiener"><img width=20px src="https://github.com/favicon.ico" style="vertical-align: middle;"> github.com/matthiasdiener</a>
+<img style="vertical-align: middle;" src="https://www.freeiconspng.com/uploads/site-internet-icon-18.png" width="20"/> https://matthiasdiener.github.io</a> <br>
+<a href="https://github.com/matthiasdiener"><img width=20px src="https://github.com/favicon.ico" style="vertical-align: middle;"> https://github.com/matthiasdiener</a>
 
 
 
