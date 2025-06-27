@@ -22,6 +22,7 @@ header-includes: |
 
 
 <https://matthiasdiener.github.io>\
+<https://github.com/matthiasdiener>\
 <mdiener@illinois.edu>\
 +1 (413)-317-1713
 
