@@ -8,23 +8,24 @@ fontsize: 11pt
 colorlinks: true
 header-includes: |
     \usepackage{fancyhdr}\renewcommand{\headrulewidth}{0pt}
-    \usepackage{xurl}
     \pagestyle{fancy}
     \fancyhf{}
     \fancyfoot[L]{\color{gray!30!black}{\small Matthias Diener -- CV}}
     \fancyfoot[R]{\color{gray!30!black}{\small \thepage}}
-    \urlstyle{tt}
     \makeatletter\let\ps@plain\ps@fancy\makeatother
+    \usepackage{titling}
+    \setlength{\droptitle}{-1.5cm}
+    \posttitle{\end{center}\vspace*{-1.2cm}}
 ---
 
 ## Contact
 
 
 
-<https://matthiasdiener.github.io>\
-<https://github.com/matthiasdiener>\
-<mdiener@illinois.edu> | <matthias.diener@gmail.com>\
-+1 (413)-317-1713
+![](email.png){: height="14px" } <mdiener@illinois.edu> • <matthias.diener@gmail.com>\
+![](web.png){: height="15px" } <https://matthiasdiener.github.io>\
+![](github.png){: height="15px" } <https://github.com/matthiasdiener>\
+![](phone.png){: height="15px" } +1 (413)-317-1713
 
 National Center for Supercomputing Applications (NCSA)\
 University of Illinois Urbana-Champaign
@@ -36,26 +37,12 @@ My research goals are the optimization of parallel applications running on large
 
 ## Key Skills
 
-- **High-Performance Computing (HPC):** Expertise in developing, optimizing, and maintaining HPC software for large-scale simulation, with a focus on performance, memory efficiency, reproducibility, and cross-platform portability.
+- **High-Performance Computing (HPC):** Expertise in developing, optimizing, and maintaining HPC software for large-scale simulations. Emphasis on performance, memory efficiency, reproducibility, and cross-platform portability. Strong understanding of low-level computer architecture as well as Linux kernel programming.
 - **Scientific Software Engineering:** Proficient in Python, C/C++, OpenMP, and MPI; significant experience developing and maintaining complex codebases such as MIRGE-Com and Charm++; experience in development for accelerators (Nvidia GPUs, AMD GPUs, and Intel Xeon Phi).
 <!-- - **Performance Optimization:** Demonstrated success in reducing compile times and memory usage, and in making builds deterministic and efficiently cacheable. -->
 <!-- - **Software Portability:** Proven ability to support and adapt scientific software to diverse hardware platforms (e.g., Delta, Tioga, Nvidia GPUs, AMD systems). -->
 - **Open Source Contributor:** Active contributor to major HPC, scientific computing, and Python ecosystem projects (PoCL, Spack, conda-forge, vmprof, pyinstrument, among others).
 <!-- - **Mentorship & Inclusion:** Committed to mentoring students and early-career researchers from underrepresented groups. -->
-
-
-## Education
-
-- **Ph.D. in Computer Science**, October 2015.
-	*Federal University of Rio Grande do Sul (UFRGS), Brazil* and *Berlin University of Technology (TU Berlin), Germany*.
-	<!-- Advisors: Prof. Philippe O. A. Navaux and Prof. Hans-Ulrich Heiss. -->
-	<!-- Dissertation: Automatic Task and Data Mapping in Shared Memory Architectures.   -->
-	**Summa cum laude**.
-	<!-- Received award for 3rd best dissertation in Brazil in High Performance Computing, 2016. -->
-
-- **Diploma (equivalent to M.Sc.) in Computer Engineering**, November 2010.
-	*Berlin University of Technology (TU Berlin), Germany*.
-	<!-- Advisor: Prof. Hans-Ulrich Heiss. -->
 
 
 ## Work Experience
@@ -70,12 +57,26 @@ My research goals are the optimization of parallel applications running on large
 - **Postdoctoral researcher in Computer Science**, January 2017 -- July 2021.
 	*Coordinated Science Laboratory (CSL) and National Center for Supercomputing Applications (NCSA), University of Illinois Urbana-Champaign*.
     - *Memory affinity improvements in parallel systems:* Developed automatic mapping mechanisms to detect and optimize the memory access behavior of parallel applications, drastically improving performance and energy efficiency.
-    - *Heterogeneous computing:* Designed a model for heterogeneous CPU+GPU computing with an adaptive load balancing scheme to distribute work.
+    - *Heterogeneous computing:* Designed a model for heterogeneous CPU+GPU computing with an adaptive load balancing scheme to distribute work, based on the OpenMP framework.
 
 - **Postdoctoral researcher in Computer Science**, November 2015 -- December 2016.
 	*Federal University of Rio Grande do Sul (UFRGS), Brazil*.
-    - *Performance portability of parallel applications in the cloud:* Developed scheduling improvements for large parallel applications running in public clouds, taking into account network and processing speeds as well as interference from other cloud tenants. Substantial improvements of execution time and performance portability in a variety of cloud computing environments.
-    - *Memory tracing:* Created efficient memory tracing mechanisms that are faster than the current state-of-the-art and can trace physical memory addresses extracted from the host system in order to differentiate concurrently running applications.
+    - *Performance portability of parallel applications in the cloud:*  Improved scheduling of large parallel applications by accounting for network speed, compute variability, and tenant interference, leading to significantly better execution time and portability across cloud platforms.
+    - *Memory tracing:* Designed fast memory tracing techniques capable of tracking physical addresses to distinguish between co-located applications, outperforming existing solutions.
+
+
+## Education
+
+- **Ph.D. in Computer Science**, October 2015.
+	*Federal University of Rio Grande do Sul (UFRGS), Brazil* and *Berlin University of Technology (TU Berlin), Germany*.
+	<!-- Advisors: Prof. Philippe O. A. Navaux and Prof. Hans-Ulrich Heiss. -->
+	<!-- Dissertation: Automatic Task and Data Mapping in Shared Memory Architectures.   -->
+	**Summa cum laude**.
+	<!-- Received award for 3rd best dissertation in Brazil in High Performance Computing, 2016. -->
+
+- **Diploma (equivalent to M.Sc.) in Computer Engineering**, November 2010.
+	*Berlin University of Technology (TU Berlin), Germany*.
+	<!-- Advisor: Prof. Hans-Ulrich Heiss. -->
 
 <!-- - **Student trainee**, September 2006 -- June 2008. *Siemens AG, Berlin, Germany*.
     - Technical support for marketing in the mobile networks department.
@@ -109,16 +110,18 @@ My research goals are the optimization of parallel applications running on large
 - **Operating systems**
   - Linux (kernel programming in the scheduling and virtual memory subsystems).
 - **Tools**
-  - Performance analysis: pyinstrument, vmprof, perf, Intel vTune, gprof, Intel PCM, nvprof, rocprof.
+  - Performance analysis: pyinstrument, vmprof, perf, Intel vTune/PCM, gprof, nvprof, rocprof.
   - Benchmark suites: NAS-NPB, PARSEC, Rodinia, SPEC OMP2001/2012, SPEC CPU2006.
-  - Applications: MIRGE-Com, PlasComCM, PlasCom2, BRAMS (weather simulation), Ondes3D (seismic wave propagation).
+  - Applications: MIRGE-Com, PlasCom2, PlasComCM.
   - Simulation: Intel Pin, Simics, Gem5.
+  - CI/testing/deployment: GitHub Actions, GitLab CI; testing frameworks using Pytest; automated deployment workflows to PyPI.
+  - LLM-assisted development: Integrated large language models (LLMs)  into development workflows for pair programming, rapid prototyping, and automated Python type annotations, among others.
 
 ## Awards
 
-- **Best paper award** --- International Symposium on Benchmarking, Measuring and Optimizing, 2020.
-- **Best paper award** --- International Conference on Parallel, Distributed, and Network-Based Processing (PDP), 2015.
-- **Distinction (summa cum laude)** --- Ph.D. dissertation, 2015.
+- **Best paper award:** International Symposium on Benchmarking, Measuring and Optimizing, 2020.
+- **Best paper award:**  International Conference on Parallel, Distributed, and Network-Based Processing (PDP), 2015.
+- **Distinction (summa cum laude):**  Ph.D. dissertation, 2015.
 <!-- - **Award for 3rd best dissertation in High Performance Computing in Brazil** --- Ph.D. dissertation, 2016. -->
 
 ## Languages
