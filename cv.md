@@ -23,7 +23,7 @@ header-includes: |
 
 <https://matthiasdiener.github.io>\
 <https://github.com/matthiasdiener>\
-<mdiener@illinois.edu>\
+<mdiener@illinois.edu> | <matthias.diener@gmail.com>\
 +1 (413)-317-1713
 
 National Center for Supercomputing Applications (NCSA)\
