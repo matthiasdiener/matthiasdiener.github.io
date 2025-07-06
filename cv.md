@@ -104,8 +104,8 @@ My research goals are the optimization of parallel applications running on large
 
 ## Technical Proficiencies
 
-- **Programming languages**
-  - Python, C, C++, OpenMP, OpenCL, Cuda, MPI, Shell (Bash).
+- **Programming languages and runtimes**
+  - Python, C, C++, OpenMP, OpenCL, CUDA, MPI, Charm++, Shell (Bash).
 - **Operating systems**
   - Linux (kernel programming in the scheduling and virtual memory subsystems).
 - **Tools**
@@ -201,12 +201,12 @@ A verified record of reviews is available at <https://publons.com/author/1341957
 
 ## Participation in examination committees
 
-- Simone Dominico (PhD thesis, 2022).
-- Douglas Pereira Pasqualin (PhD thesis, 2021).
+- Simone Dominico (Ph.D. thesis, 2022).
+- Douglas Pereira Pasqualin (Ph.D. thesis, 2021).
 <!-- Caco: -->
 - Charles Cardoso de Oliveira (Master's thesis, 2019).
 <!-- Marco student: -->
-- Tiago Rodrigo Kepe (PhD thesis, 2017).
+- Tiago Rodrigo Kepe (Ph.D. thesis, 2017).
 <!-- 2016 people: -->
 - João Paulo Tarasconi Ruschel (Undergraduate thesis, 2016).
 - Guilherme Grunewald de Magalhães (Undergraduate thesis, 2016).

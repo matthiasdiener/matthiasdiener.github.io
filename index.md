@@ -3,7 +3,7 @@ title: About
 ---
 
 **Matthias Diener**,
-PhD<br><br>
+Ph.D.<br><br>
 *The Center for Exascale-enabled Scramjet Design (CEESD)* and<br>
 *Parallel Programming Laboratory (PPL)*,<br>
 *National Center for Supercomputing Applications (NCSA)*,<br>
