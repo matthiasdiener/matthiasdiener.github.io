@@ -28,7 +28,7 @@ title: Publications
 
 1. **Matthias Diener**, Eduardo H. M. Cruz, Philippe O. A. Navaux. [“Modeling Memory Access Behavior for Data Mapping.”](https://doi.org/10.1177/1094342016640056) *International Journal of High Performance Computing Applications (IJHPCA)*, 2016.
 
-1. Francis B. Moreira, Marco A. Z. Alves, **Matthias Diener**, Philippe O. A. Navaux, Israel Koren. [“A Dynamic Block-Level Execution Profiler.”](https://doi.org/10.1016/j.parco.2016.01.010), *Parallel Computing (PARCO)*, 2016.
+1. Francis B. Moreira, Marco A. Z. Alves, **Matthias Diener**, Philippe O. A. Navaux, Israel Koren. [“A Dynamic Block-Level Execution Profiler.”](https://doi.org/10.1016/j.parco.2016.01.010) *Parallel Computing (PARCO)*, 2016.
 
 1. **Matthias Diener**, Eduardo H. M. Cruz, Marco A. Z. Alves, Philippe O. A. Navaux, Anselm Busse, Hans-Ulrich Heiss. [“Kernel-Based Thread and Data Mapping for Improved Memory Affinity.”](https://doi.org/10.1109/TPDS.2015.2504985) *IEEE Transactions on Parallel and Distributed Systems (TPDS)*, 2015.
 
@@ -38,14 +38,14 @@ title: Publications
 
 1. Eduardo H. M. Cruz, **Matthias Diener**, Philippe O. A. Navaux. [“Communication-Aware Thread Mapping Using the Translation Lookaside Buffer.”](https://doi.org/10.1002/cpe.3487) *Concurrency and Computation: Practice and Experience*, 2015.
 
-1. **Matthias Diener**, Eduardo H. M. Cruz, Philippe O. A. Navaux, Anselm Busse, Hans-Ulrich Heiß. [“Communication-Aware Process and Thread Mapping Using Online Communication Detection.”](https://doi.org/10.1016/j.parco.2015.01.005), *Parallel Computing (PARCO)*, 2015.
+1. **Matthias Diener**, Eduardo H. M. Cruz, Philippe O. A. Navaux, Anselm Busse, Hans-Ulrich Heiß. [“Communication-Aware Process and Thread Mapping Using Online Communication Detection.”](https://doi.org/10.1016/j.parco.2015.01.005) *Parallel Computing (PARCO)*, 2015.
 
 1. Eduardo H. M. Cruz, **Matthias Diener**, Marco A. Z. Alves, Philippe O. A. Navaux. [“Dynamic thread mapping of shared memory applications by exploiting cache coherence protocols.”](https://doi.org/10.1016/j.jpdc.2013.11.006) *Journal of Parallel and Distributed Computing (JPDC)*, 2014.
 
 
 ## Conferences
 
-1. Douglas Pereira Pasqualin, **Matthias Diener**, André Rauber Du Bois, Maurício Lima Pilla. [“Sharing-Aware Data Mapping in Software Transactional Memory.”]() *International Conference on Embedded Computer Systems: Architectures, Modeling and Simulation (SAMOS)*, 2021.
+1. Douglas Pereira Pasqualin, **Matthias Diener**, André Rauber Du Bois, Maurício Lima Pilla. [“Sharing-Aware Data Mapping in Software Transactional Memory.”](https://doi.org/10.1007/978-3-031-04580-6_32) *International Conference on Embedded Computer Systems: Architectures, Modeling and Simulation (SAMOS)*, 2021.
 
 1. Douglas Pereira Pasqualin, **Matthias Diener**, André Rauber Du Bois, Maurício Lima Pilla. [“Characterizing the Sharing Behavior of Applications using Software Transactional Memory.”](https://doi.org/10.1007/978-3-030-71058-3_1) *International Symposium on Benchmarking, Measuring and Optimizing (Bench)*, 2020. **Award for Best Paper** and **Award for Excellence for Reproducible Research.**
 
