@@ -103,18 +103,22 @@ My research goals are the optimization of parallel applications running on large
 	- *Parallel and Distributed Processing:* 	Graduate-level course. Developed part of the lecture material. Responsible for part of the lectures, lab and homework assignments, and exams.
  -->
 
-## Technical Proficiencies
+## Technical Skills
 
-- **Programming languages and runtimes**
-  - Python, C, C++, OpenMP, OpenCL, CUDA, MPI, Charm++, Shell (Bash).
+- **Programming languages**
+  - Currently using: Python, C, C++, Shell (Bash).
+  - Previously used: Rust, Java, Fortran, x86 Assembly.
 - **Operating systems**
   - Linux (kernel programming in the scheduling and virtual memory subsystems).
 - **Tools**
+  - HPC frameworks: OpenMP, MPI, Charm++, OpenCL, CUDA.
   - Performance analysis: pyinstrument, vmprof, perf, Intel vTune/PCM, gprof, nvprof, rocprof.
   - Benchmark suites: NAS-NPB, PARSEC, Rodinia, SPEC OMP2001/2012, SPEC CPU2006.
   - Applications: MIRGE-Com, PlasCom2, PlasComCM.
   - Simulation: Intel Pin, Simics, Gem5.
   - CI/CD: GitHub Actions, GitLab CI; Pytest testing framework; automated deployment workflows to PyPI.
+  - Virtualization/Containers: Docker, QEMU.
+  - Databases: SQLite.
   - LLM-assisted development: Integrated large language models (LLMs)  into development workflows for pair programming, rapid prototyping, and automated Python type annotations, among others.
 
 ## Awards
