@@ -8,7 +8,7 @@ pdf: cv.md publications.md
 	mv cv.md.bak cv.md
 
 	cp cv.md cv.md.bak
-	sed -i.bak2 's/title: .*/title: Matthias Diener, Ph.D. -- Resume/' cv.md
+	# sed -i.bak2 's/title: .*/title: Matthias Diener, Ph.D. -- Resume/' cv.md
 	sed -i.bak2 's/CV/Resume/' cv.md
 	sed -i.bak2 's/{:/{/' cv.md
 	sed -i.bak2 '/^## Languages/,/^## Publications/{/^## Publications/!d;}' cv.md
