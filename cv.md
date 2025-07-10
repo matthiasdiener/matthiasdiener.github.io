@@ -16,6 +16,7 @@ header-includes: |
     \usepackage{titling}
     \setlength{\droptitle}{-1.5cm}
     \posttitle{\end{center}\vspace*{-1.2cm}}
+    \hyphenpenalty=10000
 ---
 
 ## Contact
@@ -25,7 +26,7 @@ header-includes: |
 ![](email.png){: height="14px" } <mdiener@illinois.edu> • <matthias.diener@gmail.com>\
 ![](web.png){: height="15px" } <https://matthiasdiener.github.io>\
 ![](github.png){: height="15px" } <https://github.com/matthiasdiener>\
-![](phone.png){: height="15px" } +1 (413)-317-1713
+![](phone.png){: height="15px" } +1 (413) 317-1713
 
 National Center for Supercomputing Applications (NCSA)\
 University of Illinois Urbana-Champaign
