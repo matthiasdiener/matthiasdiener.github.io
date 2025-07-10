@@ -229,8 +229,7 @@ A verified record of reviews is available at <https://publons.com/author/1341957
 
 ## Publications
 
-More than 60 peer-reviewed publications with over 1200 citations (h-index: 20). A list of publications and citations is available on:
+More than 60 peer-reviewed publications with over 1200 citations (h-index: 20). A list of publications and citations is available on my [Google Scholar profile](https://scholar.google.com/citations?user=LiU7uKIAAAAJ).
 
-- Google Scholar: <https://scholar.google.com/citations?user=LiU7uKIAAAAJ>
-- Scopus: <https://www.scopus.com/authid/detail.uri?authorId=36617072900>
-- Semantic Scholar: <https://www.semanticscholar.org/author/M.-Diener/1734736>
+<!-- - Scopus: <https://www.scopus.com/authid/detail.uri?authorId=36617072900>
+- Semantic Scholar: <https://www.semanticscholar.org/author/M.-Diener/1734736> -->

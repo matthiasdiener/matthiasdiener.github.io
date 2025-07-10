@@ -1,8 +1,11 @@
 pdf: cv.md publications.md
 	cp cv.md cv.md.bak
+	cp publications.md publications.md.bak
 	sed -i.bak2 's/{:/{/' cv.md
-	sed -i.bak 's/title: .*/title: Matthias Diener, Ph.D. -- CV/' publications.md
+	sed -i.bak2 's/title: .*/title: Matthias Diener, Ph.D. -- CV/' publications.md
+	sed -i.bak2 '/Google Scholar profile/d' publications.md
 	pandoc cv.md publications.md -o cv_mdiener.pdf
+	rm publications.md.bak2
 	mv publications.md.bak publications.md
 	rm cv.md.bak2
 	mv cv.md.bak cv.md
