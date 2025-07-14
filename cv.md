@@ -40,9 +40,9 @@ My research goals are the optimization of parallel applications running on large
 
 - **High-Performance Computing (HPC):** Expertise in developing, optimizing, and maintaining HPC software for large-scale simulations. Emphasis on performance, memory efficiency, reproducibility, and cross-platform portability. Strong understanding of low-level computer architecture as well as Linux kernel programming.
 - **Scientific Software Engineering:** Proficient in Python, C/C++, OpenMP, and MPI; significant experience developing and maintaining complex codebases such as MIRGE-Com and Charm++; experience in development for accelerators (Nvidia GPUs (CUDA/OpenCL), AMD GPUs (OpenCL), and Intel Xeon Phi).
+- **Open Source Contributor:** Active contributor to major HPC, scientific computing, and Python ecosystem projects (PoCL, Spack, conda-forge, vmprof, pyinstrument, among others).
 <!-- - **Performance Optimization:** Demonstrated success in reducing compile times and memory usage, and in making builds deterministic and efficiently cacheable. -->
 <!-- - **Software Portability:** Proven ability to support and adapt scientific software to diverse hardware platforms (e.g., Delta, Tioga, Nvidia GPUs, AMD systems). -->
-- **Open Source Contributor:** Active contributor to major HPC, scientific computing, and Python ecosystem projects (PoCL, Spack, conda-forge, vmprof, pyinstrument, among others).
 <!-- - **Mentorship & Inclusion:** Committed to mentoring students and early-career researchers from underrepresented groups. -->
 
 
@@ -50,7 +50,7 @@ My research goals are the optimization of parallel applications running on large
 
 - **Research Scientist in Computer Science**, August 2021 -- present.
 	*National Center for Supercomputing Applications (NCSA), University of Illinois Urbana-Champaign*.
-    - Research in scientific and research computing for the development and implementation of software, tools and computational algorithms on current and forthcoming HPC platforms.
+    - Research in scientific computing focused on developing and implementing software, tools, and algorithms for current and next-generation HPC platforms.
     - *Determinism and reproducibility*: Developed data structures and algorithms for the deterministic and reproducible execution of distributed applications.
     - *Performance*: Developed methods to profile, track, and improve the performance of distributed applications.
     - *Memory*: Developed methods to detect, track, and fix memory leaks in distributed applications.
