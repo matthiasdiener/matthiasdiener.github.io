@@ -17,6 +17,9 @@ header-includes: |
     \setlength{\droptitle}{-1.5cm}
     \posttitle{\end{center}\vspace*{-1.2cm}}
     \hyphenpenalty=10000
+    \clubpenalty=10000
+    \widowpenalty=10000
+    \displaywidowpenalty=10000
 ---
 
 ## Contact
@@ -229,7 +232,7 @@ A verified record of reviews is available at <https://publons.com/author/1341957
 
 ## Publications
 
-More than 60 peer-reviewed publications with over 1200 citations (h-index: 20). A list of publications and citations is available on my [Google Scholar profile](https://scholar.google.com/citations?user=LiU7uKIAAAAJ).
+More than 60 peer-reviewed publications with over 1200 citations (h-index: 20). A full list of publications and citations is available on my [Google Scholar profile](https://scholar.google.com/citations?user=LiU7uKIAAAAJ).
 
 <!-- - Scopus: <https://www.scopus.com/authid/detail.uri?authorId=36617072900>
 - Semantic Scholar: <https://www.semanticscholar.org/author/M.-Diener/1734736> -->
