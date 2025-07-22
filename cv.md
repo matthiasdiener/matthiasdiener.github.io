@@ -116,7 +116,7 @@ My research goals are the optimization of parallel applications running on large
   - Linux (kernel programming in the scheduling and virtual memory subsystems).
 - **Tools**
   - HPC frameworks: OpenMP, MPI, Charm++, OpenCL, CUDA.
-  - Performance analysis: pyinstrument, vmprof, perf, Intel vTune/PCM, gprof, nvprof, rocprof.
+  - Performance analysis: pyinstrument, vmprof, perf, Intel vTune/PCM, gprof, nvprof, nvvp, rocprof.
   - Benchmark suites: NAS-NPB, PARSEC, Rodinia, SPEC OMP2001/2012, SPEC CPU2006.
   - Applications: MIRGE-Com, PlasCom2, PlasComCM.
   - Simulation: Intel Pin, Simics, Gem5.
@@ -205,7 +205,7 @@ A verified record of reviews is available at <https://publons.com/author/1341957
 
 - Douglas Pereira Pasqualin, *“Thread and Data Mapping in STM architectures.”* (Ph.D. thesis, co-advised with André Rauber Du Bois), 2021.
 - João Paulo Tarasconi Ruschel, *“Parallel Implementations of the Cholesky Decomposition on CPUs and GPUs.”* (Undergraduate thesis, co-advised with Philippe O. A. Navaux), 2016.
-- Supervised 4 students through research internships at NCSA.
+- Supervised 4 undergraduate students through research internships at NCSA.
 <!-- add Dev? --- No.-->
 <!-- add Annabelle? -->
 
