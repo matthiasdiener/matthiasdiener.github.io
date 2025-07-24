@@ -51,14 +51,14 @@ My research goals are the optimization of parallel applications running on large
 
 ## Work Experience
 
-- **Research Scientist in Computer Science**, August 2021 -- present.
+- **Research Scientist in Computer Science**, September 2021 -- present.
 	*National Center for Supercomputing Applications (NCSA), University of Illinois Urbana-Champaign*.
     - Research in scientific computing focused on developing and implementing software, tools, and algorithms for current and next-generation HPC platforms.
     - *Determinism and reproducibility*: Developed data structures and algorithms for the deterministic and reproducible execution of distributed applications.
     - *Performance*: Developed methods to profile, track, and improve the performance of distributed applications.
     - *Memory*: Developed methods to detect, track, and fix memory leaks in distributed applications.
 
-- **Postdoctoral researcher in Computer Science**, January 2017 -- July 2021.
+- **Postdoctoral researcher in Computer Science**, January 2017 -- August 2021.
 	*Coordinated Science Laboratory (CSL) and National Center for Supercomputing Applications (NCSA), University of Illinois Urbana-Champaign*.
     - *Memory affinity improvements in parallel systems:* Developed automatic mapping mechanisms to detect and optimize the memory access behavior of parallel applications, drastically improving performance and energy efficiency.
     - *Heterogeneous computing:* Designed a model for heterogeneous CPU+GPU computing with an adaptive load balancing scheme to distribute work, based on the OpenMP framework.
@@ -115,7 +115,7 @@ My research goals are the optimization of parallel applications running on large
 - **Operating systems**
   - Linux (kernel programming in the scheduling and virtual memory subsystems).
 - **Tools**
-  - HPC frameworks: OpenMP, MPI, Charm++, OpenCL, CUDA.
+  - HPC frameworks: OpenMP, MPI, OpenCL, CUDA, ROCm, Charm++, Charm4py, Adaptive MPI (AMPI).
   - Performance analysis: pyinstrument, vmprof, perf, Intel vTune/PCM, gprof, nvprof, nvvp, rocprof.
   - Benchmark suites: NAS-NPB, PARSEC, Rodinia, SPEC OMP2001/2012, SPEC CPU2006.
   - Applications: MIRGE-Com, PlasCom2, PlasComCM.
